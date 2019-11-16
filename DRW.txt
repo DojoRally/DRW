@@ -174224,3 +174224,4 @@ unmagnetical
 naperies
 marchite
 manometric
+anisotropal
