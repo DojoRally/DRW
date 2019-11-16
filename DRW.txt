@@ -152764,3 +152764,4 @@ sord
 adulterates
 angionosis
 urogenous
+telpheric
