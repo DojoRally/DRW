@@ -88515,3 +88515,4 @@ synchrony
 phocaenine
 cleidomancy
 fingertip
+opusculum
