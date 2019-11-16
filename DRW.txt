@@ -245855,3 +245855,4 @@ cfs
 kota
 moon
 obcuneate
+pluralized
