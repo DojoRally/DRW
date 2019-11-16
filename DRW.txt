@@ -240402,3 +240402,4 @@ joual
 postpredicament
 unmusted
 sememe
+eucaryote
