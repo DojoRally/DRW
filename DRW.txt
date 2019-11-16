@@ -132903,3 +132903,4 @@ desklike
 nontransposition
 deflagrations
 ignorantine
+gymnogen
