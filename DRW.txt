@@ -9041,3 +9041,4 @@ xerosere
 muriel
 ensheathe
 magnetofluidmechanic
+spheroidicity
