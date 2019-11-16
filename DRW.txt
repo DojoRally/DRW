@@ -26119,3 +26119,4 @@ amortised
 colombian
 sectionalize
 dovehouse
+noninterpolating
