@@ -10565,3 +10565,4 @@ seldseen
 wilson
 parasynthetic
 sozly
+typicum
