@@ -156142,3 +156142,4 @@ sagenesses
 diplopterous
 optimeter
 unmangled
+kataphoric
