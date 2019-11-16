@@ -103112,3 +103112,4 @@ spinacene
 unhot
 hawkies
 obconic
+clinodiagonal
