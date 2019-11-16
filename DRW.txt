@@ -21672,3 +21672,4 @@ tapestries
 optometrists
 swordsmen
 disorchard
+templize
