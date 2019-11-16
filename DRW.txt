@@ -132235,3 +132235,4 @@ viscosimetric
 omits
 ethal
 coning
+sulphohalite
