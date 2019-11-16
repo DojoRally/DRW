@@ -60279,3 +60279,4 @@ trivially
 oboli
 selfmovement
 bocasine
+geoscopic
