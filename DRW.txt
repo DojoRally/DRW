@@ -259995,3 +259995,4 @@ bushfighter
 unridged
 objects
 calascione
+shockability
