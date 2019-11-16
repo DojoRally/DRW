@@ -93512,3 +93512,4 @@ cistae
 semimonopoly
 harvestable
 fawning
+embroidery
