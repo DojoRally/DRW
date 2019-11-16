@@ -11995,3 +11995,4 @@ isobarism
 opuscula
 truckled
 fattable
+uncounterbalanced
