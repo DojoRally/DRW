@@ -230241,3 +230241,4 @@ flapped
 stephanurus
 demonstrater
 tuy
+phototheodolite
