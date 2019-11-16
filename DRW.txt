@@ -18572,3 +18572,4 @@ catapults
 pledable
 inconspicuous
 quagga
+isagogic
