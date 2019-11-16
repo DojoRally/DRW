@@ -24709,3 +24709,4 @@ coni
 catchpollery
 disable
 trilabiate
+allowable
