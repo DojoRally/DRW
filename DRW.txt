@@ -108346,3 +108346,4 @@ effigy
 rebeautify
 leptochlorite
 keratometric
+tweezer
