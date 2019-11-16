@@ -41536,3 +41536,4 @@ parsoning
 sulphurated
 grift
 intercircled
+categorial
