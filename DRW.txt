@@ -19255,3 +19255,4 @@ ruff
 percribration
 asymbolical
 pemphigus
+fasciolar
