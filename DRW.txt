@@ -16777,3 +16777,4 @@ als
 civile
 misrelation
 favouringly
+declaim
