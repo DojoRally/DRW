@@ -256230,3 +256230,4 @@ anecdotically
 deployments
 splotched
 bashing
+criticizable
