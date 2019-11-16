@@ -225801,3 +225801,4 @@ unabstractedness
 unrebukeable
 unadjoined
 attainers
+spacial
