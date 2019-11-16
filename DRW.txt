@@ -231028,3 +231028,4 @@ unfrangible
 overcured
 blowback
 waukit
+hysteresis
