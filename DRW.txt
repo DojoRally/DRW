@@ -5431,3 +5431,4 @@ vasospasm
 polygoneutism
 moronry
 unsanguine
+lemniscate
