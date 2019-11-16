@@ -165646,3 +165646,4 @@ learnable
 manumissive
 synodontid
 overattenuate
+amygdalic
