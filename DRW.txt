@@ -12108,3 +12108,4 @@ weakest
 auspice
 oscheal
 plantership
+memorableness
