@@ -81161,3 +81161,4 @@ tonoscope
 castane
 hyporchemata
 manageableness
+sphericities
