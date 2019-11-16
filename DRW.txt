@@ -195690,3 +195690,4 @@ patola
 archdespot
 spinnability
 ossature
+capacities
