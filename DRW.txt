@@ -147086,3 +147086,4 @@ hydrolant
 chickenwort
 rousseau
 potion
+alunite
