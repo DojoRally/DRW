@@ -135355,3 +135355,4 @@ sachets
 gapless
 repostulated
 heelposts
+nonstretchable
