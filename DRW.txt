@@ -2798,3 +2798,4 @@ cowboy
 nihil
 monophonies
 wantons
+compeller
