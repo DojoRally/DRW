@@ -25639,3 +25639,4 @@ abstricted
 gyrostat
 bombsight
 diphyodont
+subweight
