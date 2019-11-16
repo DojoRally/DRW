@@ -187462,3 +187462,4 @@ nullary
 nonpapistic
 overman
 testation
+spending
