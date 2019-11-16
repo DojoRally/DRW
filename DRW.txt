@@ -169990,3 +169990,4 @@ dichter
 context
 shatterer
 snubbing
+stagnate
