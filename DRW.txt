@@ -49867,3 +49867,4 @@ toroid
 bismite
 thyratron
 adjurors
+nitrobarite
