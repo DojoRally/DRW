@@ -154281,3 +154281,4 @@ solio
 robberproof
 umest
 rightish
+vernacularness
