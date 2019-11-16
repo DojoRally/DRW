@@ -16503,3 +16503,4 @@ retotal
 singultus
 polynesic
 tentwise
+semidigested
