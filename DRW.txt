@@ -12309,3 +12309,4 @@ cacking
 discontiguous
 homoiothermal
 animikite
+consumptive
