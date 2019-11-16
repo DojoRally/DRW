@@ -1596,3 +1596,4 @@ chrimsel
 albumins
 exclusionist
 galliard
+sesquiquadrate
