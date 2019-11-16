@@ -247241,3 +247241,4 @@ patronym
 bedrown
 frowziness
 decreation
+superexplicit
