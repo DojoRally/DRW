@@ -28511,3 +28511,4 @@ unpostponable
 stratifications
 unsweepable
 overgilds
+angka
