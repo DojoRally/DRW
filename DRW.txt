@@ -56556,3 +56556,4 @@ defences
 impairing
 shogging
 pictoradiogram
+rupees
