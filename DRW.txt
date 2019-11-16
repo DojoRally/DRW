@@ -123571,3 +123571,4 @@ fatherlike
 commorancy
 sagebrusher
 aspersorium
+lexic
