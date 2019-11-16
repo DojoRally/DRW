@@ -248395,3 +248395,4 @@ typewrite
 autostandardization
 felicide
 propriatory
+denegate
