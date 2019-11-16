@@ -7193,3 +7193,4 @@ ovatoellipsoidal
 preloaded
 crumbly
 gnathobasic
+caprioling
