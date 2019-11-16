@@ -183329,3 +183329,4 @@ feudum
 comparable
 ivresse
 childed
+apothems
