@@ -70309,3 +70309,4 @@ eliot
 chromonematal
 hypaton
 interstate
+tighten
