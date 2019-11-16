@@ -149593,3 +149593,4 @@ define
 inantherate
 helvella
 inceptively
+tegularly
