@@ -122815,3 +122815,4 @@ oracle
 savouringly
 loup
 gras
+truckle
