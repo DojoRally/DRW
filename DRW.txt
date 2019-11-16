@@ -2069,3 +2069,4 @@ unappropriateness
 islay
 petemen
 glossator
+hornlike
