@@ -130244,3 +130244,4 @@ mesquit
 calypter
 semisphere
 jehovistic
+pargasite
