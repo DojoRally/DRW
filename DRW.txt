@@ -69566,3 +69566,4 @@ linguists
 clavicornes
 crawberry
 turkification
+demilunes
