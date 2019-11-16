@@ -167076,3 +167076,4 @@ locomoted
 etching
 inswathes
 gallying
+pollarding
