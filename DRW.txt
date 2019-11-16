@@ -12363,3 +12363,4 @@ compd
 plantationlike
 telespectroscope
 pneumocele
+mormonite
