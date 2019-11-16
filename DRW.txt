@@ -153900,3 +153900,4 @@ nonsanction
 conule
 spratter
 chemicoluminescent
+resistive
