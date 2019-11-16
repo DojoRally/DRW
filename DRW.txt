@@ -86727,3 +86727,4 @@ civisms
 speediest
 unflattened
 unsuspended
+stroke
