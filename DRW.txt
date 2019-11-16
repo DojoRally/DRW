@@ -46640,3 +46640,4 @@ cozeier
 lative
 specif
 tertenant
+patrimonium
