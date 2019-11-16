@@ -10982,3 +10982,4 @@ bimotors
 repouring
 subgovernor
 uncoagulable
+compellation
