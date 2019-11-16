@@ -188288,3 +188288,4 @@ semistate
 isogynous
 elicitor
 foreimpression
+caveating
