@@ -20839,3 +20839,4 @@ proteus
 copses
 stopship
 electrodialyzer
+biochore
