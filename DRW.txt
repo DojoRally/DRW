@@ -112306,3 +112306,4 @@ sejunctly
 interscendent
 triatomic
 permutating
+collinearity
