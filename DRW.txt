@@ -217065,3 +217065,4 @@ poltfoot
 lucration
 recompensing
 overpart
+hangul
