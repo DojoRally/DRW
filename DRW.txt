@@ -141246,3 +141246,4 @@ dysadaptation
 lignicolous
 declaration
 linne
+deprecating
