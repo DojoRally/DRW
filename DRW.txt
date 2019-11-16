@@ -1366,3 +1366,4 @@ naphthinduline
 galleys
 linguinis
 antiunion
+spatulamancy
