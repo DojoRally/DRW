@@ -169722,3 +169722,4 @@ ejectives
 nonelevating
 mindless
 equisufficiency
+supari
