@@ -86936,3 +86936,4 @@ nonsimplicity
 snobol
 spectres
 cryptographical
+nonelectrical
