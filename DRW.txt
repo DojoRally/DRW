@@ -9598,3 +9598,4 @@ sextants
 psammophile
 benin
 adiaphonon
+sigmate
