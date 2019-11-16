@@ -1921,3 +1921,4 @@ platonize
 castellanus
 devocalised
 dimers
+retardants
