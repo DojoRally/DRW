@@ -227346,3 +227346,4 @@ platinized
 slatted
 perforated
 subeffective
+astatizer
