@@ -48187,3 +48187,4 @@ parlante
 asserted
 millimetmhos
 zingiberene
+nonequatorial
