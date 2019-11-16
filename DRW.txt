@@ -133484,3 +133484,4 @@ etymologization
 bicorne
 shipowner
 nonefficient
+longheaded
