@@ -102430,3 +102430,4 @@ intensify
 nodes
 misstyle
 mammalogical
+potencies
