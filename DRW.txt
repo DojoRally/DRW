@@ -21942,3 +21942,4 @@ gasiform
 anathem
 unsuperfluous
 retrencher
+aphorise
