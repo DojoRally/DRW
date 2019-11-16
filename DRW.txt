@@ -92856,3 +92856,4 @@ deadworks
 taenidium
 almsgiver
 teapot
+dilatometric
