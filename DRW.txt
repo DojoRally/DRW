@@ -229979,3 +229979,4 @@ pedestrianised
 phrygian
 steride
 gallet
+canarian
