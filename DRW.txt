@@ -15190,3 +15190,4 @@ nearsightedness
 reenlarge
 scalx
 periegetic
+eudromias
