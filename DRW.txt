@@ -185542,3 +185542,4 @@ nonesthetically
 uranotil
 ragbolt
 trigo
+spheroquartic
