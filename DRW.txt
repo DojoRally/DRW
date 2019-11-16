@@ -190575,3 +190575,4 @@ cockle
 precedently
 technicalization
 cgm
+pelargic
