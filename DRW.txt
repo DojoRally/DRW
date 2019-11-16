@@ -82885,3 +82885,4 @@ expresso
 leucoma
 degassed
 guarantorship
+isocline
