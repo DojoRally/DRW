@@ -2952,3 +2952,4 @@ semiroll
 terebridae
 deglutination
 freelance
+postglenoid
