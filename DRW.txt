@@ -143583,3 +143583,4 @@ firefanged
 autopotent
 inflictable
 faltered
+unadvantageous
