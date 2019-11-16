@@ -235585,3 +235585,4 @@ repoint
 apiaca
 weedery
 fancy
+superadjacently
