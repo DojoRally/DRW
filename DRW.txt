@@ -24276,3 +24276,4 @@ kraken
 spintext
 borazon
 clypei
+biotechs
