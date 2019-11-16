@@ -104386,3 +104386,4 @@ minikin
 tinhorn
 saturator
 intimal
+uncompetitively
