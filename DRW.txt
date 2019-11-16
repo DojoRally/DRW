@@ -27160,3 +27160,4 @@ duplexity
 membranophonic
 stavewise
 insecution
+spikiness
