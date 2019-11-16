@@ -91445,3 +91445,4 @@ transferer
 decode
 eupeptic
 lonesomely
+lecanomantic
