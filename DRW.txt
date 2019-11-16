@@ -43907,3 +43907,4 @@ mabyer
 didna
 opposit
 significand
+crippledom
