@@ -123375,3 +123375,4 @@ karyotype
 mimicked
 dolichohieric
 prefavorable
+stuboy
