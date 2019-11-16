@@ -261256,3 +261256,4 @@ deteriorations
 swagman
 outwatched
 pinnywinkles
+retinoscope
