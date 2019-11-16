@@ -94425,3 +94425,4 @@ grease
 castlewards
 diplomatists
 perigons
+stenothermy
