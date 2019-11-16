@@ -178395,3 +178395,4 @@ isamin
 ordainable
 assecurator
 cutworm
+usufruct
