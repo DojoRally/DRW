@@ -151707,3 +151707,4 @@ baronize
 hotelier
 caballed
 ruts
+uninflective
