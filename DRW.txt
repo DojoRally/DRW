@@ -83742,3 +83742,4 @@ perigean
 superemphasis
 polyarchies
 shunpiking
+counterglow
