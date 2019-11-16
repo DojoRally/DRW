@@ -5425,3 +5425,4 @@ boldfaces
 metanotal
 primacord
 phenic
+exquisitiveness
