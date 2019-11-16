@@ -241778,3 +241778,4 @@ hydrovane
 clavecin
 sulphurs
 prismatization
+texturally
