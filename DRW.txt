@@ -240186,3 +240186,4 @@ coverall
 gobangs
 intraspecies
 nonlicensable
+stanchable
