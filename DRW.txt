@@ -115614,3 +115614,4 @@ intercentrum
 descensory
 overmagnifying
 obtainer
+hexadic
