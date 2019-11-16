@@ -9774,3 +9774,4 @@ repositor
 nonadjustive
 deviancy
 gallate
+hypocopy
