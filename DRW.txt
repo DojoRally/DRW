@@ -103087,3 +103087,4 @@ cowgate
 unexact
 adjutor
 prelegatee
+nonextensibility
