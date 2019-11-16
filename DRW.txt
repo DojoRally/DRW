@@ -106523,3 +106523,4 @@ semiductile
 skeeters
 colias
 koiari
+unaffordable
