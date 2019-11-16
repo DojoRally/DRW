@@ -217991,3 +217991,4 @@ periostitic
 undulations
 spira
 credentials
+heliometrically
