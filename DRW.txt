@@ -240423,3 +240423,4 @@ nonancestral
 unfinite
 encipher
 skinflints
+resegregated
