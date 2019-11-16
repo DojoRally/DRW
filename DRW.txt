@@ -7127,3 +7127,4 @@ interregnum
 loveday
 mainprisor
 spectrohelioscopic
+nongenerically
