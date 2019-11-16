@@ -32817,3 +32817,4 @@ underquoting
 sexisms
 unimpairable
 balkish
+heterographic
