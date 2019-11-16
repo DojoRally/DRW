@@ -122094,3 +122094,4 @@ causations
 barrancas
 nonpermanence
 newsprint
+kurtas
