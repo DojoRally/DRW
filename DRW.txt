@@ -133673,3 +133673,4 @@ bards
 grugrus
 snoutiest
 unprophetic
+supervisorial
