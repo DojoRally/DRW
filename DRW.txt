@@ -10548,3 +10548,4 @@ semiannular
 biographers
 cantonize
 blastment
+chainlet
