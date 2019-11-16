@@ -185787,3 +185787,4 @@ nonspeculatory
 needlelike
 troglodytidae
 taurophobe
+velars
