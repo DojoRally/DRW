@@ -80049,3 +80049,4 @@ glaucophanize
 bobtailed
 mob
 bevoiled
+pentice
