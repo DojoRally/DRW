@@ -237215,3 +237215,4 @@ refurl
 foggy
 gainage
 anteroom
+unencroached
