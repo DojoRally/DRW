@@ -5060,3 +5060,4 @@ unsegmental
 coachability
 metis
 solomonic
+detonational
