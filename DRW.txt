@@ -67185,3 +67185,4 @@ pyrophoric
 charkas
 envelopes
 inactivated
+subobtuseness
