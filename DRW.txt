@@ -127860,3 +127860,4 @@ excitants
 undriven
 drawstring
 urethrorrhea
+untransitively
