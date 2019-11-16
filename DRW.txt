@@ -249061,3 +249061,4 @@ depredicate
 deflexion
 temporaneous
 parcelwise
+artisanship
