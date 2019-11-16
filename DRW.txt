@@ -187086,3 +187086,4 @@ frizes
 tittler
 heterophoric
 stacc
+unlabialised
