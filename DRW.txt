@@ -137839,3 +137839,4 @@ sporozoan
 monocarp
 stoichiometry
 korai
+cruciating
