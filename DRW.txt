@@ -249682,3 +249682,4 @@ nonpersistent
 roomy
 scepterdom
 visitant
+lenticle
