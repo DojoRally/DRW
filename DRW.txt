@@ -68634,3 +68634,4 @@ transmittances
 amalgamable
 bloodwite
 autarkic
+hamate
