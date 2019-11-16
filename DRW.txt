@@ -201262,3 +201262,4 @@ autoptic
 ruga
 tribuloid
 coursers
+luciferoid
