@@ -3037,3 +3037,4 @@ alarmable
 shatter
 untent
 misplay
+scriptorial
