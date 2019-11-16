@@ -19368,3 +19368,4 @@ intermittency
 inflecting
 kantars
 intercrinal
+aposteriori
