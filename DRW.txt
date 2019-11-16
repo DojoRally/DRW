@@ -256897,3 +256897,4 @@ eutaxy
 encephalomata
 emended
 gazump
+tensorial
