@@ -20067,3 +20067,4 @@ prismatize
 sty
 sunbathers
 perjinkities
+expedients
