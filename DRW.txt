@@ -24680,3 +24680,4 @@ typholysin
 chainon
 ligating
 spiteproof
+semiarc
