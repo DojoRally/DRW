@@ -31117,3 +31117,4 @@ jussives
 speculations
 gauds
 phalangology
+scapulohumeral
