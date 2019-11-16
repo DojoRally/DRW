@@ -8823,3 +8823,4 @@ sexivalent
 factrix
 obsoletes
 syncoms
+malkin
