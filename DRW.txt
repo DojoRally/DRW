@@ -108909,3 +108909,4 @@ colometric
 nowroze
 beaverpelt
 eranist
+tachoscope
