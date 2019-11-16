@@ -33184,3 +33184,4 @@ pilea
 mezuzot
 mufasal
 expunction
+tackifying
