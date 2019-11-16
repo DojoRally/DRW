@@ -112550,3 +112550,4 @@ wavebands
 juxta
 gypsums
 breakable
+hale
