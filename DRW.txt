@@ -33074,3 +33074,4 @@ wapping
 wellington
 pentarchs
 capsizable
+typecasting
