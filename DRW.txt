@@ -57999,3 +57999,4 @@ miscal
 beggable
 unprofoundness
 prompt
+scapiform
