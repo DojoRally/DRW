@@ -235257,3 +235257,4 @@ dipaschal
 actuate
 slowworms
 unproscriptively
+defatting
