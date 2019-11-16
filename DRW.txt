@@ -9772,3 +9772,4 @@ strands
 syphiloma
 repositor
 nonadjustive
+deviancy
