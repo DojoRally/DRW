@@ -7517,3 +7517,4 @@ saffrontree
 otocerebritis
 nucleoplasm
 unbanked
+hexoctahedral
