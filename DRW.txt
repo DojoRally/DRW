@@ -232651,3 +232651,4 @@ curtal
 synechthran
 alytarch
 depilitant
+teletactor
