@@ -35061,3 +35061,4 @@ obduracy
 bucephalus
 hypergols
 podargue
+stoke
