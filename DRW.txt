@@ -2967,3 +2967,4 @@ shaping
 doublethink
 nondissolving
 blooming
+covers
