@@ -177533,3 +177533,4 @@ phonemicize
 auntie
 participatress
 paleways
+hypokinesis
