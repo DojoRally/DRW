@@ -171264,3 +171264,4 @@ loupes
 substrate
 calcicole
 foramina
+spectroheliograph
