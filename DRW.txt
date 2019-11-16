@@ -111671,3 +111671,4 @@ stenches
 ferroelectrically
 cryptomonadina
 hemagglutination
+gyrostatics
