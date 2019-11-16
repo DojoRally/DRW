@@ -79535,3 +79535,4 @@ arthrotyphoid
 inhelde
 cebus
 loadable
+sporicidal
