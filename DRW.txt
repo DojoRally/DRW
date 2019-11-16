@@ -92429,3 +92429,4 @@ settimo
 scorners
 hyperaccuracy
 spicated
+discontinuousness
