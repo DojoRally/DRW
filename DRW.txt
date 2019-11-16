@@ -9651,3 +9651,4 @@ begs
 swathing
 rhodococcus
 archwise
+spaceward
