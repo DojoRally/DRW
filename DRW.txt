@@ -2330,3 +2330,4 @@ farad
 noncoherency
 unannexedness
 equivalenced
+limation
