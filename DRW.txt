@@ -20326,3 +20326,4 @@ fells
 tesselation
 preceptory
 invalescence
+leucic
