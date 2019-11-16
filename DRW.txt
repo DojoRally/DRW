@@ -2578,3 +2578,4 @@ phonotyper
 claps
 aveugle
 noninhabitance
+bakerite
