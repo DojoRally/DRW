@@ -297,3 +297,4 @@ prepueblo
 counterplotter
 locustelle
 localisms
+superseded
