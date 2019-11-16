@@ -1387,3 +1387,4 @@ lovable
 connation
 antinucleons
 extant
+opsistype
