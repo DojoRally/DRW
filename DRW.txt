@@ -243309,3 +243309,4 @@ credulities
 daffling
 irresistable
 compinge
+meteoromancy
