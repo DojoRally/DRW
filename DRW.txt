@@ -94135,3 +94135,4 @@ stacks
 pterotheca
 barrelhouse
 extrusion
+sorediate
