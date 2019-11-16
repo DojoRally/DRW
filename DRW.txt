@@ -236674,3 +236674,4 @@ mucid
 facebow
 disilluminate
 tabut
+charpoy
