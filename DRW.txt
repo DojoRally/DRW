@@ -254269,3 +254269,4 @@ busynesses
 collard
 foldwards
 outraves
+stagnates
