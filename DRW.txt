@@ -25763,3 +25763,4 @@ pagurid
 uninsolvent
 trauchles
 strigilation
+peripyloric
