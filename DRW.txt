@@ -188175,3 +188175,4 @@ expedient
 anorthoclase
 mxd
 petr
+plectron
