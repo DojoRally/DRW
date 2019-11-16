@@ -85013,3 +85013,4 @@ mesokurtic
 asparagus
 equispaced
 gastrosophy
+cratometric
