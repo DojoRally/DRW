@@ -12558,3 +12558,4 @@ circler
 subspecialization
 mesprise
 reduplicate
+kinetics
