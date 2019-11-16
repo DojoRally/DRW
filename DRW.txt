@@ -22718,3 +22718,4 @@ soldieries
 unnameability
 serpulidae
 anacoluthon
+statefully
