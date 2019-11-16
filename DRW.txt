@@ -228980,3 +228980,4 @@ sexagesimally
 equiexcellency
 torchons
 draconin
+lofting
