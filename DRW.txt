@@ -237200,3 +237200,4 @@ electrocutions
 enervation
 pressoreceptor
 scap
+refrangible
