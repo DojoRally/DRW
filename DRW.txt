@@ -135823,3 +135823,4 @@ myoneuralgia
 resolvers
 telethermograph
 ceraunia
+protococcal
