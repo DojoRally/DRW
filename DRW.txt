@@ -226909,3 +226909,4 @@ rationed
 sparver
 tincals
 gablet
+sclerotoid
