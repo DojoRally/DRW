@@ -20245,3 +20245,4 @@ honeycomb
 sulfopurpuric
 periotic
 penteconter
+burrstone
