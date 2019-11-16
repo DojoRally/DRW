@@ -9028,3 +9028,4 @@ lecithal
 lyophobic
 flighting
 rhodothece
+nonpersistently
