@@ -144193,3 +144193,4 @@ monotypes
 septenarii
 choose
 consilience
+logocracy
