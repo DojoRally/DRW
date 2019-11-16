@@ -838,3 +838,4 @@ konyak
 nighted
 octangle
 quinarian
+encallow
