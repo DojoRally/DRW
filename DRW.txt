@@ -244509,3 +244509,4 @@ overdue
 vanquishable
 moderato
 teutonesque
+jughead
