@@ -5760,3 +5760,4 @@ putrefactive
 plumbet
 preacutely
 puled
+afresh
