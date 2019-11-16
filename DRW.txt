@@ -26410,3 +26410,4 @@ woolsorter
 purchasable
 nonascendancy
 reeledone
+assonants
