@@ -6650,3 +6650,4 @@ rockery
 paperhangers
 minotaur
 purpart
+conidia
