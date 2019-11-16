@@ -186968,3 +186968,4 @@ rightforth
 argand
 gutturalise
 rugged
+continual
