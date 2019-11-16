@@ -11221,3 +11221,4 @@ typeout
 naught
 uninwoven
 decimeter
+jumpness
