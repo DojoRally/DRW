@@ -86620,3 +86620,4 @@ illiteracies
 glycans
 multiaxial
 lecanorine
+postvocalically
