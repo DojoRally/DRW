@@ -1389,3 +1389,4 @@ antinucleons
 extant
 opsistype
 phosphatisation
+armozine
