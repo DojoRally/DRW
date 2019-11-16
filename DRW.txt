@@ -89711,3 +89711,4 @@ shroffs
 prosecutory
 oversimplify
 triserially
+decremental
