@@ -209317,3 +209317,4 @@ exopt
 seism
 exsolved
 epilemmal
+streptomycetes
