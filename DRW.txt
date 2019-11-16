@@ -203842,3 +203842,4 @@ hewer
 steen
 hypoeutectic
 homoclinal
+speck
