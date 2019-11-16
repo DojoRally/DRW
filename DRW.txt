@@ -194756,3 +194756,4 @@ sobber
 halyard
 windplayer
 garlandage
+kopeck
