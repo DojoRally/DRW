@@ -361,3 +361,4 @@ cataphoresis
 graveness
 ontogeneses
 trierarchies
+haltingness
