@@ -81804,3 +81804,4 @@ tessara
 lomonite
 streamliner
 nuts
+stereotypable
