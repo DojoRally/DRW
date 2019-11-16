@@ -28662,3 +28662,4 @@ baryte
 infile
 detachedly
 dzeron
+proverb
