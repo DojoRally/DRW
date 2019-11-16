@@ -119318,3 +119318,4 @@ noncivilizable
 dilettantes
 restringe
 stowp
+moveless
