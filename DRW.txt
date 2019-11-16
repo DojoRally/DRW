@@ -2896,3 +2896,4 @@ emuls
 unvertical
 obscurities
 torte
+triangularly
