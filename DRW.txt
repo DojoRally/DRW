@@ -117526,3 +117526,4 @@ ostension
 knuckle
 cavin
 unpronounced
+spiroscope
