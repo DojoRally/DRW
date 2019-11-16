@@ -122251,3 +122251,4 @@ inferoposterior
 hermitical
 macrotherm
 hydroptic
+leucocratic
