@@ -231040,3 +231040,4 @@ giggles
 unslinging
 unhazardous
 insheath
+nonspinning
