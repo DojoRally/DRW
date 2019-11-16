@@ -205066,3 +205066,4 @@ bipedal
 undiurnal
 solidate
 lamelliform
+garrotted
