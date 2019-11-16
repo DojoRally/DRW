@@ -6274,3 +6274,4 @@ pigboats
 tokay
 poetasters
 parallelization
+pentamery
