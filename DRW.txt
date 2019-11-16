@@ -202887,3 +202887,4 @@ regiven
 spectroradiometer
 perdue
 revisable
+quiescently
