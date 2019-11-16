@@ -22283,3 +22283,4 @@ tenderloin
 crony
 glimpses
 ligable
+hyperstrophic
