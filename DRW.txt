@@ -211207,3 +211207,4 @@ shales
 entelluses
 imbordure
 substituent
+lithos
