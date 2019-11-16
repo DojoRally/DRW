@@ -217755,3 +217755,4 @@ hyphenations
 mastications
 stepson
 cymballed
+intenable
