@@ -207020,3 +207020,4 @@ superexpand
 heddlemaker
 saracenian
 nonrevaluation
+entopic
