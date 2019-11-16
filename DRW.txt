@@ -142554,3 +142554,4 @@ expectance
 knittle
 reasserted
 triptote
+rebounce
