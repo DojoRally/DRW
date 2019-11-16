@@ -100670,3 +100670,4 @@ ungarmented
 misedit
 sevenths
 nonsecular
+strikingness
