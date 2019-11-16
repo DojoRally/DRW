@@ -139169,3 +139169,4 @@ precompilation
 geodesic
 microstomatous
 foremast
+lorius
