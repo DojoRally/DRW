@@ -193314,3 +193314,4 @@ apolline
 archenia
 rapine
 neighborlikeness
+effector
