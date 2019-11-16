@@ -17640,3 +17640,4 @@ retardance
 premorse
 knevel
 unduplicability
+antiexpressiveness
