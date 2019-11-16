@@ -38223,3 +38223,4 @@ arced
 hanoi
 sorehearted
 moorishness
+hexes
