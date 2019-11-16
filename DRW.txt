@@ -74974,3 +74974,4 @@ mnemiopsis
 archdeacon
 hemialgia
 embrasure
+appulsive
