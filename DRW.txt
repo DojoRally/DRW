@@ -233732,3 +233732,4 @@ embedding
 defeatee
 pomey
 nonintermittence
+excitative
