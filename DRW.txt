@@ -35869,3 +35869,4 @@ disherited
 condensed
 counterpuncher
 noninheritabness
+avoidance
