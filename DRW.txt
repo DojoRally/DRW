@@ -2148,3 +2148,4 @@ unionoid
 nulliporous
 nucleolar
 supercargo
+stereoneural
