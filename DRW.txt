@@ -1618,3 +1618,4 @@ waac
 undercase
 provenience
 ethambutol
+lithia
