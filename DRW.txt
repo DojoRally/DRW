@@ -11198,3 +11198,4 @@ bulb
 gentlewomanlike
 darking
 bakelize
+intratelluric
