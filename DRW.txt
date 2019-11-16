@@ -105624,3 +105624,4 @@ nonparabolical
 chiromancy
 untrigonometric
 playwright
+halfness
