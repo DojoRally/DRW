@@ -49772,3 +49772,4 @@ alphabetizer
 bespouse
 polysomy
 mycenaean
+inferior
