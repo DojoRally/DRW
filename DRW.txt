@@ -197395,3 +197395,4 @@ syllabicness
 equiform
 forsaking
 bedlamps
+assimulate
