@@ -20108,3 +20108,4 @@ alkali
 orograph
 ventrosuspension
 sclerification
+deutonymph
