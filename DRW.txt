@@ -136638,3 +136638,4 @@ concerned
 resupposition
 nonalternating
 tafwiz
+aboral
