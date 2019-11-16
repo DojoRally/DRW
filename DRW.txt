@@ -14673,3 +14673,4 @@ tautest
 cheekbones
 tophi
 conciser
+negritic
