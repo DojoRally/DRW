@@ -18087,3 +18087,4 @@ unscaly
 census
 gneissic
 thermodynamician
+facultative
