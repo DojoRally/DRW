@@ -1961,3 +1961,4 @@ gained
 wellat
 monograms
 rewords
+laundered
