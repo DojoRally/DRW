@@ -192313,3 +192313,4 @@ quadmeter
 abbr
 obeyeo
 stultiloquious
+authoritative
