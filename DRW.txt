@@ -70008,3 +70008,4 @@ imparl
 centiday
 kalinite
 pseudomeric
+stingily
