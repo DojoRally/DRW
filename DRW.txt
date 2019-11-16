@@ -204787,3 +204787,4 @@ loudspeak
 unreckoned
 hypsophyll
 imbarking
+strophaic
