@@ -51901,3 +51901,4 @@ essences
 pneomanometer
 beerhouse
 incipit
+distemperature
