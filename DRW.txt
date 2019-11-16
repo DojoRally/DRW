@@ -48687,3 +48687,4 @@ sphaerium
 volatileness
 infair
 outdoes
+crusca
