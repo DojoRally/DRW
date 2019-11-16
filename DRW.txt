@@ -53935,3 +53935,4 @@ recalescing
 strikebreakers
 tetraselenodont
 pealike
+petrifaction
