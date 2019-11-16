@@ -229540,3 +229540,4 @@ amylases
 zaberma
 lumbriciform
 nondeterminism
+perfectivize
