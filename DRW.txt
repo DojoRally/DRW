@@ -69569,3 +69569,4 @@ turkification
 demilunes
 observancy
 upswarm
+ectropometer
