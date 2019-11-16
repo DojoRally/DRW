@@ -3818,3 +3818,4 @@ marcos
 calmnesses
 ville
 prepositions
+durative
