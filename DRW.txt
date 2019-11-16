@@ -168342,3 +168342,4 @@ counterstamp
 stathenries
 umpteens
 faradmeter
+pedesis
