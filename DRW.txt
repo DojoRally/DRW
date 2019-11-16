@@ -193179,3 +193179,4 @@ untangibleness
 ripsack
 foulness
 overbide
+stratagem
