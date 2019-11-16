@@ -79166,3 +79166,4 @@ owners
 baccar
 frontierlike
 wogulian
+abbreviate
