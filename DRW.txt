@@ -129032,3 +129032,4 @@ momser
 restitutive
 vapourish
 becheck
+astigmoscope
