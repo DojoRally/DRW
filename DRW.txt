@@ -92136,3 +92136,4 @@ lanternfish
 grognard
 pantascope
 plott
+newspapery
