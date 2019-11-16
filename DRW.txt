@@ -236195,3 +236195,4 @@ anaclitic
 unsplit
 unwinged
 vesiculiferous
+oversize
