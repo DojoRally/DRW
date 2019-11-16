@@ -188581,3 +188581,4 @@ landholdings
 moveables
 thoughtness
 anthozoon
+nonaculeate
