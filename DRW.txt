@@ -134642,3 +134642,4 @@ pantoscope
 croc
 hamamelin
 otocranic
+oppositive
