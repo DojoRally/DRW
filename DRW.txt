@@ -243151,3 +243151,4 @@ ludicrously
 pavetta
 trimotors
 elutriated
+elastance
