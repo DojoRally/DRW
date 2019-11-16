@@ -52866,3 +52866,4 @@ geochronologic
 guze
 nonretentive
 becrimson
+leucopyrite
