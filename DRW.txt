@@ -242376,3 +242376,4 @@ interpellant
 scride
 uncompoundedness
 chink
+planoconcave
