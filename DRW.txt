@@ -94823,3 +94823,4 @@ grype
 unlocalize
 neoterical
 sociolegal
+panegyry
