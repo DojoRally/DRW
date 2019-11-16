@@ -86253,3 +86253,4 @@ nomadism
 foryield
 calx
 persisted
+oscilloscope
