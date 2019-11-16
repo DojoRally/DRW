@@ -137504,3 +137504,4 @@ incident
 pseudoglottis
 asepsis
 americanisms
+anchorate
