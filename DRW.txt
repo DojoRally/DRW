@@ -230265,3 +230265,4 @@ scheming
 cardlike
 ako
 phonautograph
+roister
