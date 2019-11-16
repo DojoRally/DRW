@@ -68284,3 +68284,4 @@ aerocurve
 bellhop
 newlines
 pulpectomy
+monocerco
