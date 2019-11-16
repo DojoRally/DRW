@@ -12870,3 +12870,4 @@ literals
 nonidiomatical
 minimal
 scyllium
+superscribes
