@@ -238977,3 +238977,4 @@ amphicyon
 ranivorous
 stum
 tireman
+puromycin
