@@ -256923,3 +256923,4 @@ elides
 untheatric
 dissonancy
 rotatory
+rotatoplane
