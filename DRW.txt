@@ -94571,3 +94571,4 @@ panhandles
 sulfonyl
 velverets
 casthouse
+pentahedrical
