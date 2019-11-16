@@ -106179,3 +106179,4 @@ overmajority
 bargir
 unmodifiedness
 nonmentally
+configural
