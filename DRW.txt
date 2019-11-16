@@ -133472,3 +133472,4 @@ stringy
 purselike
 exacerbated
 altruisms
+uniaxal
