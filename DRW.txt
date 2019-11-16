@@ -203384,3 +203384,4 @@ palsying
 rigmarolic
 polymastigina
 zeroize
+litotes
