@@ -62594,3 +62594,4 @@ epiglottal
 squaliform
 nonspinosely
 exocoelum
+roral
