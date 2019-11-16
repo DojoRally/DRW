@@ -188510,3 +188510,4 @@ osiandrian
 deplane
 enumerability
 nonpermanency
+proscriptive
