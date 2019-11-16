@@ -149830,3 +149830,4 @@ pygmyisms
 valeted
 storier
 scandaliser
+latitudinary
