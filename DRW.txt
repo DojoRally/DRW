@@ -236700,3 +236700,4 @@ incurvated
 radioteria
 kickable
 tchapan
+spheraster
