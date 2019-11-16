@@ -1799,3 +1799,4 @@ barbeque
 orbicularly
 mesonotum
 karyologic
+restandardization
