@@ -205571,3 +205571,4 @@ alfur
 vignetter
 densitometer
 lanternleaf
+inefficiencies
