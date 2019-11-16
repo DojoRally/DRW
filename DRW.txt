@@ -184478,3 +184478,4 @@ hal
 goniometric
 tauricornous
 flaggelating
+nonexacting
