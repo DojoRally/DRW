@@ -238858,3 +238858,4 @@ underframework
 squilloid
 stanitsa
 acephalous
+nonenunciative
