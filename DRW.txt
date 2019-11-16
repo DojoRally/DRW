@@ -1149,3 +1149,4 @@ khussak
 pseudocorneous
 supremacy
 wakiup
+canvas
