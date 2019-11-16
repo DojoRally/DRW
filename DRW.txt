@@ -122520,3 +122520,4 @@ olaf
 exegeses
 subbase
 diphthonging
+isotone
