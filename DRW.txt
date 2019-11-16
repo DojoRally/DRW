@@ -67987,3 +67987,4 @@ multinominal
 protopine
 nidgety
 isseis
+regulatory
