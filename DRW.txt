@@ -142153,3 +142153,4 @@ semifriable
 pily
 sockets
 quadragesima
+fungistatically
