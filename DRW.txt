@@ -155621,3 +155621,4 @@ guana
 stenochromy
 intercessory
 inexpected
+hypsochromy
