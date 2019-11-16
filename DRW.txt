@@ -230268,3 +230268,4 @@ phonautograph
 roister
 regrew
 cleped
+diarist
