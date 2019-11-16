@@ -24868,3 +24868,4 @@ spiritualities
 serratodenticulate
 plucker
 fittage
+sinusoidal
