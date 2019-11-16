@@ -108318,3 +108318,4 @@ whistlers
 microammeter
 congoni
 microbarograph
+cheerly
