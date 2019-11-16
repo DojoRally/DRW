@@ -50367,3 +50367,4 @@ crusaders
 unplanted
 waragi
 turbanless
+apertures
