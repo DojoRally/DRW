@@ -87600,3 +87600,4 @@ subaduncate
 belash
 balangay
 stuped
+crossbow
