@@ -261057,3 +261057,4 @@ teleiosis
 selenotropy
 porkman
 photosensory
+resides
