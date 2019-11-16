@@ -235515,3 +235515,4 @@ nadirs
 cetonian
 hemiamb
 forgivableness
+stinging
