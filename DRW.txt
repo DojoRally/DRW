@@ -260467,3 +260467,4 @@ cursedest
 soccages
 spaced
 wraf
+regulative
