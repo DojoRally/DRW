@@ -8003,3 +8003,4 @@ counters
 untrifling
 carcanetted
 objecting
+champions
