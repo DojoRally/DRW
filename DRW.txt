@@ -130851,3 +130851,4 @@ degummer
 pikes
 autogyros
 deadwoods
+chamfers
