@@ -124420,3 +124420,4 @@ anklong
 squamosotemporal
 vocalics
 nonvocally
+izumi
