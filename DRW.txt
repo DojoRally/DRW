@@ -60094,3 +60094,4 @@ vaccinal
 circline
 taffies
 wearyingly
+noncirculating
