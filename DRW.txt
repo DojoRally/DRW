@@ -147416,3 +147416,4 @@ deprivers
 physiochemistry
 protogyny
 lexigraphical
+foreknowableness
