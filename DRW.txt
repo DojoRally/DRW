@@ -5574,3 +5574,4 @@ chapbook
 aftergame
 humorers
 satirizes
+nonaspirated
