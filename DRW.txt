@@ -228642,3 +228642,4 @@ hodometer
 dempster
 pedogenic
 prosaic
+scarcement
