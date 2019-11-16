@@ -5190,3 +5190,4 @@ noncognizance
 shagrag
 subtrapezoidal
 tab
+portances
