@@ -201594,3 +201594,4 @@ malagasy
 borrowable
 immunises
 nais
+camote
