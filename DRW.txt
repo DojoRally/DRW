@@ -53639,3 +53639,4 @@ entrant
 sneakbox
 isotropic
 scoparin
+chordally
