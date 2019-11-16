@@ -233105,3 +233105,4 @@ tetradynamious
 codesigns
 captioned
 amiant
+telescoped
