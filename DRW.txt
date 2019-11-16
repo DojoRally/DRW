@@ -246543,3 +246543,4 @@ lantern
 platycnemic
 gymnadenia
 gawn
+remanency
