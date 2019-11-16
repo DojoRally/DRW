@@ -205604,3 +205604,4 @@ isarioid
 nontransmittible
 disembarked
 pickaxing
+kol
