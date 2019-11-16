@@ -9821,3 +9821,4 @@ priestliest
 spongeflies
 perused
 seascapist
+devours
