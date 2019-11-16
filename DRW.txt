@@ -26586,3 +26586,4 @@ loggers
 assail
 conubium
 vampiric
+vitruvianism
