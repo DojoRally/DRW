@@ -141499,3 +141499,4 @@ grueler
 tempos
 reduplicature
 pluralization
+endurable
