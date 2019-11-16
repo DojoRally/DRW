@@ -104998,3 +104998,4 @@ deutschemark
 tranquilliser
 aljamia
 fossillike
+nonfreezable
