@@ -178543,3 +178543,4 @@ achakzai
 decelerator
 cols
 laryngopharynges
+penalties
