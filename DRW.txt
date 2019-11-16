@@ -32092,3 +32092,4 @@ nonresidual
 aversant
 palaeopotamology
 unspiralled
+regimentalled
