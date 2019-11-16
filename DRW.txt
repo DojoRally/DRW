@@ -61877,3 +61877,4 @@ tiddlywinker
 supersession
 noncombat
 duscle
+defunctionalization
