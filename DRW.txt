@@ -136430,3 +136430,4 @@ balt
 hust
 clime
 discobolus
+pseudostigmatic
