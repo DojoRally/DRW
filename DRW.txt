@@ -55529,3 +55529,4 @@ unhallow
 outlooks
 guessing
 nondomination
+synecdochically
