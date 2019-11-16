@@ -65543,3 +65543,4 @@ hoarsen
 intension
 stereocamera
 dauphiness
+galvanometric
