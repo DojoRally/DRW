@@ -205411,3 +205411,4 @@ karyotins
 inferobranchiate
 oozooid
 lineamental
+nontransposing
