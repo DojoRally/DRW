@@ -188116,3 +188116,4 @@ arcus
 cinematize
 venerial
 demodulate
+overscoring
