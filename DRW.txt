@@ -150492,3 +150492,4 @@ noncoercively
 xenomania
 storeship
 mossiness
+dihalide
