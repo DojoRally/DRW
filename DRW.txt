@@ -117800,3 +117800,4 @@ pedaller
 bowstaff
 glimmering
 falangism
+semiconic
