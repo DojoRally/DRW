@@ -106247,3 +106247,4 @@ photomicrographic
 hamantash
 crunch
 receive
+galut
