@@ -229175,3 +229175,4 @@ rotations
 wilderness
 biolytic
 spores
+exoascus
