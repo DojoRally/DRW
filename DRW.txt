@@ -257727,3 +257727,4 @@ belchers
 waxinesses
 orchestrater
 midsentence
+transpositional
