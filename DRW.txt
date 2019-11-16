@@ -187641,3 +187641,4 @@ tricompound
 autocollimate
 langaha
 pseudolegality
+scribal
