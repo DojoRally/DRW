@@ -66255,3 +66255,4 @@ appositive
 olympiad
 concolorous
 deformity
+rescales
