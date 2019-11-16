@@ -82981,3 +82981,4 @@ retail
 palindrome
 photozincotype
 unstable
+inerrant
