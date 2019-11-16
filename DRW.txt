@@ -140141,3 +140141,4 @@ picketed
 coin
 espavel
 phonolitic
+cardial
