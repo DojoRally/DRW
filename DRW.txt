@@ -2817,3 +2817,4 @@ rhopalic
 vadose
 trapezoidal
 hangars
+pleometrosis
