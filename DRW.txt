@@ -46796,3 +46796,4 @@ prickshot
 divinizes
 howff
 lunular
+multisegmented
