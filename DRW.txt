@@ -52822,3 +52822,4 @@ roughhew
 sustentate
 nondiabolical
 colorimetrical
+sine
