@@ -220653,3 +220653,4 @@ obduce
 materialised
 nutate
 mistrial
+enapt
