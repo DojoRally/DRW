@@ -5817,3 +5817,4 @@ manjak
 vietnamese
 bogart
 glideness
+rigorisms
