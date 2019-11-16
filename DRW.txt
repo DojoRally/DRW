@@ -50315,3 +50315,4 @@ syzygetic
 hypnotizable
 cigarfish
 propoma
+companionize
