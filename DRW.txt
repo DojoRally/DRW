@@ -8035,3 +8035,4 @@ periodide
 retent
 subeditorship
 trigger
+bors
