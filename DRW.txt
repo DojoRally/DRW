@@ -94460,3 +94460,4 @@ pedaler
 outvaunts
 pelite
 nasute
+vaunty
