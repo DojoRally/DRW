@@ -28924,3 +28924,4 @@ tristiloquy
 dihexahedral
 rinforzando
 evenhanded
+weariable
