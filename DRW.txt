@@ -34790,3 +34790,4 @@ cryptobatholithic
 catawba
 strage
 tinkliest
+degreewise
