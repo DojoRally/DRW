@@ -122579,3 +122579,4 @@ thalassophilous
 ovarioles
 spinulate
 safeguard
+noncurrent
