@@ -212764,3 +212764,4 @@ reequip
 foredoom
 cunningness
 unsinewing
+mingier
