@@ -208607,3 +208607,4 @@ phylacteries
 reendorsement
 countergage
 emulation
+entirety
