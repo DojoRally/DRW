@@ -59064,3 +59064,4 @@ skalds
 adenoidal
 matts
 synaloepha
+awaiting
