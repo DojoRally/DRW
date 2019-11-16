@@ -34581,3 +34581,4 @@ toreumatology
 weaponproof
 inflamers
 trichinal
+haptophoric
