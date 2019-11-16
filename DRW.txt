@@ -101566,3 +101566,4 @@ sapropelite
 resolvend
 corpuscularity
 bibionid
+endoplastular
