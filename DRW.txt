@@ -141192,3 +141192,4 @@ bitake
 lithophotogravure
 undistorted
 paradichlorobenzol
+plicatolobate
