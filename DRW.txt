@@ -200218,3 +200218,4 @@ nondefeasibility
 easterling
 boarts
 apricot
+oscillant
