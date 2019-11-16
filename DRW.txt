@@ -126451,3 +126451,4 @@ superpowers
 moromancy
 recolonized
 lairdie
+apodal
