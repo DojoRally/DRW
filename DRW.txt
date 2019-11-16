@@ -59620,3 +59620,4 @@ scolopendra
 hydrometric
 cephalotomy
 syntactics
+regularized
