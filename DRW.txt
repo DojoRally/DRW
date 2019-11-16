@@ -205932,3 +205932,4 @@ aftward
 armories
 politico
 lackadaisical
+transferable
