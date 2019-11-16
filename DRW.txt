@@ -8340,3 +8340,4 @@ fillister
 panzers
 paramedics
 residues
+talles
