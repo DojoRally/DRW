@@ -216729,3 +216729,4 @@ bluecoat
 asexualize
 choirman
 automatictacessing
+palatalization
