@@ -112444,3 +112444,4 @@ semifasciated
 amort
 multangle
 radiotelegram
+revenant
