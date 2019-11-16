@@ -227598,3 +227598,4 @@ pokeloken
 alumiferous
 shimmied
 demitrain
+demiwivern
