@@ -246360,3 +246360,4 @@ redux
 cotula
 idolothyte
 sycomore
+lottie
