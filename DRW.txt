@@ -23584,3 +23584,4 @@ quart
 landlock
 envassal
 botryomyces
+unindustrial
