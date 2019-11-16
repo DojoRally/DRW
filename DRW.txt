@@ -228883,3 +228883,4 @@ mockable
 hypofunction
 cataria
 monarchs
+mightier
