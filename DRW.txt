@@ -57668,3 +57668,4 @@ ecuelle
 despairer
 decipherable
 herat
+diagonalwise
