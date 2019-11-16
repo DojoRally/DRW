@@ -69370,3 +69370,4 @@ delater
 postsynaptically
 plemyrameter
 tamping
+afterpotential
