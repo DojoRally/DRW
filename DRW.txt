@@ -217377,3 +217377,4 @@ antipsoric
 insolidity
 redisplay
 unionisation
+birefraction
