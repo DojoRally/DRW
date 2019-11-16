@@ -187277,3 +187277,4 @@ diminishes
 affine
 glabrescent
 stalagmometric
+rectilineation
