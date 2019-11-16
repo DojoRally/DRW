@@ -215431,3 +215431,4 @@ taula
 spectrophone
 unwaked
 subsister
+pernea
