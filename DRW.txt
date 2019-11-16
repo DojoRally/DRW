@@ -192846,3 +192846,4 @@ clapt
 overgenerally
 nictation
 descendable
+accepts
