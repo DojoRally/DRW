@@ -210379,3 +210379,4 @@ subordinaries
 miniums
 inexhaustive
 peristylos
+adaptivity
