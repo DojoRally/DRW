@@ -18787,3 +18787,4 @@ subsuperficially
 hardboots
 depass
 noggen
+equiangularity
