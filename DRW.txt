@@ -94144,3 +94144,4 @@ lect
 halberdsman
 circumcenter
 sporoderm
+actg
