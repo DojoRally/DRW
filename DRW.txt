@@ -32690,3 +32690,4 @@ minimistic
 nonsensitivity
 boldin
 macroevolutionary
+revalorize
