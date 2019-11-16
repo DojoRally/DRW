@@ -26109,3 +26109,4 @@ stophound
 guarea
 makonde
 unsavagely
+unvocalized
