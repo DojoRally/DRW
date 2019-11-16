@@ -24905,3 +24905,4 @@ estoque
 wides
 antinormal
 daniglacial
+lentor
