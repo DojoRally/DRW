@@ -65817,3 +65817,4 @@ forejudgment
 fiacres
 eulogism
 vigesimal
+ponderment
