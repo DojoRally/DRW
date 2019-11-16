@@ -248265,3 +248265,4 @@ enmoss
 libellate
 nongerminative
 playstead
+conferrable
