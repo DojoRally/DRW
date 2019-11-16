@@ -138846,3 +138846,4 @@ fayence
 mackereling
 preminister
 libationary
+ptyalized
