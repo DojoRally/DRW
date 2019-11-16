@@ -121042,3 +121042,4 @@ dartling
 spirantism
 scandinavians
 flubbing
+hexasemic
