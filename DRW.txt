@@ -139670,3 +139670,4 @@ upperstocks
 rationalised
 shah
 steatomata
+revoicing
