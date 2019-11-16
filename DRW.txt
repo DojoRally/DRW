@@ -142810,3 +142810,4 @@ planable
 pitched
 undular
 sporuliferous
+mampara
