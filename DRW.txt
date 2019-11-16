@@ -33494,3 +33494,4 @@ antiopiumite
 localities
 prec
 pilsner
+chalcographic
