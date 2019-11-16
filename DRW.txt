@@ -15403,3 +15403,4 @@ uncurrentness
 uncurls
 frigiddaria
 nucleoalbumin
+lacunule
