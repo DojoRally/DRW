@@ -67950,3 +67950,4 @@ regulates
 tractrices
 multivoiced
 chiromancist
+stoun
