@@ -247482,3 +247482,4 @@ sexadecimal
 diastatic
 familist
 unreconciled
+dentistic
