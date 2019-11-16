@@ -238462,3 +238462,4 @@ pulvinus
 alterers
 defigure
 flossing
+dextral
