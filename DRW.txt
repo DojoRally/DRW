@@ -72895,3 +72895,4 @@ tss
 belshazzaresque
 mergence
 accustomized
+allosteric
