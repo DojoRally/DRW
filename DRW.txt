@@ -196607,3 +196607,4 @@ undivisive
 spotsman
 piffle
 nucleonics
+elaborations
