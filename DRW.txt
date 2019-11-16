@@ -152076,3 +152076,4 @@ depicters
 shammick
 betrothals
 farcelike
+inebriative
