@@ -86935,3 +86935,4 @@ rectrices
 nonsimplicity
 snobol
 spectres
+cryptographical
