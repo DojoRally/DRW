@@ -100019,3 +100019,4 @@ redistrain
 overslur
 exenterate
 sinistrously
+phonopore
