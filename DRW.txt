@@ -253433,3 +253433,4 @@ deregister
 uncases
 potash
 aoristic
+ingeminate
