@@ -250810,3 +250810,4 @@ lodgement
 heliographs
 muniment
 autoloader
+deuteronomic
