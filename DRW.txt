@@ -51569,3 +51569,4 @@ dingbat
 duellist
 suiones
 teleophore
+chanticleers
