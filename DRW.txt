@@ -94010,3 +94010,4 @@ synoptic
 kalokagathia
 reflectors
 microarchitecture
+crateful
