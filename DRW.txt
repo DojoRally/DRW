@@ -1504,3 +1504,4 @@ subdolousness
 subwealthy
 unabstract
 crowds
+cardinalism
