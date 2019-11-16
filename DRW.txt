@@ -103799,3 +103799,4 @@ pansophy
 canonistical
 gracileness
 homodermy
+sporification
