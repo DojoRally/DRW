@@ -8802,3 +8802,4 @@ heliochromotype
 umbellate
 alveola
 pugaree
+precompute
