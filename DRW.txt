@@ -122521,3 +122521,4 @@ exegeses
 subbase
 diphthonging
 isotone
+abayah
