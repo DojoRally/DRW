@@ -244884,3 +244884,4 @@ coaptate
 isoteniscope
 foliar
 clarseth
+gripping
