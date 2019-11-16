@@ -69828,3 +69828,4 @@ grusian
 pumpkinification
 continuum
 degeneration
+equiradical
