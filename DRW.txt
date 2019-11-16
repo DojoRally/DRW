@@ -106980,3 +106980,4 @@ kitar
 perpetually
 forget
 begripe
+nonspecial
