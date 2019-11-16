@@ -15343,3 +15343,4 @@ enwrite
 disobeyal
 gondola
 trentine
+transempirical
