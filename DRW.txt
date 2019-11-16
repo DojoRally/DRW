@@ -76503,3 +76503,4 @@ rosed
 timeward
 monticule
 unrealness
+slopewise
