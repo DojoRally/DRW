@@ -87409,3 +87409,4 @@ cotillon
 yolkier
 cycloheptane
 plotch
+nontelescopic
