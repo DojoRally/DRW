@@ -72830,3 +72830,4 @@ nonterminals
 solemnest
 vietminh
 overcunning
+phototachometer
