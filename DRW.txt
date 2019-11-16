@@ -33572,3 +33572,4 @@ explodable
 unsloped
 bluehearts
 corticotrophin
+wyver
