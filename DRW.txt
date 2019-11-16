@@ -179081,3 +179081,4 @@ elastometer
 pronunciamento
 ophthalmometer
 stravaiging
+characteristicalness
