@@ -48483,3 +48483,4 @@ doubtance
 washdays
 megavolt
 roentgenography
+precompare
