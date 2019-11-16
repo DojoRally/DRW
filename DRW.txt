@@ -132075,3 +132075,4 @@ fetials
 catti
 hafts
 sloka
+curculionid
