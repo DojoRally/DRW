@@ -255990,3 +255990,4 @@ prewash
 inflexive
 infeft
 dorcopsis
+coronale
