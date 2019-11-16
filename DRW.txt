@@ -249379,3 +249379,4 @@ gup
 synectic
 deformable
 ungospelled
+appositions
