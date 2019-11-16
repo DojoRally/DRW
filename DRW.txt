@@ -52748,3 +52748,4 @@ deviance
 erect
 macruran
 hemiprismatic
+lanciform
