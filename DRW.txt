@@ -140798,3 +140798,4 @@ denaturalized
 cypraeid
 circummigrate
 loggerheaded
+deforming
