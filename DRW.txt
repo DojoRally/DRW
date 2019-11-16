@@ -33570,3 +33570,4 @@ resurrectors
 dribber
 explodable
 unsloped
+bluehearts
