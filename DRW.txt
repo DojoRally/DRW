@@ -63787,3 +63787,4 @@ dualmutef
 peaking
 labiovelarization
 peptizable
+shrunken
