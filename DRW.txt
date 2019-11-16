@@ -100998,3 +100998,4 @@ haulabout
 bowler
 iridium
 trenchwork
+circumrotate
