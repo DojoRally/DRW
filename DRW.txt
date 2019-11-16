@@ -235225,3 +235225,4 @@ polyrhythmic
 postmundane
 mistakeproof
 hangs
+resolute
