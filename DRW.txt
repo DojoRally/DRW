@@ -1692,3 +1692,4 @@ squarable
 jinriki
 vorhand
 featheriness
+coud
