@@ -154375,3 +154375,4 @@ ametropic
 taurini
 secutor
 adjutant
+tallith
