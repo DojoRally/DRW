@@ -47974,3 +47974,4 @@ ribands
 prestrengthen
 sps
 psalterion
+stupefaction
