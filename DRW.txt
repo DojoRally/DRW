@@ -200502,3 +200502,4 @@ silicomethane
 mezcaline
 patronite
 cgs
+telescopic
