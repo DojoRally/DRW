@@ -57517,3 +57517,4 @@ reversi
 sheepless
 labialization
 cataspilite
+nonmomentariness
