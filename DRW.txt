@@ -19846,3 +19846,4 @@ polypody
 baleful
 kalamkari
 yatalite
+momenta
