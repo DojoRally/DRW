@@ -261075,3 +261075,4 @@ wristikin
 manipulatively
 syncraniate
 ageless
+telpath
