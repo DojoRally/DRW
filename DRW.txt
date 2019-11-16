@@ -85950,3 +85950,4 @@ phrenotropic
 polysuspensoid
 baviaantje
 terracer
+torpidness
