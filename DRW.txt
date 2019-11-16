@@ -85154,3 +85154,4 @@ homotherm
 giobertite
 cimmerian
 frieze
+vesiculating
