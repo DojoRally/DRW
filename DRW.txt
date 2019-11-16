@@ -132869,3 +132869,4 @@ wrizzled
 decastyle
 asak
 halophytic
+trunking
