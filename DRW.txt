@@ -165211,3 +165211,4 @@ chamoline
 counterpoises
 supralocally
 deconsecration
+oscillate
