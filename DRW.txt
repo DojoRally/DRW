@@ -8709,3 +8709,4 @@ notonectid
 imbalm
 tentaculated
 larynxes
+subacumination
