@@ -1261,3 +1261,4 @@ prosopis
 grunion
 disintegrate
 brutage
+sublunary
