@@ -256368,3 +256368,4 @@ joceline
 stormful
 pragmatics
 reconfigurability
+frangible
