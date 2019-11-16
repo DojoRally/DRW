@@ -157952,3 +157952,4 @@ pyrochlore
 supracondyloid
 epicele
 roper
+penuries
