@@ -231041,3 +231041,4 @@ unslinging
 unhazardous
 insheath
 nonspinning
+dynamograph
