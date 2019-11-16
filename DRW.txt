@@ -8302,3 +8302,4 @@ symboled
 glacialize
 nonintersectional
 pulldown
+encrinite
