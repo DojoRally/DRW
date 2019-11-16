@@ -804,3 +804,4 @@ neap
 button
 nonmystical
 insurrectionary
+effectuation
