@@ -32686,3 +32686,4 @@ braceleted
 polje
 incrustator
 goniaster
+minimistic
