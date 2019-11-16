@@ -8011,3 +8011,4 @@ ethionamide
 flags
 connotations
 effecting
+impromptu
