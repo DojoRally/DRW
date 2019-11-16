@@ -205942,3 +205942,4 @@ homonymy
 miscut
 cretize
 meliphagous
+allanites
