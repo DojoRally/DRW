@@ -5401,3 +5401,4 @@ turbinate
 stchi
 pollenigerous
 variadic
+duenesses
