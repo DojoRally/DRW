@@ -153655,3 +153655,4 @@ lineaments
 snoutless
 potamophobia
 waney
+avaunt
