@@ -67843,3 +67843,4 @@ drouthiness
 crashed
 congealability
 newfound
+nonisotropous
