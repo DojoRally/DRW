@@ -147256,3 +147256,4 @@ gastrostenosis
 wheatstalk
 orthophonic
 synchronized
+dextrorsely
