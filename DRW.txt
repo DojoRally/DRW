@@ -77664,3 +77664,4 @@ automaton
 interzonal
 cryonics
 uncontacted
+bloodstroke
