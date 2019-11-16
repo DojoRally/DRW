@@ -46046,3 +46046,4 @@ nicotia
 voltaelectric
 demultiplexers
 subparameter
+stalkable
