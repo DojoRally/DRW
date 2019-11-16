@@ -220509,3 +220509,4 @@ autoregulative
 wt
 polarimeter
 inmigrant
+majuscule
