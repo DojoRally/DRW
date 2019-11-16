@@ -27230,3 +27230,4 @@ coulometer
 hirundine
 paralysis
 pulsatilla
+halted
