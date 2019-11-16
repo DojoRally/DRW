@@ -66562,3 +66562,4 @@ ringlike
 euryte
 subaggregate
 caveae
+tyrosines
