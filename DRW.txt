@@ -257044,3 +257044,4 @@ jahvistic
 dauerschlaf
 mnemic
 doctrine
+strue
