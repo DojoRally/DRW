@@ -240091,3 +240091,4 @@ compressibilities
 protatic
 nonmimetic
 caracter
+trinitromethane
