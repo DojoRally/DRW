@@ -225940,3 +225940,4 @@ cladodont
 fabrications
 tampoon
 tricycled
+monospore
