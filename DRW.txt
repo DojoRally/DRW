@@ -174397,3 +174397,4 @@ khirkah
 pangamously
 unvariant
 intens
+directive
