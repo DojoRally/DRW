@@ -18717,3 +18717,4 @@ anglicize
 nonhereditariness
 pamperedness
 rasalhague
+proofness
