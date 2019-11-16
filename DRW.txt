@@ -2081,3 +2081,4 @@ avalanche
 manifolds
 microangstrom
 trappers
+pseudoleucite
