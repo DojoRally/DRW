@@ -17943,3 +17943,4 @@ shrinkproof
 ventrodorsal
 plaintive
 poem
+repetitory
