@@ -12468,3 +12468,4 @@ stemmata
 overimpressionable
 courge
 extrapopular
+extrusive
