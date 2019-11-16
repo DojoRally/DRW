@@ -197392,3 +197392,4 @@ goliath
 macrocentrus
 apraxic
 syllabicness
+equiform
