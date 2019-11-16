@@ -239385,3 +239385,4 @@ unmoldable
 photoetch
 semicoronate
 noncompetitiveness
+semifigurativeness
