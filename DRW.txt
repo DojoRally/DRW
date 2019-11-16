@@ -79384,3 +79384,4 @@ polyspore
 preenacted
 doubly
 achordal
+epiphanize
