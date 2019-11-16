@@ -585,3 +585,4 @@ pyretogenic
 keratocele
 tipsiness
 bankcards
+hypnotisable
