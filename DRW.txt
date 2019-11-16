@@ -59233,3 +59233,4 @@ thalian
 monophyodont
 prejudger
 changeful
+typeable
