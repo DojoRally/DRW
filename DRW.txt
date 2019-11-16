@@ -52536,3 +52536,4 @@ lowerer
 hesitatingness
 haematocyst
 invermination
+lucchese
