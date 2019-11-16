@@ -47076,3 +47076,4 @@ regionalization
 illiterature
 sanctology
 excepts
+transcribable
