@@ -4348,3 +4348,4 @@ recompete
 cowheel
 slent
 superinscribe
+wayfaring
