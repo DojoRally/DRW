@@ -239181,3 +239181,4 @@ steatite
 lewnite
 lettiga
 uncial
+monimostylic
