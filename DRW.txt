@@ -104562,3 +104562,4 @@ angelina
 implosive
 nonstock
 gablock
+allocatable
