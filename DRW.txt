@@ -843,3 +843,4 @@ oxysulphid
 gaufre
 antoniniani
 overcleverness
+expressiveness
