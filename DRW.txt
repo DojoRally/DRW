@@ -305,3 +305,4 @@ sonorescent
 remainder
 splicers
 venenates
+offerers
