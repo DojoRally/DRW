@@ -248008,3 +248008,4 @@ gombos
 sibbs
 putriform
 hondurean
+consonantness
