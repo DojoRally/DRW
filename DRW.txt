@@ -64829,3 +64829,4 @@ phascolomys
 unlikeable
 abalone
 smittleish
+cripple
