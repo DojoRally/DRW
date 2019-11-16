@@ -147496,3 +147496,4 @@ tephritic
 baroclinity
 swotters
 inertion
+idiomaticness
