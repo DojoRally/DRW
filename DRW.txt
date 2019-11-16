@@ -38461,3 +38461,4 @@ unchewableness
 resolvable
 sophronia
 calendulin
+reconfigures
