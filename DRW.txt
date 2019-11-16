@@ -64535,3 +64535,4 @@ golconda
 monoatomic
 aphorismic
 gentilitious
+detain
