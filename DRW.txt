@@ -19425,3 +19425,4 @@ tragoedia
 turbocompressor
 hatchminder
 rouleaus
+duodecagon
