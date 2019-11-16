@@ -123837,3 +123837,4 @@ stumpiness
 serofluid
 epoptic
 starwise
+acquired
