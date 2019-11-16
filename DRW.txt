@@ -42792,3 +42792,4 @@ longa
 subcontiguous
 tubeful
 adit
+pteron
