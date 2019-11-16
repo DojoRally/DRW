@@ -145788,3 +145788,4 @@ pulicid
 cryptanalyzing
 quails
 unitistic
+stagnating
