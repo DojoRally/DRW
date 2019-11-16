@@ -202935,3 +202935,4 @@ manhours
 electrotyped
 counterquip
 akroteria
+inamovable
