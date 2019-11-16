@@ -32081,3 +32081,4 @@ creolize
 unmythical
 infusoriform
 quadle
+exponentiate
