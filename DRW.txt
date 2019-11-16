@@ -2149,3 +2149,4 @@ nulliporous
 nucleolar
 supercargo
 stereoneural
+auriculoparietal
