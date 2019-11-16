@@ -16722,3 +16722,4 @@ navaid
 orthopnoea
 slobbering
 impassionable
+glumpiness
