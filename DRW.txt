@@ -5793,3 +5793,4 @@ fisher
 splinters
 acipenseres
 ecclesiological
+supererogated
