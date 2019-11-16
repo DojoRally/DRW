@@ -219209,3 +219209,4 @@ glint
 agateware
 versatile
 unvainly
+loculate
