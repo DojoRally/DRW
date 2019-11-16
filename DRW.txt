@@ -193355,3 +193355,4 @@ retroclusion
 semiconformity
 mussy
 nonrecessive
+lateralization
