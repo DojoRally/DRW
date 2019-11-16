@@ -88684,3 +88684,4 @@ indweller
 lunatic
 telegraph
 supernuity
+stationarity
