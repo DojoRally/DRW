@@ -221230,3 +221230,4 @@ epiphytous
 nunciatory
 tachometric
 chloroplastid
+rhizotaxis
