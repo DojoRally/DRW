@@ -34184,3 +34184,4 @@ cumulocirrus
 inkmaking
 vell
 ravelins
+campcraft
