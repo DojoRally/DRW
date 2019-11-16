@@ -189597,3 +189597,4 @@ gs
 feldspathoid
 sterelminthus
 adjusting
+allowed
