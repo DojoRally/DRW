@@ -152444,3 +152444,4 @@ produceableness
 euryclea
 flagmen
 tewtaw
+handspan
