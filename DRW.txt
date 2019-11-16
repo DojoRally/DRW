@@ -193972,3 +193972,4 @@ subpredicate
 duffels
 pollicar
 leptosome
+cuspal
