@@ -158683,3 +158683,4 @@ painterliness
 halting
 bromhydric
 bolshevist
+colortype
