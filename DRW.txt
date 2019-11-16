@@ -206063,3 +206063,4 @@ ahoy
 juncat
 habitatio
 warlow
+noninflectional
