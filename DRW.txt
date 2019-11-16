@@ -249059,3 +249059,4 @@ stagonospora
 supraposition
 depredicate
 deflexion
+temporaneous
