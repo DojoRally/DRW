@@ -223235,3 +223235,4 @@ scurvy
 sizzles
 unlearning
 inchangeable
+monoclinic
