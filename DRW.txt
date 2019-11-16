@@ -50530,3 +50530,4 @@ incantations
 spinneret
 nunnify
 dibbing
+colouristic
