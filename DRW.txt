@@ -86500,3 +86500,4 @@ irradiator
 hyenoid
 teentsier
 prankier
+scalings
