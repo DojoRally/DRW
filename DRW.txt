@@ -41900,3 +41900,4 @@ perseity
 hover
 milo
 scarabaeus
+cosmonautic
