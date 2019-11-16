@@ -230768,3 +230768,4 @@ overcharger
 friezing
 pregustator
 photometrist
+stamnos
