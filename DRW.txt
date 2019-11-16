@@ -58660,3 +58660,4 @@ undecorated
 rationalization
 electrolytic
 tyre
+laevorotatory
