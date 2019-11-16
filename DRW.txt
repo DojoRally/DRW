@@ -45713,3 +45713,4 @@ gusts
 significancies
 harmon
 coosify
+sonantal
