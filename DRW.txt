@@ -15567,3 +15567,4 @@ setiparous
 whitish
 lactochrome
 imprimitivity
+flushed
