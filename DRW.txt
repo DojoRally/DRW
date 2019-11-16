@@ -111936,3 +111936,4 @@ dereferences
 sideronym
 gormand
 noncivilized
+subconformable
