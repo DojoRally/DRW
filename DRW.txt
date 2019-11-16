@@ -255283,3 +255283,4 @@ legator
 punctator
 knobbler
 unsimulated
+specifier
