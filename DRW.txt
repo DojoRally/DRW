@@ -1524,3 +1524,4 @@ pujari
 stenocardia
 infraclavicular
 bony
+monedula
