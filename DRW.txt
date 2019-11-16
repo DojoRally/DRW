@@ -24142,3 +24142,4 @@ clarifiers
 eviternal
 forkedness
 superfetated
+faltering
