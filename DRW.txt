@@ -251079,3 +251079,4 @@ homopteron
 seg
 tactlessness
 specificize
+manifestedness
