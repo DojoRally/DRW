@@ -209587,3 +209587,4 @@ bureaux
 preexpand
 reedit
 jugerum
+lychnoscopic
