@@ -169774,3 +169774,4 @@ bellweather
 verbum
 epiploitis
 regretable
+resistate
