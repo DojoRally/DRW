@@ -142747,3 +142747,4 @@ leonhardite
 amphitrite
 arithmetics
 thrast
+decanormal
