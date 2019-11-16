@@ -199820,3 +199820,4 @@ synchronize
 choragic
 balante
 aspers
+tartanas
