@@ -93734,3 +93734,4 @@ noninfantry
 cosplendor
 downtrampling
 miscomplain
+kamerad
