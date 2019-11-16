@@ -5697,3 +5697,4 @@ picrite
 equiprobabilist
 upstreamward
 foresty
+arabesques
