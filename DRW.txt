@@ -204965,3 +204965,4 @@ champert
 criteria
 pedometrist
 sprier
+trisubstituted
