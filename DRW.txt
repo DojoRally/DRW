@@ -152789,3 +152789,4 @@ presume
 unknowledgeable
 decompensate
 tusky
+ataxia
