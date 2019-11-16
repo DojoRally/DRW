@@ -225322,3 +225322,4 @@ splayfoot
 eradiate
 binocles
 coincidency
+spearman
