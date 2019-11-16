@@ -228997,3 +228997,4 @@ haslock
 snapout
 galleon
 devitalizes
+retortive
