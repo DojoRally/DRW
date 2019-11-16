@@ -80048,3 +80048,4 @@ nephrostome
 glaucophanize
 bobtailed
 mob
+bevoiled
