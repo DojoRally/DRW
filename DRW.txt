@@ -89728,3 +89728,4 @@ heteromorphite
 dipyramidal
 isomagnetic
 tactoid
+culmigenous
