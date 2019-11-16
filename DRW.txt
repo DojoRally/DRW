@@ -186297,3 +186297,4 @@ sprightlily
 fronter
 murkier
 swasher
+canonicalizes
