@@ -177207,3 +177207,4 @@ offshoot
 xeromorphic
 penfieldite
 aloxite
+veskit
