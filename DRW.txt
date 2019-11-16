@@ -226688,3 +226688,4 @@ micropus
 monosymmetrical
 goalers
 yammerers
+galvanomagnet
