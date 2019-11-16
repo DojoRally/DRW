@@ -49964,3 +49964,4 @@ pavonian
 tweaked
 sideswipe
 nonalgebraically
+helispheric
