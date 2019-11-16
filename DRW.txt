@@ -86594,3 +86594,4 @@ providable
 telecommunication
 zither
 featherstitch
+synthetics
