@@ -49926,3 +49926,4 @@ acyls
 phoenicians
 phonophone
 neocracy
+nonmanually
