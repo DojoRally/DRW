@@ -30328,3 +30328,4 @@ precogitate
 ravagers
 scazon
 ghouls
+leatherworker
