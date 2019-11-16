@@ -2654,3 +2654,4 @@ tinclad
 dichoptic
 sautoir
 coseismal
+machineable
