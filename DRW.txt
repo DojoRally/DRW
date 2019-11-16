@@ -257784,3 +257784,4 @@ cantaloup
 clanking
 holeable
 loner
+syntactical
