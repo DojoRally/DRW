@@ -8258,3 +8258,4 @@ feedway
 groupoids
 semipolar
 chih
+labiovelar
