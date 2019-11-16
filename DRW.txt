@@ -74486,3 +74486,4 @@ swaver
 pyorrhoeal
 agronomically
 unweighted
+perioral
