@@ -220838,3 +220838,4 @@ unenlisted
 rifler
 ordinariness
 truantry
+pentagonal
