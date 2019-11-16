@@ -258661,3 +258661,4 @@ captainly
 nonattributive
 fafnir
 sockeye
+degusts
