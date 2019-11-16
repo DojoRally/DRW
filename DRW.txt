@@ -217792,3 +217792,4 @@ ametropia
 bulbocapnine
 kilkenny
 beaconing
+ellipticity
