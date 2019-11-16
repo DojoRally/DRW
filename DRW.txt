@@ -42411,3 +42411,4 @@ pyrognomic
 repurified
 kevels
 catbird
+pentads
