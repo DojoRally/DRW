@@ -177713,3 +177713,4 @@ baculi
 sarcosis
 rendlewood
 pachydactyl
+hemiataxy
