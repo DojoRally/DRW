@@ -66132,3 +66132,4 @@ unaffiliated
 dendral
 neurolemma
 retroconsciousness
+semispontaneousness
