@@ -137304,3 +137304,4 @@ flokite
 plush
 actuarial
 densely
+gyrometer
