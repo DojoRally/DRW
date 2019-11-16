@@ -64518,3 +64518,4 @@ misgives
 tented
 moderation
 toreador
+velicate
