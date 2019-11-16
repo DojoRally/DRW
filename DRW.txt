@@ -29655,3 +29655,4 @@ indecl
 quippu
 extracostal
 arette
+descript
