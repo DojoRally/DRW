@@ -1390,3 +1390,4 @@ extant
 opsistype
 phosphatisation
 armozine
+multiarticulated
