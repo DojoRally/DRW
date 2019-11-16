@@ -23411,3 +23411,4 @@ tiza
 coeditor
 quercinic
 hypinosis
+semiconsonant
