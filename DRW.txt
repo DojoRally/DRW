@@ -124939,3 +124939,4 @@ vanish
 nonperiodic
 backtalk
 concentrated
+eumeristic
