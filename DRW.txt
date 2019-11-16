@@ -177505,3 +177505,4 @@ debrominate
 pyroligneous
 uglis
 prentice
+chamfrain
