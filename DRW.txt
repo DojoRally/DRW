@@ -211470,3 +211470,4 @@ catalogue
 untabulated
 defaulting
 leftisms
+semelfactive
