@@ -214608,3 +214608,4 @@ isobase
 nonaccumulative
 speculist
 chayota
+spann
