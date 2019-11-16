@@ -31369,3 +31369,4 @@ illegalise
 spilling
 perihysteric
 entailment
+devising
