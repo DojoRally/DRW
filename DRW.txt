@@ -238188,3 +238188,4 @@ omnify
 semireflexiveness
 wheelage
 wakanda
+hexagonally
