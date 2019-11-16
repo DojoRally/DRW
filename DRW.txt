@@ -141194,3 +141194,4 @@ undistorted
 paradichlorobenzol
 plicatolobate
 bcf
+nonpolarizable
