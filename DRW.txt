@@ -109813,3 +109813,4 @@ unfrizzly
 noninvincibleness
 turacin
 corvktte
+homothermic
