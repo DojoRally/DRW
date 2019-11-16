@@ -4598,3 +4598,4 @@ smatch
 games
 pursers
 liminary
+loxodromically
