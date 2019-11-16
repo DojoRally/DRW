@@ -192772,3 +192772,4 @@ scattermouch
 unoccupied
 noncrinoid
 epionychia
+pinpoint
