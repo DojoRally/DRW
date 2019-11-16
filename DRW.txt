@@ -5671,3 +5671,4 @@ lootsmans
 hotch
 drayhorse
 clavus
+spindleshank
