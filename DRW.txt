@@ -23196,3 +23196,4 @@ breakfaster
 pronumber
 depressing
 uncourting
+casefy
