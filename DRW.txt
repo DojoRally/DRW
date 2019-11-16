@@ -239763,3 +239763,4 @@ labiovelarise
 coremorphosis
 typhlopid
 splenculus
+cardia
