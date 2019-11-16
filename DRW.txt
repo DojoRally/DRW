@@ -10814,3 +10814,4 @@ delimitation
 superspecialize
 reabbreviate
 polynomialist
+semidetachment
