@@ -48058,3 +48058,4 @@ maegbote
 millifarad
 involvements
 haspspecs
+crossgrainedness
