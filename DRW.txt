@@ -67761,3 +67761,4 @@ diagnosed
 luckily
 panuelos
 whittled
+gyrostats
