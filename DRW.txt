@@ -20697,3 +20697,4 @@ unsanctified
 russian
 savageness
 hypermnestic
+bisectrices
