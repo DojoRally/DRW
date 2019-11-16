@@ -12866,3 +12866,4 @@ microphysical
 preimagination
 irreciprocal
 azoxytoluidine
+literals
