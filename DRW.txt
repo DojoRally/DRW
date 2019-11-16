@@ -234741,3 +234741,4 @@ linguanasal
 diadic
 thunge
 avestan
+exostrae
