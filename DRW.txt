@@ -221231,3 +221231,4 @@ nunciatory
 tachometric
 chloroplastid
 rhizotaxis
+planiscope
