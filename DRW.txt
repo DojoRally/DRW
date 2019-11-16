@@ -190751,3 +190751,4 @@ nondefendant
 piebald
 mainlanders
 necking
+striated
