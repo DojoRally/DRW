@@ -240208,3 +240208,4 @@ lints
 thermanesthesia
 scatological
 flumed
+swingably
