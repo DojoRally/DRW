@@ -193545,3 +193545,4 @@ policeman
 superstrictly
 afoul
 checkstrap
+choriambic
