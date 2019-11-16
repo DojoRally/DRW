@@ -83822,3 +83822,4 @@ labiodental
 irritatory
 lat
 caudillo
+phototachometric
