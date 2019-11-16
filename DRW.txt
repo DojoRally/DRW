@@ -212317,3 +212317,4 @@ bandied
 telltruth
 shunted
 predacity
+statolatry
