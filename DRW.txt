@@ -220528,3 +220528,4 @@ uplake
 isothermical
 sweeping
 rectilinearly
+focalises
