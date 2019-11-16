@@ -82285,3 +82285,4 @@ eighth
 eoanthropus
 pindjajap
 proleptical
+diophantine
