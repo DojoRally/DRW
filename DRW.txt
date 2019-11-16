@@ -92243,3 +92243,4 @@ unspeller
 spermophiline
 unprettiness
 metonymically
+sculptograph
