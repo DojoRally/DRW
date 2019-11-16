@@ -2450,3 +2450,4 @@ sadnesses
 hispanism
 carbons
 polycythaemia
+osmium
