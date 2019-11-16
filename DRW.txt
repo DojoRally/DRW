@@ -135152,3 +135152,4 @@ maneuvrability
 nominative
 deflection
 amenable
+goring
