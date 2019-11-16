@@ -52286,3 +52286,4 @@ archplotter
 oatfowl
 guildsman
 perimetrium
+sticta
