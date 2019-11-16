@@ -61461,3 +61461,4 @@ appears
 metainfective
 overwove
 lightningproof
+semirotating
