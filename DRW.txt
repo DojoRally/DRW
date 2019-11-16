@@ -6150,3 +6150,4 @@ homophonous
 bibulus
 broggerite
 enteroneuritis
+unhasty
