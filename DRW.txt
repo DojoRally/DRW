@@ -193591,3 +193591,4 @@ equatorial
 nearabout
 coronagraphic
 skiverwood
+dialyser
