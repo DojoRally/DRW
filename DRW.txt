@@ -1814,3 +1814,4 @@ varitype
 isocitric
 overink
 tetanoid
+succorless
