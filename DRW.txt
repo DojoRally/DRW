@@ -174155,3 +174155,4 @@ mucoid
 dextropedal
 bigram
 betterment
+bannered
