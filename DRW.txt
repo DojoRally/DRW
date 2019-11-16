@@ -33622,3 +33622,4 @@ untempested
 malacopterygian
 cosmical
 endoaortitis
+descure
