@@ -69574,3 +69574,4 @@ prefract
 sequestrums
 petalodont
 aureola
+vibratile
