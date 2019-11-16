@@ -241916,3 +241916,4 @@ tablet
 tracheolingual
 gallivorous
 placidamente
+copunctal
