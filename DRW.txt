@@ -71798,3 +71798,4 @@ thersitical
 ghess
 precure
 countercause
+temperatures
