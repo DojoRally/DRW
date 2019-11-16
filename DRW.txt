@@ -108006,3 +108006,4 @@ simplicia
 corticoefferent
 tendment
 annealing
+trichromatic
