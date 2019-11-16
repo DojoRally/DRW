@@ -62592,3 +62592,4 @@ thermotactic
 unabrupt
 epiglottal
 squaliform
+nonspinosely
