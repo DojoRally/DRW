@@ -208958,3 +208958,4 @@ posteroinferior
 postmeridional
 divoto
 turgidness
+bifocal
