@@ -219891,3 +219891,4 @@ bridge
 clivis
 uspeaking
 geophyte
+foliaceousness
