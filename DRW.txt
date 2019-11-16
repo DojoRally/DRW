@@ -216315,3 +216315,4 @@ premosaic
 monias
 akhara
 nonhieratic
+zigamorph
