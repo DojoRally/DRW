@@ -222465,3 +222465,4 @@ nautiloid
 platytropy
 chekker
 buzukia
+obpyramidal
