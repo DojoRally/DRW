@@ -256306,3 +256306,4 @@ stickiness
 bullpout
 mitsukurina
 hypnic
+hexachlorocyclohexane
