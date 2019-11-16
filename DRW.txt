@@ -246790,3 +246790,4 @@ doctoring
 reaumur
 unhesitantly
 touristically
+definitional
