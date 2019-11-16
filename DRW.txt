@@ -202550,3 +202550,4 @@ fraenum
 loranthaceae
 anastrophe
 subobsolete
+dilapidate
