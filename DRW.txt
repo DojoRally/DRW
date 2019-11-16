@@ -188692,3 +188692,4 @@ glyptotherium
 paradoxographer
 sporogone
 cosiness
+pentadic
