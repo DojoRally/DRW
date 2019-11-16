@@ -25372,3 +25372,4 @@ trivalence
 notational
 enregistering
 chapelet
+genua
