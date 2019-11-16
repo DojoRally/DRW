@@ -22426,3 +22426,4 @@ allobars
 vitrum
 starshoot
 subconchoidal
+allowableness
