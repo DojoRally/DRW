@@ -196706,3 +196706,4 @@ currant
 enmeshes
 ouverte
 subvassalage
+pulverizable
