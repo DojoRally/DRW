@@ -25465,3 +25465,4 @@ autodermic
 amovable
 arsenostyracol
 brattiness
+armament
