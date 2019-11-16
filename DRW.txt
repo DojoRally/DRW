@@ -21075,3 +21075,4 @@ pakhtun
 haemad
 ripening
 treefish
+augurial
