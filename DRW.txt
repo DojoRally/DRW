@@ -253795,3 +253795,4 @@ gipsology
 figurants
 indecomposable
 programable
+asterioid
