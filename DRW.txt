@@ -113454,3 +113454,4 @@ staffish
 fumaroidal
 norn
 degaussed
+canalatura
