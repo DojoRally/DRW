@@ -2112,3 +2112,4 @@ tenon
 upwrench
 religioner
 packinghouse
+encincture
