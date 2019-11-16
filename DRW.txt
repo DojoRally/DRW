@@ -202895,3 +202895,4 @@ prosodics
 mistakableness
 monocrotic
 buoyage
+deficient
