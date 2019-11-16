@@ -24017,3 +24017,4 @@ relights
 upbreeze
 anteroventrally
 prosyllogism
+isotrope
