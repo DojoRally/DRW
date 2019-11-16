@@ -8710,3 +8710,4 @@ imbalm
 tentaculated
 larynxes
 subacumination
+hyperpolarize
