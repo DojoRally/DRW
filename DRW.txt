@@ -140981,3 +140981,4 @@ demitting
 cimnel
 overelaboration
 quailery
+overnarrowly
