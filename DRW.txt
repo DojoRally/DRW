@@ -85011,3 +85011,4 @@ apersee
 gerundial
 mesokurtic
 asparagus
+equispaced
