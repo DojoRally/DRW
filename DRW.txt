@@ -247340,3 +247340,4 @@ nonuniformity
 ennuyee
 ribble
 wordprocessors
+captived
