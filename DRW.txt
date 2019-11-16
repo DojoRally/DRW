@@ -86934,3 +86934,4 @@ hurlers
 rectrices
 nonsimplicity
 snobol
+spectres
