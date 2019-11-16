@@ -40411,3 +40411,4 @@ inspectioneer
 substantivity
 stercolin
 trenchful
+locutor
