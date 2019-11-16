@@ -214623,3 +214623,4 @@ sprigged
 operation
 filtrable
 photogenous
+bathochromy
