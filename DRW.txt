@@ -241068,3 +241068,4 @@ parametric
 diaclase
 contraparallelogram
 pinnatipartite
+anticrotalic
