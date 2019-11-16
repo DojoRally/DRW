@@ -251713,3 +251713,4 @@ sulphuration
 vaporlike
 barbatimao
 nonsynchronic
+illites
