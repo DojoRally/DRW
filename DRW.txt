@@ -241192,3 +241192,4 @@ pseudometamerism
 moph
 reanalyzed
 subdialects
+bantery
