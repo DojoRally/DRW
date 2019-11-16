@@ -39534,3 +39534,4 @@ definitize
 isatines
 fumigatories
 artless
+tricorn
