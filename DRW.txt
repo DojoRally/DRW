@@ -15323,3 +15323,4 @@ lamblike
 pretranscribe
 chouse
 leadwort
+pargeted
