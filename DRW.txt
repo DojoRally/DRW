@@ -10279,3 +10279,4 @@ multivalence
 redeploys
 temporalist
 sebiparous
+predicableness
