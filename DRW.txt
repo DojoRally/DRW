@@ -38582,3 +38582,4 @@ serail
 anisocotyly
 preimposed
 circularizes
+permutatory
