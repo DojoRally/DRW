@@ -89727,3 +89727,4 @@ heptadecane
 heteromorphite
 dipyramidal
 isomagnetic
+tactoid
