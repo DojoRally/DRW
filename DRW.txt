@@ -2815,3 +2815,4 @@ vestigian
 cyllenius
 rhopalic
 vadose
+trapezoidal
