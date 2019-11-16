@@ -3996,3 +3996,4 @@ unconformities
 acnode
 weevil
 unjewelled
+parolee
