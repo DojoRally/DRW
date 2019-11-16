@@ -240618,3 +240618,4 @@ outscore
 basilidian
 xenodocheion
 timpanist
+foci
