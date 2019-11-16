@@ -132791,3 +132791,4 @@ facellite
 recoat
 carried
 birimose
+risorse
