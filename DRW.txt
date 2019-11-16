@@ -197490,3 +197490,4 @@ ophthalmostat
 splenium
 prerecital
 viremic
+exarate
