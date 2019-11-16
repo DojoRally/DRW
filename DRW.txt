@@ -42904,3 +42904,4 @@ declinations
 ceteosaur
 metacarpals
 iridized
+deactivating
