@@ -154359,3 +154359,4 @@ extrajudicially
 sensu
 justiciaryship
 unanatomizable
+scimiter
