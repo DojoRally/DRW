@@ -209871,3 +209871,4 @@ cassiterite
 beewise
 researchist
 unindividuated
+unpropertied
