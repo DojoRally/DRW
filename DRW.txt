@@ -18555,3 +18555,4 @@ pleroma
 upbuoyance
 enchantment
 saxtuba
+weeklies
