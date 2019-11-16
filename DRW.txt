@@ -214713,3 +214713,4 @@ bundh
 wastern
 stalder
 izchak
+readapting
