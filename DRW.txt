@@ -95724,3 +95724,4 @@ actinonema
 terming
 isoclinal
 rupturable
+spangler
