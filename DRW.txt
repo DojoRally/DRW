@@ -65475,3 +65475,4 @@ decoctible
 pitchpole
 anaglyphs
 pseudolichen
+subspecialize
