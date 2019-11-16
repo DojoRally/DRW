@@ -2801,3 +2801,4 @@ wantons
 compeller
 haskard
 unterse
+unshorn
