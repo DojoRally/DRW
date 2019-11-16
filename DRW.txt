@@ -95795,3 +95795,4 @@ jussel
 protoceratops
 swords
 flocks
+osculatory
