@@ -254260,3 +254260,4 @@ lenition
 podobranch
 shivarees
 knave
+isogradient
