@@ -243312,3 +243312,4 @@ compinge
 meteoromancy
 parceling
 encefalon
+nondeclarative
