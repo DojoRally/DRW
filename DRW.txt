@@ -192782,3 +192782,4 @@ enteritidis
 scripless
 slatelike
 ethrogim
+barbal
