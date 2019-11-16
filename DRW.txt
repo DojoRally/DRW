@@ -129894,3 +129894,4 @@ ephemerist
 perigastrula
 decagram
 alkalinising
+deceases
