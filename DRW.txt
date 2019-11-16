@@ -183653,3 +183653,4 @@ costumiers
 indicate
 holosomata
 circularness
+decahedra
