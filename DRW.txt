@@ -217509,3 +217509,4 @@ nondeprecatory
 spanish
 mesospore
 casualty
+semicyclic
