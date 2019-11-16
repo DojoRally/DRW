@@ -23909,3 +23909,4 @@ assets
 firry
 octocentenary
 ambo
+monthly
