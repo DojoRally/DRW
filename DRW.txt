@@ -58901,3 +58901,4 @@ fomenters
 chairmending
 acre
 impastos
+applicabilities
