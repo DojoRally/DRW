@@ -32880,3 +32880,4 @@ anschluss
 hallot
 feudatories
 reales
+obligistic
