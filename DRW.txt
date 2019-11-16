@@ -138069,3 +138069,4 @@ batterable
 stooled
 sepiolite
 peripheral
+colophene
