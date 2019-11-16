@@ -226595,3 +226595,4 @@ garrotting
 idenitifiers
 shipowning
 indorsor
+whalers
