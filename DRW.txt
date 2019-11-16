@@ -241195,3 +241195,4 @@ subdialects
 bantery
 accidentalism
 contignation
+articulate
