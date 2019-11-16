@@ -23669,3 +23669,4 @@ preenumeration
 cryptophytic
 sesquisulphide
 ballastage
+nonrefrigerant
