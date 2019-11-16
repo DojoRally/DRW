@@ -88829,3 +88829,4 @@ darkeners
 peroses
 capreolate
 patencies
+stor
