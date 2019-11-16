@@ -112442,3 +112442,4 @@ indemnity
 semideific
 semifasciated
 amort
+multangle
