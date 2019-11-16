@@ -172726,3 +172726,4 @@ canceled
 sissified
 truantcy
 abase
+nonvacuous
