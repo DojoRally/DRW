@@ -47538,3 +47538,4 @@ portrayable
 sinker
 manlikeness
 petter
+phonendoscope
