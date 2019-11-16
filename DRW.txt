@@ -150946,3 +150946,4 @@ episyntheton
 knuckly
 tetrodon
 manufaction
+autoscopic
