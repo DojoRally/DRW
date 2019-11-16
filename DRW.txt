@@ -1810,3 +1810,4 @@ preglacial
 tuno
 umbrages
 misdating
+varitype
