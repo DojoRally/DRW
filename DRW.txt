@@ -28415,3 +28415,4 @@ mainswear
 eidetic
 cabinlike
 endorsement
+apomictically
