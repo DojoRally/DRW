@@ -138571,3 +138571,4 @@ ogive
 aspermatism
 antelucan
 pantameter
+trigesimal
