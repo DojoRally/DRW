@@ -8804,3 +8804,4 @@ alveola
 pugaree
 precompute
 antennular
+equivoluminal
