@@ -141500,3 +141500,4 @@ tempos
 reduplicature
 pluralization
 endurable
+reconvergence
