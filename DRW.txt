@@ -198329,3 +198329,4 @@ unspiable
 waterings
 akinetic
 float
+styptical
