@@ -132785,3 +132785,4 @@ pyrocrystalline
 aubrite
 cystonectous
 avaremotemo
+destabilized
