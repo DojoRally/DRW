@@ -195862,3 +195862,4 @@ subchairman
 tamaracks
 dysenteries
 underlevel
+pyrheliometer
