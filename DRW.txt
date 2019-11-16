@@ -42567,3 +42567,4 @@ semideafness
 althein
 overstep
 cafetorium
+antimonite
