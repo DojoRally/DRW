@@ -28719,3 +28719,4 @@ lacertoid
 relaster
 starvation
 amoinder
+wasteful
