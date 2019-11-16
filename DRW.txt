@@ -161448,3 +161448,4 @@ vivas
 capitalising
 emboldening
 nondetest
+spectrographer
