@@ -8646,3 +8646,4 @@ pennariidae
 formidable
 entrelac
 lehrbachite
+magnetizability
