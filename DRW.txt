@@ -137922,3 +137922,4 @@ intumescent
 aqueous
 acosmic
 braiding
+decurrency
