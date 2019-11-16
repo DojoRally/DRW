@@ -168405,3 +168405,4 @@ squawker
 unsearchable
 crimeproof
 nonadaptability
+curtalax
