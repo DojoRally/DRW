@@ -9533,3 +9533,4 @@ capability
 approachability
 myxospongian
 hypomania
+nonfeasibility
