@@ -48372,3 +48372,4 @@ fine
 homoiothermy
 nonchalant
 intercepting
+stemming
