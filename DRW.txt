@@ -170246,3 +170246,4 @@ egoistical
 overcompound
 misworship
 subsumptive
+monotonic
