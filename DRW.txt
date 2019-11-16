@@ -48119,3 +48119,4 @@ folium
 soliloquised
 disinformation
 switchy
+regurgitate
