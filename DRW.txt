@@ -213512,3 +213512,4 @@ physostomous
 quadragintesimal
 uplifting
 glasswork
+openable
