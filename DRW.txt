@@ -6224,3 +6224,4 @@ fibroins
 unhid
 curwhibble
 resinification
+perhalide
