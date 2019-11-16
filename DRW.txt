@@ -131772,3 +131772,4 @@ carlishness
 striolate
 baric
 churchgrith
+tetrachord
