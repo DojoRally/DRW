@@ -255234,3 +255234,4 @@ floscular
 duotriode
 telchinic
 phlebotomised
+coelostat
