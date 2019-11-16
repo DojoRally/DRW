@@ -152194,3 +152194,4 @@ splanchnoblast
 ferruminating
 feretra
 monopersulphuric
+nontemporary
