@@ -25501,3 +25501,4 @@ hackery
 tumultuate
 untaintedness
 bints
+abstractedness
