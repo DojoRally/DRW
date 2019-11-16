@@ -35859,3 +35859,4 @@ limelike
 tarakihi
 timefulness
 unlightedness
+stride
