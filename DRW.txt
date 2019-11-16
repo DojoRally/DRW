@@ -112918,3 +112918,4 @@ freyr
 latinic
 myst
 nicknameable
+catalanganes
