@@ -17024,3 +17024,4 @@ spoon
 unceasing
 suballocate
 semiprotected
+shellak
