@@ -20793,3 +20793,4 @@ feasts
 scheat
 commissary
 cyanidation
+diphthongalize
