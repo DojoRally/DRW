@@ -240067,3 +240067,4 @@ bushwalking
 manacle
 intersetting
 latter
+latensifying
