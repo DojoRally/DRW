@@ -47386,3 +47386,4 @@ bohairic
 altazimuth
 grainsman
 oleoresins
+spindlewise
