@@ -33323,3 +33323,4 @@ volhynite
 targe
 civy
 enfranchisable
+statically
