@@ -76111,3 +76111,4 @@ lubric
 shend
 unhumane
 peronial
+microphotometric
