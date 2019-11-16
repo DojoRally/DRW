@@ -124029,3 +124029,4 @@ aberr
 harikari
 ambisinister
 lowborn
+spontaneities
