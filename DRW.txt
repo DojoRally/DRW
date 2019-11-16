@@ -13943,3 +13943,4 @@ msl
 sphygmodic
 sacramental
 fumant
+algebraical
