@@ -1216,3 +1216,4 @@ seams
 diglottism
 thymier
 substruct
+truncations
