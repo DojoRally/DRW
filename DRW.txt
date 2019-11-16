@@ -213888,3 +213888,4 @@ pastorela
 fingering
 preknown
 preidentified
+semisoft
