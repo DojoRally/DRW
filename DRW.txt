@@ -247343,3 +247343,4 @@ wordprocessors
 captived
 trephines
 extrorsely
+appraisement
