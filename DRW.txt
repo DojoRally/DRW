@@ -231559,3 +231559,4 @@ turnout
 ramadan
 counteractor
 majoristic
+pentaglossal
