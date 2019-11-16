@@ -251722,3 +251722,4 @@ genearch
 abdominoscope
 tapalos
 impapyrate
+footcandles
