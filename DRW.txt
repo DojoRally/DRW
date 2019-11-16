@@ -245545,3 +245545,4 @@ intercolumnal
 nondenunciating
 planography
 reconvict
+protanopia
