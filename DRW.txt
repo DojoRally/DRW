@@ -67576,3 +67576,4 @@ graticulate
 semiorbicular
 prolegomenona
 dephlegmate
+readaptability
