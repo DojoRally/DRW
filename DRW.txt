@@ -121637,3 +121637,4 @@ physicalities
 ower
 gestural
 colossality
+byronite
