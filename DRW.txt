@@ -202934,3 +202934,4 @@ recd
 manhours
 electrotyped
 counterquip
+akroteria
