@@ -142737,3 +142737,4 @@ tehuelche
 entropy
 unbrushable
 psalmodic
+prosiphonal
