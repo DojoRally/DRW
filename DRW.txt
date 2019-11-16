@@ -246167,3 +246167,4 @@ frutex
 prepalatal
 azotorrhoea
 scrofulitic
+nonmagnetizable
