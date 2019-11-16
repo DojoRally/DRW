@@ -20677,3 +20677,4 @@ dysthymia
 rimpi
 smotherable
 lumpectomy
+untransitive
