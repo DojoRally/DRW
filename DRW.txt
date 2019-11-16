@@ -138938,3 +138938,4 @@ pokable
 defecant
 ducamara
 argolet
+halfcocked
