@@ -145747,3 +145747,4 @@ palamedea
 lunisolar
 truster
 revomit
+speakable
