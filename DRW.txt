@@ -40709,3 +40709,4 @@ thermoscope
 suppressively
 nondisparity
 intersuperciliary
+lobbish
