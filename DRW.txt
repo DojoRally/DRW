@@ -18995,3 +18995,4 @@ bumbler
 synchronously
 slowhound
 extradicting
+lunars
