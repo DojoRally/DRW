@@ -9761,3 +9761,4 @@ quartus
 cineplasty
 farthingale
 manifestative
+goaled
