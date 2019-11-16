@@ -95002,3 +95002,4 @@ upkindle
 rekindled
 aleck
 sebasic
+abbreviates
