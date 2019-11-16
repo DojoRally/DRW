@@ -187740,3 +187740,4 @@ intermigrate
 factorize
 foresays
 isochlor
+kyat
