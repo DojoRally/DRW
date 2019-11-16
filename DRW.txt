@@ -128977,3 +128977,4 @@ hapalotis
 loose
 diaphanometric
 germiparous
+hydrostatical
