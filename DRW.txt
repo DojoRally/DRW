@@ -196831,3 +196831,4 @@ chromatoplasm
 dialogized
 delinter
 flurr
+shackled
