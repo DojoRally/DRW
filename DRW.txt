@@ -253332,3 +253332,4 @@ parasynthesis
 nonprelatic
 morphemes
 fugios
+deprecates
