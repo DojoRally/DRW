@@ -1617,3 +1617,4 @@ sugarberry
 waac
 undercase
 provenience
+ethambutol
