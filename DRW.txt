@@ -145282,3 +145282,4 @@ corruptible
 minerval
 spinosodentate
 drifted
+regally
