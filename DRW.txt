@@ -147106,3 +147106,4 @@ postpharyngal
 noninhabitable
 moratorium
 salpingopalatal
+scanning
