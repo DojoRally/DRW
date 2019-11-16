@@ -115635,3 +115635,4 @@ misclasses
 lieutenancy
 hypaspist
 oversecure
+protorthopteron
