@@ -218881,3 +218881,4 @@ exuberant
 nonstable
 septimal
 restant
+crescentiform
