@@ -185972,3 +185972,4 @@ hemadrometer
 nefast
 mealybug
 digammas
+sphacel
