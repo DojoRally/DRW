@@ -122488,3 +122488,4 @@ toxicodendrol
 nonfunctionally
 takes
 patted
+strych
