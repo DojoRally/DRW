@@ -79161,3 +79161,4 @@ lunged
 semiarboreal
 uncs
 electroosmotic
+telephote
