@@ -25637,3 +25637,4 @@ gadrooned
 stainability
 abstricted
 gyrostat
+bombsight
