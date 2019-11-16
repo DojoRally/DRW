@@ -197035,3 +197035,4 @@ ordinaries
 fuchsone
 bromizing
 hypobranchial
+amharic
