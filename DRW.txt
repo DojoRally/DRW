@@ -206441,3 +206441,4 @@ flayer
 renominate
 psychogram
 esculetin
+lexicality
