@@ -50599,3 +50599,4 @@ festology
 trumpetfish
 ulidia
 soldierize
+osculable
