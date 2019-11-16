@@ -36550,3 +36550,4 @@ overstrew
 aerobus
 antireligionist
 uninvestigable
+monostelic
