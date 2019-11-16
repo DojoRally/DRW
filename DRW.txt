@@ -12868,3 +12868,4 @@ irreciprocal
 azoxytoluidine
 literals
 nonidiomatical
+minimal
