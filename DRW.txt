@@ -11992,3 +11992,4 @@ vends
 paralogic
 quetch
 isobarism
+opuscula
