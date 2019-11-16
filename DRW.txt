@@ -241066,3 +241066,4 @@ unshieldable
 anchoring
 parametric
 diaclase
+contraparallelogram
