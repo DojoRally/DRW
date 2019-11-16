@@ -27126,3 +27126,4 @@ scrabbly
 bretonian
 perlaria
 ofer
+arterials
