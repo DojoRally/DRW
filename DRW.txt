@@ -218882,3 +218882,4 @@ nonstable
 septimal
 restant
 crescentiform
+declamator
