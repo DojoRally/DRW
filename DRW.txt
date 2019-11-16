@@ -103044,3 +103044,4 @@ detainment
 buccin
 strymon
 biocatalytic
+kroner
