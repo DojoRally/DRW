@@ -2483,3 +2483,4 @@ miscommand
 endosarcous
 matsuri
 composed
+crinites
