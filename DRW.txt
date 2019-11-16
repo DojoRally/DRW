@@ -226910,3 +226910,4 @@ sparver
 tincals
 gablet
 sclerotoid
+chrysophlyctis
