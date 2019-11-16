@@ -196493,3 +196493,4 @@ booklear
 overjudiciousness
 glovelike
 colorless
+apertometer
