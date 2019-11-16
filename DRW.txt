@@ -150041,3 +150041,4 @@ aluminose
 colob
 pantatype
 triplet
+pyramidally
