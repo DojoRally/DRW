@@ -5149,3 +5149,4 @@ infralabial
 desilt
 goldenmouthed
 giantship
+intelsat
