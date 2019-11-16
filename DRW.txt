@@ -6521,3 +6521,4 @@ scomberoid
 bacterioblast
 counterexposition
 verbolatry
+nonaccenting
