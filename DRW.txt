@@ -220442,3 +220442,4 @@ mola
 outsoar
 gnomon
 eudiometric
+microspectrophotometer
