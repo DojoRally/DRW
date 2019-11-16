@@ -104563,3 +104563,4 @@ implosive
 nonstock
 gablock
 allocatable
+pitchlike
