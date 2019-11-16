@@ -257577,3 +257577,4 @@ precorrectness
 squamulae
 antilyssic
 moabitess
+slotwise
