@@ -40542,3 +40542,4 @@ telencephal
 ontario
 duty
 sunbathes
+hyponym
