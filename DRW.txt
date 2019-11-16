@@ -152622,3 +152622,4 @@ dogproof
 antescript
 bunrakus
 exult
+klino
