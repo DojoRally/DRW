@@ -22033,3 +22033,4 @@ embellishing
 fragilely
 roommate
 subarid
+decompresses
