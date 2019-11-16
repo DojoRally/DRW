@@ -110258,3 +110258,4 @@ crownlike
 melodic
 inspiring
 overinsistence
+gibbous
