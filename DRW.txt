@@ -233940,3 +233940,4 @@ polyandric
 forepeaks
 comediant
 nickering
+informativeness
