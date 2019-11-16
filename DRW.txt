@@ -18940,3 +18940,4 @@ prythee
 berascal
 goodsome
 pseudocarcinoid
+tesseratomic
