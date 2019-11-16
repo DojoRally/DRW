@@ -38320,3 +38320,4 @@ ubication
 cytodieresis
 strictest
 estall
+enunciable
