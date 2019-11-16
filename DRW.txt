@@ -70689,3 +70689,4 @@ axisymmetry
 precedency
 monographist
 stereomicroscopic
+quartz
