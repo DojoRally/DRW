@@ -230419,3 +230419,4 @@ porterage
 berascals
 gnomish
 appast
+semipatterned
