@@ -13570,3 +13570,4 @@ victrola
 homoeomorphism
 irreferable
 anticyclic
+responsorial
