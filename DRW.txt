@@ -210530,3 +210530,4 @@ berber
 teaman
 retelegraph
 proletarianised
+pta
