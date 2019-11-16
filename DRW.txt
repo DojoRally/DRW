@@ -22106,3 +22106,4 @@ solunar
 interoceptor
 semivowel
 degerm
+ungraphical
