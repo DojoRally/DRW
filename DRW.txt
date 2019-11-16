@@ -8073,3 +8073,4 @@ filterers
 outdoers
 sulfuryl
 functions
+coperiodic
