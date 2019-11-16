@@ -257286,3 +257286,4 @@ turbinatoglobose
 lineameter
 dialectology
 unrectified
+satura
