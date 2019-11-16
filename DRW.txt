@@ -56385,3 +56385,4 @@ asclepiad
 focaloid
 leptonema
 enfeature
+semilegislative
