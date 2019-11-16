@@ -261745,3 +261745,4 @@ spiderwebbed
 holomorphism
 stereoptician
 satyrs
+lexical
