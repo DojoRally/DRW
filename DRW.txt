@@ -51146,3 +51146,4 @@ declarative
 spiffing
 unmaskers
 unpiped
+quislingism
