@@ -10047,3 +10047,4 @@ unjustification
 crewcut
 nonlaminable
 developed
+migniardize
