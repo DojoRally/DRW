@@ -20064,3 +20064,4 @@ pediococci
 picariae
 shendful
 prismatize
+sty
