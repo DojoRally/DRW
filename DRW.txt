@@ -122522,3 +122522,4 @@ subbase
 diphthonging
 isotone
 abayah
+mesiolingual
