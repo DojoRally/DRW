@@ -220529,3 +220529,4 @@ isothermical
 sweeping
 rectilinearly
 focalises
+psittaci
