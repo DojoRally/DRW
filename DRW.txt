@@ -18971,3 +18971,4 @@ detonatable
 metamer
 caprimulgi
 schreiner
+corymbose
