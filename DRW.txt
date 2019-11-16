@@ -204850,3 +204850,4 @@ endleaf
 tennu
 pulverized
 trapeze
+pteris
