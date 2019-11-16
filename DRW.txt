@@ -195194,3 +195194,4 @@ stalls
 turncap
 toxaemic
 maitre
+francs
