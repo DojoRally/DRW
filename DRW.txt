@@ -193068,3 +193068,4 @@ harpidae
 nebiim
 terzio
 koodoos
+masoretic
