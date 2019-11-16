@@ -182920,3 +182920,4 @@ lamellibranch
 clarkia
 dopas
 buckeye
+yokozunas
