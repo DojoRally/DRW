@@ -4513,3 +4513,4 @@ cajeta
 marabout
 spiderlike
 ophioid
+curate
