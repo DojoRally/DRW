@@ -241067,3 +241067,4 @@ anchoring
 parametric
 diaclase
 contraparallelogram
+pinnatipartite
