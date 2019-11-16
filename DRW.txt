@@ -134671,3 +134671,4 @@ teratogenous
 misscribed
 tealery
 toryfy
+vectorization
