@@ -87106,3 +87106,4 @@ pentagrid
 mormorando
 imprevisible
 stibialism
+alphitomancy
