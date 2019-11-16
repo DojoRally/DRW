@@ -216583,3 +216583,4 @@ turbinite
 microcrystalloscopy
 vibrioid
 ineptly
+fastigiated
