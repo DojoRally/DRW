@@ -76026,3 +76026,4 @@ spectrometers
 reswarm
 stalactiform
 autochanger
+samoyedic
