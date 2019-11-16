@@ -217035,3 +217035,4 @@ viscum
 creepiness
 loxomma
 exponents
+decretal
