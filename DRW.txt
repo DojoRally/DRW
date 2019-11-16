@@ -2735,3 +2735,4 @@ prepurpose
 phototrichromatic
 octogenarian
 ultralow
+equiponderancy
