@@ -255949,3 +255949,4 @@ manumisable
 undiagnosable
 cycasin
 papaship
+kuvaszok
