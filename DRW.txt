@@ -241790,3 +241790,4 @@ planimetry
 galliasses
 rodomontade
 homotaxially
+electrotonus
