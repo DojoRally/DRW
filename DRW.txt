@@ -185977,3 +185977,4 @@ submind
 namelessness
 edenic
 insearch
+bernoullian
