@@ -261547,3 +261547,4 @@ kifs
 talionic
 redoubtable
 pomoerium
+delsartian
