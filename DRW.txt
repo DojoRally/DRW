@@ -211312,3 +211312,4 @@ restock
 nonvulval
 dolomitization
 untimeous
+forestalling
