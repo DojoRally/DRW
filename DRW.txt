@@ -80043,3 +80043,4 @@ tha
 omnivorant
 typobar
 filarial
+curvedness
