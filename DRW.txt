@@ -147712,3 +147712,4 @@ anapnea
 lachrymally
 epithermal
 meningococcal
+hygrometric
