@@ -142419,3 +142419,4 @@ obverts
 discussion
 pikelike
 reargue
+subequally
