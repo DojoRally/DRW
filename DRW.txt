@@ -49533,3 +49533,4 @@ poisonous
 photomultiplier
 aquiferous
 outblotting
+armed
