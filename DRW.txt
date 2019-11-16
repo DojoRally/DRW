@@ -157254,3 +157254,4 @@ consulter
 unconsecrative
 counterbond
 turnstone
+dactylic
