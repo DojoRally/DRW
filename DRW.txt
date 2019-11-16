@@ -81789,3 +81789,4 @@ redeemableness
 kalimbas
 semihobos
 understatement
+pasturable
