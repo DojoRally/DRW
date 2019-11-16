@@ -8499,3 +8499,4 @@ extrudability
 preinventory
 seraphine
 apodan
+lessened
