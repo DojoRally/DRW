@@ -19146,3 +19146,4 @@ phacoscope
 saliaric
 lobsided
 fritter
+diagnosticate
