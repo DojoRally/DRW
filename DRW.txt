@@ -107792,3 +107792,4 @@ alodiality
 endotropic
 hypohalous
 shadowgram
+thumbstring
