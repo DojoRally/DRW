@@ -109842,3 +109842,4 @@ spaceless
 sacrosanct
 fuligo
 forescript
+lipogram
