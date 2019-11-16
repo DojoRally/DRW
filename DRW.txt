@@ -9839,3 +9839,4 @@ tynwald
 fahrenheit
 landiron
 noncondensable
+confelicity
