@@ -12025,3 +12025,4 @@ pandosto
 sampans
 scorchers
 hypnotizing
+configurated
