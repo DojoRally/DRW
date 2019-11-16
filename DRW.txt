@@ -181740,3 +181740,4 @@ solenodontidae
 thug
 pennigerous
 furtum
+nonambulatory
