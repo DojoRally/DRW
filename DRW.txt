@@ -222239,3 +222239,4 @@ semiextinct
 ideography
 injection
 hoggishness
+antilogism
