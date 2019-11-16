@@ -173582,3 +173582,4 @@ ssi
 galenas
 nontaxation
 oedipus
+sturmian
