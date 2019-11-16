@@ -112753,3 +112753,4 @@ potency
 versor
 deviator
 equiponderate
+brios
