@@ -37675,3 +37675,4 @@ tjurunga
 preheater
 fractionalized
 oilproof
+nonelasticity
