@@ -168341,3 +168341,4 @@ revalenta
 counterstamp
 stathenries
 umpteens
+faradmeter
