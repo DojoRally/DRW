@@ -252572,3 +252572,4 @@ provable
 antiar
 carroll
 hypodorian
+resurgence
