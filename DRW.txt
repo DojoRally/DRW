@@ -92492,3 +92492,4 @@ leonora
 pseudoclassic
 hyracothere
 zumbooruk
+checkerboard
