@@ -845,3 +845,4 @@ antoniniani
 overcleverness
 expressiveness
 jowler
+diglyphic
