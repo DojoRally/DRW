@@ -250982,3 +250982,4 @@ overgloss
 tighter
 kosher
 whippet
+squinacy
