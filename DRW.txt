@@ -220837,3 +220837,4 @@ slaveholder
 unenlisted
 rifler
 ordinariness
+truantry
