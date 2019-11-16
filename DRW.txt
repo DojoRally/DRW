@@ -90585,3 +90585,4 @@ maxis
 burgus
 countersecure
 brindle
+lamellated
