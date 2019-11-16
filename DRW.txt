@@ -130012,3 +130012,4 @@ symmetroid
 usaunces
 nahanarvali
 nimbed
+nonluminosity
