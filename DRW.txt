@@ -221265,3 +221265,4 @@ noshers
 plicatolacunose
 myosynizesis
 procerus
+abbrev
