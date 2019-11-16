@@ -192261,3 +192261,4 @@ moated
 planktology
 spondee
 antidraft
+nonamalgamable
