@@ -164343,3 +164343,4 @@ divaricated
 stairwise
 ct
 continua
+semiprogressive
