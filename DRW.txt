@@ -1964,3 +1964,4 @@ rewords
 laundered
 setwall
 herding
+desultorious
