@@ -61274,3 +61274,4 @@ gula
 outcrop
 coccid
 chasseur
+fugacities
