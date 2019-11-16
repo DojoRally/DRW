@@ -55935,3 +55935,4 @@ atropinize
 loincloth
 ineri
 hydrotropism
+orthostichy
