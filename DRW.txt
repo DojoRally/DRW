@@ -106440,3 +106440,4 @@ perennialness
 yasht
 deckel
 hemiopsia
+subparalytic
