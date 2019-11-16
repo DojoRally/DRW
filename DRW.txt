@@ -257112,3 +257112,4 @@ nonrigidity
 cabbing
 heterothallism
 hyetographical
+unpartial
