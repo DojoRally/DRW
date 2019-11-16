@@ -108548,3 +108548,4 @@ kneed
 unrigid
 assaulter
 jacamaralcyon
+rigourism
