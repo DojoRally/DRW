@@ -199382,3 +199382,4 @@ charmless
 beveled
 speed
 pallone
+semicalcined
