@@ -59892,3 +59892,4 @@ insulars
 deuterotype
 lampyrine
 semibull
+formulatory
