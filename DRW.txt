@@ -41901,3 +41901,4 @@ hover
 milo
 scarabaeus
 cosmonautic
+strake
