@@ -248602,3 +248602,4 @@ unfiring
 armguard
 quailberry
 roentgenometry
+kamperite
