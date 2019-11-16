@@ -237992,3 +237992,4 @@ malays
 nonregressive
 apprizer
 petardeer
+curries
