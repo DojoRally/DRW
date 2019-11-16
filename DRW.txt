@@ -249030,3 +249030,4 @@ haltere
 roc
 acad
 alopeke
+nonspottable
