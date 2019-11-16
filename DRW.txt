@@ -155940,3 +155940,4 @@ octohedral
 numismatic
 bistriate
 phthisipneumony
+pentastom
