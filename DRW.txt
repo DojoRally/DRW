@@ -50750,3 +50750,4 @@ flukier
 decouple
 defecter
 correllation
+bursarship
