@@ -193679,3 +193679,4 @@ lingualis
 transrectification
 reejects
 imprecisions
+spherulate
