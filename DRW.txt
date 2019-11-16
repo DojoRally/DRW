@@ -236908,3 +236908,4 @@ tableland
 foliated
 squamosity
 restrictiveness
+crustalogical
