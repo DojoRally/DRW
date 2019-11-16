@@ -167161,3 +167161,4 @@ gyronny
 retrogress
 superelementary
 superannuated
+acquiring
