@@ -120111,3 +120111,4 @@ iv
 intercepts
 graininess
 sympatheticity
+striven
