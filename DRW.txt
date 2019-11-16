@@ -80045,3 +80045,4 @@ typobar
 filarial
 curvedness
 nephrostome
+glaucophanize
