@@ -18247,3 +18247,4 @@ tenuicostate
 evanescency
 symtab
 intrarhachidian
+glosses
