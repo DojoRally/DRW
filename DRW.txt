@@ -147867,3 +147867,4 @@ lou
 sothic
 conchfish
 trichloro
+disulfuret
