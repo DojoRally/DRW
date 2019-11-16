@@ -261953,3 +261953,4 @@ faithless
 galling
 strum
 surfaces
+glaucophanite
