@@ -169681,3 +169681,4 @@ tamarinds
 unmeringued
 lappage
 regulate
+adaptively
