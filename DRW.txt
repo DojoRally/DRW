@@ -135434,3 +135434,4 @@ sciapodous
 unnumber
 reclassify
 hyperuresis
+nonassignability
