@@ -13892,3 +13892,4 @@ manually
 lampstand
 riffled
 kalidium
+thomist
