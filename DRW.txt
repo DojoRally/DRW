@@ -19773,3 +19773,4 @@ protodeacon
 rolltop
 stonable
 ascellus
+unhorizontal
