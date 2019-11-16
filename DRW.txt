@@ -8100,3 +8100,4 @@ polysided
 dados
 dolce
 permuted
+ptarmica
