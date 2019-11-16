@@ -8332,3 +8332,4 @@ pagus
 lambdas
 aik
 lintol
+solidarized
