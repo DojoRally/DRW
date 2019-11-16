@@ -220527,3 +220527,4 @@ thole
 uplake
 isothermical
 sweeping
+rectilinearly
