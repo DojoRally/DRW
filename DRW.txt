@@ -124461,3 +124461,4 @@ preconsumed
 eyeable
 newcal
 dignitarian
+hemianopic
