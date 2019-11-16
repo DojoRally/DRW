@@ -144955,3 +144955,4 @@ kadein
 bromeliad
 neocytosis
 laughter
+succinctness
