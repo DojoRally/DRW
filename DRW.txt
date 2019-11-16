@@ -200672,3 +200672,4 @@ nicetish
 nondialectal
 knowing
 alpha
+gyratory
