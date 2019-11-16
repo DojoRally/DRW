@@ -77196,3 +77196,4 @@ caranna
 polytungstate
 repelling
 redenying
+companiable
