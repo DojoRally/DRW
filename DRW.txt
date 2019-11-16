@@ -116833,3 +116833,4 @@ saffarid
 chromoplastid
 repaying
 seldom
+speakingness
