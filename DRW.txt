@@ -173950,3 +173950,4 @@ croak
 worsened
 acetoxime
 transchanged
+apheliotropic
