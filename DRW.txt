@@ -5538,3 +5538,4 @@ taplet
 unsubsidized
 stereotypes
 euchlorite
+leptolepis
