@@ -25069,3 +25069,4 @@ executing
 stiffening
 courbache
 parietofrontal
+stalled
