@@ -39622,3 +39622,4 @@ novitial
 souchet
 involutionary
 caspar
+assertors
