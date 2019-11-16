@@ -20679,3 +20679,4 @@ smotherable
 lumpectomy
 untransitive
 suppurates
+protractor
