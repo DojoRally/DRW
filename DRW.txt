@@ -101862,3 +101862,4 @@ speeching
 swarths
 novity
 safariing
+appointable
