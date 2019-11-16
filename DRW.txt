@@ -221661,3 +221661,4 @@ transpositive
 tanner
 bulbiform
 plagueproof
+disassimilation
