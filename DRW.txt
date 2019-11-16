@@ -249941,3 +249941,4 @@ mendings
 dyeability
 chondrosarcomata
 unlustiness
+nonglucosidic
