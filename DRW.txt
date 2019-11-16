@@ -48074,3 +48074,4 @@ hir
 noncompromising
 kinetophone
 canterburies
+regerminative
