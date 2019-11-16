@@ -149388,3 +149388,4 @@ threnodical
 edda
 nonpropitiable
 izafat
+farsight
