@@ -100420,3 +100420,4 @@ unformal
 gravimeters
 petalodus
 lasters
+leucochalcite
