@@ -212318,3 +212318,4 @@ telltruth
 shunted
 predacity
 statolatry
+microbattery
