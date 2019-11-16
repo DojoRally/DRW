@@ -253432,3 +253432,4 @@ stingless
 deregister
 uncases
 potash
+aoristic
