@@ -227345,3 +227345,4 @@ motility
 platinized
 slatted
 perforated
+subeffective
