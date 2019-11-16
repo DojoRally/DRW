@@ -119074,3 +119074,4 @@ overglut
 yamanai
 brachiofaciolingual
 fantasticate
+allophones
