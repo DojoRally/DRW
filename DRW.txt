@@ -152854,3 +152854,4 @@ gimbal
 phototypesetting
 bastinado
 tantalize
+ossal
