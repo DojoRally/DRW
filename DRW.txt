@@ -24869,3 +24869,4 @@ serratodenticulate
 plucker
 fittage
 sinusoidal
+upstirs
