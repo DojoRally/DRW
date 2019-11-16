@@ -108086,3 +108086,4 @@ undulative
 foeless
 baddish
 mecometer
+spongiform
