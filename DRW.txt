@@ -202047,3 +202047,4 @@ impairable
 creaturehood
 chubasco
 dispose
+derating
