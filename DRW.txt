@@ -1177,3 +1177,4 @@ pikel
 value
 batt
 zinnwaldite
+anisotropies
