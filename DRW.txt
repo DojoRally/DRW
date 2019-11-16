@@ -241155,3 +241155,4 @@ shabbat
 pinnules
 textured
 rearmed
+armine
