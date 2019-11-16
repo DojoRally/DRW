@@ -247874,3 +247874,4 @@ hygrometer
 coralliform
 araucanian
 tetriodide
+spectropyrheliometer
