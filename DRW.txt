@@ -41264,3 +41264,4 @@ faultfinder
 sylvanize
 viceroyal
 nubilum
+translatorese
