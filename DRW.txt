@@ -141316,3 +141316,4 @@ industrialness
 g
 permanently
 regerminatively
+intrans
