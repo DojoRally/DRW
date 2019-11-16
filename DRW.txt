@@ -132325,3 +132325,4 @@ crowning
 microsporangiate
 forespake
 infected
+endophytic
