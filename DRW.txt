@@ -49846,3 +49846,4 @@ antifriction
 randomizing
 uncling
 untraduced
+gyrolite
