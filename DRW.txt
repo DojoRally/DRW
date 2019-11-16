@@ -8751,3 +8751,4 @@ overturnable
 hyperphoric
 irrecognition
 proteogenous
+asteer
