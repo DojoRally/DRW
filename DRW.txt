@@ -52953,3 +52953,4 @@ trichromatist
 regent
 colorfastness
 anhydrous
+unfeudal
