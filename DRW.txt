@@ -37372,3 +37372,4 @@ acepots
 cera
 resowing
 petrific
+ceruleite
