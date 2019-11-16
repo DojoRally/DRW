@@ -8707,3 +8707,4 @@ reaggregation
 seeds
 notonectid
 imbalm
+tentaculated
