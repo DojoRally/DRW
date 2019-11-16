@@ -100139,3 +100139,4 @@ pneumogram
 pathomimesis
 seafare
 unregimental
+geosynchronous
