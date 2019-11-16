@@ -18069,3 +18069,4 @@ ingenerability
 temptable
 allomerizing
 trig
+charactery
