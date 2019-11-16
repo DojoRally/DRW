@@ -114690,3 +114690,4 @@ guildsmen
 unreceiving
 puggree
 unknotty
+logomancy
