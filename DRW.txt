@@ -1308,3 +1308,4 @@ provincial
 lithaemic
 cloudlike
 sulfone
+velar
