@@ -108345,3 +108345,4 @@ freakish
 effigy
 rebeautify
 leptochlorite
+keratometric
