@@ -190991,3 +190991,4 @@ pygalgia
 corrects
 dramatizes
 unscaling
+apotropaism
