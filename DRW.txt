@@ -226375,3 +226375,4 @@ wolves
 sporangial
 actorship
 refulgence
+shellburst
