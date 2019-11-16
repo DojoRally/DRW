@@ -248647,3 +248647,4 @@ bandlimit
 deltaic
 ordaining
 platystencephaly
+copesmate
