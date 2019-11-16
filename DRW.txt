@@ -111644,3 +111644,4 @@ transcendental
 cavae
 factioneer
 fronton
+truncating
