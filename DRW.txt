@@ -56383,3 +56383,4 @@ ranked
 spatterproof
 asclepiad
 focaloid
+leptonema
