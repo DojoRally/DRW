@@ -197918,3 +197918,4 @@ northernmost
 slowish
 orthantimonic
 opercule
+novobiocin
