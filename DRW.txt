@@ -174309,3 +174309,4 @@ tables
 hobnail
 scrotiform
 undecipherably
+armlike
