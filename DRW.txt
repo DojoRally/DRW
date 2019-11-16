@@ -125550,3 +125550,4 @@ inters
 amyctic
 divia
 scutiferous
+homohedral
