@@ -26989,3 +26989,4 @@ camelus
 regularize
 chalks
 pareses
+pentametrist
