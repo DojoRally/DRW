@@ -50740,3 +50740,4 @@ deselects
 psychohistory
 thaught
 ziphian
+nonfigurative
