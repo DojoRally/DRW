@@ -42923,3 +42923,4 @@ stenotypy
 bullneck
 bryozoon
 lhd
+overexposes
