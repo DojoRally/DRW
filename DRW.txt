@@ -133262,3 +133262,4 @@ mixtecan
 coadapting
 rare
 yet
+kernoi
