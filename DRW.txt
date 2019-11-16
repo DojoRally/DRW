@@ -65888,3 +65888,4 @@ exarch
 stevia
 quinquesyllabic
 eggars
+statics
