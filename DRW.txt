@@ -110727,3 +110727,4 @@ leechery
 cardiopneumatic
 upleaping
 overmarch
+floatable
