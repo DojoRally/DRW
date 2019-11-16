@@ -67842,3 +67842,4 @@ candystick
 drouthiness
 crashed
 congealability
+newfound
