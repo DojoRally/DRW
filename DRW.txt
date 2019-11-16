@@ -849,3 +849,4 @@ diglyphic
 speckedness
 sacrilumbalis
 tourmalin
+stipples
