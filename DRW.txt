@@ -232039,3 +232039,4 @@ pictorialist
 unhooding
 whinny
 bacteriophagy
+stance
