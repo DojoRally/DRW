@@ -211469,3 +211469,4 @@ polyactinal
 catalogue
 untabulated
 defaulting
+leftisms
