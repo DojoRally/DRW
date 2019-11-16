@@ -132619,3 +132619,4 @@ importers
 cephalopagus
 jateorhiza
 falsetto
+equidiagonal
