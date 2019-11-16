@@ -132745,3 +132745,4 @@ daylong
 photoelectron
 familiarised
 grotto
+lambent
