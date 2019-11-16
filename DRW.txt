@@ -112476,3 +112476,4 @@ orthopedia
 karyoplasmatic
 blicky
 diploic
+subminimal
