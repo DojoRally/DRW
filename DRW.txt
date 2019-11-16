@@ -206512,3 +206512,4 @@ spectrographically
 apimanias
 nontypographical
 nontemporizing
+telemetered
