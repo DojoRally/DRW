@@ -18425,3 +18425,4 @@ bandfiling
 ternion
 ministeriality
 steerer
+decessor
