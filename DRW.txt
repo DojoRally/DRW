@@ -5253,3 +5253,4 @@ elohist
 homochromous
 enallage
 rets
+mesiodistally
