@@ -25195,3 +25195,4 @@ teletypewrite
 trophaea
 twicet
 retainership
+truck
