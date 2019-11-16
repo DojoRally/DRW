@@ -68450,3 +68450,4 @@ gurian
 columbae
 scrambles
 exulcerated
+persymmetric
