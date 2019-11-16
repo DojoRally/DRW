@@ -126006,3 +126006,4 @@ acquirable
 stretchy
 subregent
 alod
+limpiness
