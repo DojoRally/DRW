@@ -19242,3 +19242,4 @@ coalternation
 antifouler
 fabulous
 heautophany
+temporalty
