@@ -210292,3 +210292,4 @@ energise
 trisome
 changelings
 utilizers
+spearcast
