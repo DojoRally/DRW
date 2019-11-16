@@ -157693,3 +157693,4 @@ presympathized
 calmness
 patefaction
 reframed
+untelic
