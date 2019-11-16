@@ -125871,3 +125871,4 @@ counterstand
 expelling
 endosporous
 prehardens
+earthed
