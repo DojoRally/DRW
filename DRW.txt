@@ -13994,3 +13994,4 @@ handpick
 synodic
 outreads
 keekers
+gyroscope
