@@ -40544,3 +40544,4 @@ duty
 sunbathes
 hyponym
 vulcanization
+connivingly
