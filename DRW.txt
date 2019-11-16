@@ -36301,3 +36301,4 @@ pauperizer
 cathodes
 nondivergent
 dimensum
+incapsulating
