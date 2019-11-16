@@ -242610,3 +242610,4 @@ burgomaster
 bedells
 chapitle
 dapperest
+semiprogressively
