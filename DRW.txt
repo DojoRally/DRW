@@ -257287,3 +257287,4 @@ lineameter
 dialectology
 unrectified
 satura
+teliferous
