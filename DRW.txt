@@ -4878,3 +4878,4 @@ attackers
 goma
 cordwoods
 monopterous
+pauciarticulate
