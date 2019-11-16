@@ -81718,3 +81718,4 @@ genapp
 trimonthly
 perlites
 mucosogranular
+microspectrophotometrical
