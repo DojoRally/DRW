@@ -35903,3 +35903,4 @@ drapery
 overfix
 toysome
 specializations
+ungeneralizing
