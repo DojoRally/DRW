@@ -210969,3 +210969,4 @@ latins
 scirophorion
 tawnie
 transposal
+hauberk
