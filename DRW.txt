@@ -231956,3 +231956,4 @@ possessors
 protrusive
 declaimers
 snippy
+apostrophic
