@@ -41501,3 +41501,4 @@ predeserve
 detruss
 preclude
 statesmanship
+yiddish
