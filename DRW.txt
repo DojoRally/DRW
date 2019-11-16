@@ -73983,3 +73983,4 @@ hyraces
 talkie
 jay
 pomace
+unsparingly
