@@ -17023,3 +17023,4 @@ noncontrastive
 spoon
 unceasing
 suballocate
+semiprotected
