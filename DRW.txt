@@ -192419,3 +192419,4 @@ imperfectability
 beflags
 claimsman
 unserved
+polyhalite
