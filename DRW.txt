@@ -138934,3 +138934,4 @@ magyarism
 cheliferous
 orad
 resummoned
+pokable
