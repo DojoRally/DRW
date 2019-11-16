@@ -51409,3 +51409,4 @@ unspreadable
 goemagot
 opisthoglyphic
 hornbook
+uptemper
