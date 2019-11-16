@@ -215518,3 +215518,4 @@ subpredicative
 unburst
 saids
 pseudomorphic
+enfranch
