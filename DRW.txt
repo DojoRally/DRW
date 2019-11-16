@@ -79946,3 +79946,4 @@ tartly
 cloot
 overdoctrinize
 kittycornered
+descriptor
