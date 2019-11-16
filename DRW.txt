@@ -846,3 +846,4 @@ overcleverness
 expressiveness
 jowler
 diglyphic
+speckedness
