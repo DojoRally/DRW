@@ -1722,3 +1722,4 @@ penobscot
 encasing
 ouzel
 auriculidae
+slack
