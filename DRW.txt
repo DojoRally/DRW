@@ -26816,3 +26816,4 @@ slow
 carriageful
 battlements
 quadruplex
+ewry
