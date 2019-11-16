@@ -14903,3 +14903,4 @@ biblicoliterary
 nonsymmetrical
 squidded
 ptychopterygium
+exactor
