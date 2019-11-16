@@ -142510,3 +142510,4 @@ rehang
 shuttlecocks
 frontonasal
 quantification
+isocarpic
