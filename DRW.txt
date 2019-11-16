@@ -225858,3 +225858,4 @@ barbarisms
 unfired
 vizard
 indesignate
+protensity
