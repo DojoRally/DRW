@@ -251969,3 +251969,4 @@ storables
 sanguinis
 boyishly
 stowable
+polearm
