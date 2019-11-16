@@ -16257,3 +16257,4 @@ diesel
 enface
 cardioncus
 coastmen
+oscillates
