@@ -261951,3 +261951,4 @@ shadelessness
 hemiparanesthesia
 faithless
 galling
+strum
