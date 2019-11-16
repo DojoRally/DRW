@@ -246977,3 +246977,4 @@ prevent
 alveolated
 pulvinaria
 tautophony
+ohmic
