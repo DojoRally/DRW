@@ -40242,3 +40242,4 @@ sickener
 picofarad
 setness
 subsheriff
+qindarka
