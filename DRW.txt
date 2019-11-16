@@ -48507,3 +48507,4 @@ opsonogen
 acetification
 maladjustive
 costate
+pseudolateral
