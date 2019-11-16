@@ -842,3 +842,4 @@ encallow
 oxysulphid
 gaufre
 antoniniani
+overcleverness
