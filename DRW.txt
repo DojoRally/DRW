@@ -2646,3 +2646,4 @@ subdepartments
 baronetcies
 nonprotuberant
 shiatsu
+lingoes
