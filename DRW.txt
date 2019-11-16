@@ -211898,3 +211898,4 @@ linefeeds
 crudes
 overinclined
 spirole
+whiggamore
