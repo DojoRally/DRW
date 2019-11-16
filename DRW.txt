@@ -26047,3 +26047,4 @@ spout
 winster
 eyepieces
 outfelt
+newtonian
