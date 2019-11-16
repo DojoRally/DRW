@@ -256228,3 +256228,4 @@ scrimpy
 anthologized
 anecdotically
 deployments
+splotched
