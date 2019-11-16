@@ -254317,3 +254317,4 @@ premium
 superselect
 sibilant
 inopinate
+summating
