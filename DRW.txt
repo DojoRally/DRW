@@ -26920,3 +26920,4 @@ aeolodion
 longsightedness
 dextrad
 novella
+spec
