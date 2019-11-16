@@ -18910,3 +18910,4 @@ pantocrator
 haptotropic
 misprofess
 ressaldar
+roundedness
