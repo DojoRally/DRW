@@ -245444,3 +245444,4 @@ thripid
 regret
 estensible
 consubstantive
+teleseme
