@@ -138735,3 +138735,4 @@ prelogical
 takamaka
 stool
 inbreather
+nonrotational
