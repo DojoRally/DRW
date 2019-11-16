@@ -259838,3 +259838,4 @@ argilloid
 enterfeat
 nonstratified
 scraunch
+ossypite
