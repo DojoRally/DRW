@@ -32487,3 +32487,4 @@ plainful
 fairnesses
 spanworm
 ditrochee
+degeneracy
