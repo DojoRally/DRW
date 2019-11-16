@@ -25371,3 +25371,4 @@ spickle
 trivalence
 notational
 enregistering
+chapelet
