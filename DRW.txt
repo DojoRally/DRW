@@ -260040,3 +260040,4 @@ palladiumize
 piston
 pseudoallele
 increative
+sporing
