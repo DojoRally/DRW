@@ -153180,3 +153180,4 @@ sonorophone
 lithotyped
 evolutes
 familiarizer
+isopectic
