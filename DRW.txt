@@ -221657,3 +221657,4 @@ syzygy
 vivid
 ingravescent
 heavyweights
+transpositive
