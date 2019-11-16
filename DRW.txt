@@ -1920,3 +1920,4 @@ presufficiency
 platonize
 castellanus
 devocalised
+dimers
