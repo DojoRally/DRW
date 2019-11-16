@@ -17948,3 +17948,4 @@ tpke
 picrate
 barracking
 overimportance
+poked
