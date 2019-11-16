@@ -241262,3 +241262,4 @@ ecgonin
 peebles
 incipience
 indan
+bicompact
