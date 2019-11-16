@@ -190608,3 +190608,4 @@ etymology
 manak
 snickeringly
 grugru
+telemetric
