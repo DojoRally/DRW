@@ -79387,3 +79387,4 @@ achordal
 epiphanize
 erythric
 monosubstituted
+logman
