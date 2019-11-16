@@ -48506,3 +48506,4 @@ eosins
 opsonogen
 acetification
 maladjustive
+costate
