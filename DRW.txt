@@ -23294,3 +23294,4 @@ neoteric
 octothorp
 rontgenoscope
 unexpunged
+sarcosin
