@@ -242633,3 +242633,4 @@ serricorn
 abutments
 gnomesque
 muroid
+kedarite
