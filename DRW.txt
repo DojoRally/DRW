@@ -4937,3 +4937,4 @@ vomicin
 sulfamate
 ultrastructure
 multicolor
+curatical
