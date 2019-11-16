@@ -255190,3 +255190,4 @@ craton
 penality
 multiturn
 nonobligatory
+nontravelling
