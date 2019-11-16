@@ -38242,3 +38242,4 @@ anility
 repassable
 viqueen
 calcareobituminous
+sphericalness
