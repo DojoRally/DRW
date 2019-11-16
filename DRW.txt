@@ -49245,3 +49245,4 @@ chernomorish
 rubigo
 helvite
 ungraded
+hotplate
