@@ -48484,3 +48484,4 @@ washdays
 megavolt
 roentgenography
 precompare
+outyielding
