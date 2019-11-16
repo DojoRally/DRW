@@ -244802,3 +244802,4 @@ nailproof
 residuums
 offbreak
 missuit
+oversuperstitious
