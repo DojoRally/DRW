@@ -241362,3 +241362,4 @@ unjudiciable
 chait
 inveigle
 zeallessness
+curacy
