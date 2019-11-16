@@ -154311,3 +154311,4 @@ polista
 isocolic
 iapygian
 subgraph
+galvanoscope
