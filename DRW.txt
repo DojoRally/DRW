@@ -10348,3 +10348,4 @@ manropes
 nadorite
 chance
 paludism
+unstinting
