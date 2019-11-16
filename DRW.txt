@@ -147619,3 +147619,4 @@ sunward
 dal
 polystomium
 microapparatus
+isogonics
