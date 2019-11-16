@@ -177747,3 +177747,4 @@ leaflike
 optometric
 outreness
 statfarad
+elasticizes
