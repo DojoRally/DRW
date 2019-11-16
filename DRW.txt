@@ -258698,3 +258698,4 @@ osperm
 overpresumption
 renunciable
 sialid
+byhand
