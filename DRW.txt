@@ -156986,3 +156986,4 @@ claspt
 slimier
 misdirecting
 nonperfectible
+mycomycin
