@@ -87340,3 +87340,4 @@ zoospermatic
 phossy
 nonrestricted
 gynosporangium
+invariantively
