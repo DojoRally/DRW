@@ -59301,3 +59301,4 @@ memorializer
 wineskins
 copyism
 stopperless
+spintry
