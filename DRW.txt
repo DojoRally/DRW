@@ -8500,3 +8500,4 @@ preinventory
 seraphine
 apodan
 lessened
+indestructibleness
