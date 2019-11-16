@@ -46466,3 +46466,4 @@ subvarietal
 isodef
 originable
 exosmic
+elative
