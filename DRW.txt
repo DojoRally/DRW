@@ -1376,3 +1376,4 @@ pluck
 frequentness
 plangi
 wharfless
+saporous
