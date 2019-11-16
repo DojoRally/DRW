@@ -224694,3 +224694,4 @@ unbreathing
 swallowing
 equaling
 nonintroversively
+hankul
