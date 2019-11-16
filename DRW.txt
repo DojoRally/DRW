@@ -121143,3 +121143,4 @@ spiroidal
 funicule
 desmocytoma
 peridotite
+spriglet
