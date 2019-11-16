@@ -64975,3 +64975,4 @@ outglad
 tetartohedron
 sweepboard
 adaptability
+excurvation
