@@ -3804,3 +3804,4 @@ hypostatic
 preciousness
 perpetuation
 reaffiliation
+voluntarious
