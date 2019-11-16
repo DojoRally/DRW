@@ -7984,3 +7984,4 @@ onsetter
 wetted
 spalacine
 pawls
+euryzygous
