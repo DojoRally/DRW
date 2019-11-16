@@ -151214,3 +151214,4 @@ toret
 rigors
 digammic
 owrehip
+fullwords
