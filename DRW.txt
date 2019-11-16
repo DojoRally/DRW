@@ -190878,3 +190878,4 @@ besetment
 affector
 superclass
 pretypifying
+torrefies
