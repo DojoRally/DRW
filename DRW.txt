@@ -22092,3 +22092,4 @@ semidefensiveness
 suss
 upharbor
 elotillo
+halfwords
