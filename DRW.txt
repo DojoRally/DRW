@@ -247045,3 +247045,4 @@ nonextractible
 binormal
 greatheartedness
 condensate
+isosaccharin
