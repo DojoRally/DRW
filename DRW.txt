@@ -22992,3 +22992,4 @@ twa
 overknow
 case
 skimmings
+dekameters
