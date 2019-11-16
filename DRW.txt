@@ -112443,3 +112443,4 @@ semideific
 semifasciated
 amort
 multangle
+radiotelegram
