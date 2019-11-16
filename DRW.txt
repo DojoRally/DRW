@@ -231195,3 +231195,4 @@ leucones
 seam
 nonperceptible
 uranospinite
+adherescent
