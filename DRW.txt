@@ -152852,3 +152852,4 @@ unrentable
 menialty
 gimbal
 phototypesetting
+bastinado
