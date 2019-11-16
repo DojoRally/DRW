@@ -1373,3 +1373,4 @@ musketries
 endome
 nonecliptically
 pluck
+frequentness
