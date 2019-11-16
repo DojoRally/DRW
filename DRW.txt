@@ -126370,3 +126370,4 @@ polysyllabicism
 poind
 purer
 betalk
+equicurve
