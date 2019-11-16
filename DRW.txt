@@ -189249,3 +189249,4 @@ impetigos
 salangid
 countercourant
 phthalein
+karatas
