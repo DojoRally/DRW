@@ -260234,3 +260234,4 @@ pretone
 somewhile
 rewax
 revet
+mappable
