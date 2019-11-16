@@ -177275,3 +177275,4 @@ retroflection
 suffraganate
 phraseless
 stumpless
+recolored
