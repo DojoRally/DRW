@@ -258662,3 +258662,4 @@ nonattributive
 fafnir
 sockeye
 degusts
+nonloxodromic
