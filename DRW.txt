@@ -258640,3 +258640,4 @@ slakeable
 nonentitize
 incompressible
 moneran
+chronologize
