@@ -256305,3 +256305,4 @@ dextrorse
 stickiness
 bullpout
 mitsukurina
+hypnic
