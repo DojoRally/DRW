@@ -75286,3 +75286,4 @@ pluralizes
 uncharacter
 unnebulous
 spunny
+unbasted
