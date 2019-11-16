@@ -6652,3 +6652,4 @@ minotaur
 purpart
 conidia
 upstander
+streptotrichal
