@@ -138635,3 +138635,4 @@ nondepreciable
 parsimonious
 trunkback
 spectatorship
+recurvant
