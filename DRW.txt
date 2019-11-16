@@ -128583,3 +128583,4 @@ nonpersevering
 warnison
 ukranian
 predetermining
+sternums
