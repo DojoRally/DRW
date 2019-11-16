@@ -34833,3 +34833,4 @@ magistrative
 loxoclase
 coloroto
 ravissant
+semibold
