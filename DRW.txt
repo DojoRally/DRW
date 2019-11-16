@@ -188176,3 +188176,4 @@ anorthoclase
 mxd
 petr
 plectron
+acromiocoracoid
