@@ -155388,3 +155388,4 @@ donaciform
 sardius
 honkytonks
 minuter
+configurate
