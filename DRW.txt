@@ -129959,3 +129959,4 @@ tsadi
 elinvar
 tuggery
 squamariaceae
+foreknower
