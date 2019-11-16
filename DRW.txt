@@ -215514,3 +215514,4 @@ unsupernaturalized
 crookedest
 cochaired
 stints
+subpredicative
