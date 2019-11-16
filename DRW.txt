@@ -87711,3 +87711,4 @@ encounterable
 goniatite
 cailleach
 arlequinade
+tetanised
