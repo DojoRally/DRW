@@ -226941,3 +226941,4 @@ lucrify
 quintile
 postganglionic
 inwound
+geometrically
