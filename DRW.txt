@@ -54629,3 +54629,4 @@ autumnian
 nonexamination
 arrowlike
 crain
+detonable
