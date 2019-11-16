@@ -10132,3 +10132,4 @@ clappers
 garibaldi
 knavish
 picnickers
+covenable
