@@ -301,3 +301,4 @@ superseded
 subflexuose
 metathorax
 neuronym
+sonorescent
