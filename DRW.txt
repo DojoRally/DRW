@@ -18593,3 +18593,4 @@ paedomorphic
 subastral
 ciconiiformes
 sciograph
+decremented
