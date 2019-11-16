@@ -64366,3 +64366,4 @@ amyris
 ritualise
 handwear
 presubscription
+nonportable
