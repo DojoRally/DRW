@@ -101595,3 +101595,4 @@ organonym
 wezen
 decilitre
 aglycon
+stat
