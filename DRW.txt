@@ -145192,3 +145192,4 @@ whasle
 basoche
 causewayed
 equerries
+dextrocular
