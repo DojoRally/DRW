@@ -58996,3 +58996,4 @@ clansmen
 setioerr
 nongovernmental
 undangered
+stereotypist
