@@ -253599,3 +253599,4 @@ quadrupedant
 kamiks
 teocalli
 displeasedly
+declaratively
