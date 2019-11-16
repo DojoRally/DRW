@@ -142087,3 +142087,4 @@ planeting
 diatonic
 buttering
 stretchability
+laevorotation
