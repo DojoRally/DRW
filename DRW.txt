@@ -17575,3 +17575,4 @@ taxaceae
 decipherer
 citharoedus
 adieu
+monospored
