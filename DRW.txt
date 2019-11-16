@@ -14241,3 +14241,4 @@ transitivities
 gigeria
 pitch
 fullgrownness
+scratched
