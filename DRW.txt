@@ -161091,3 +161091,4 @@ midspan
 relook
 hexachord
 pinnatisected
+leucophanite
