@@ -54671,3 +54671,4 @@ alphabetizers
 defensed
 aspidiske
 unlockable
+leapingly
