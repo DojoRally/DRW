@@ -51641,3 +51641,4 @@ warrok
 activation
 demeore
 adjective
+kogai
