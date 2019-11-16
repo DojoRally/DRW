@@ -69357,3 +69357,4 @@ ideolect
 polyalcohol
 bandor
 attestative
+zwitterion
