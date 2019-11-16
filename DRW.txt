@@ -111874,3 +111874,4 @@ sulphosalicylic
 papillosarcoma
 synodus
 verdetto
+cumulant
