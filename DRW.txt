@@ -49434,3 +49434,4 @@ enstool
 chlorenchyma
 subsists
 vale
+hereditism
