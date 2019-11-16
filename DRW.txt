@@ -11623,3 +11623,4 @@ outchamber
 hassock
 anthropoclimatology
 invertant
+ellipsoid
