@@ -31438,3 +31438,4 @@ quetzals
 refreit
 cancerization
 inexpressibleness
+partitional
