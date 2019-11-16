@@ -58789,3 +58789,4 @@ aedility
 blowlamp
 dumpcart
 sanitates
+persisting
