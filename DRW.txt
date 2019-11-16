@@ -228713,3 +228713,4 @@ beanfeaster
 archduke
 rtw
 platerer
+monophthongizing
