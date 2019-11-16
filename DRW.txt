@@ -132866,3 +132866,4 @@ sulphurlike
 physostigma
 mesomorphic
 wrizzled
+decastyle
