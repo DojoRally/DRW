@@ -7601,3 +7601,4 @@ elapids
 endowing
 unsubstantiality
 nonvolatility
+shakable
