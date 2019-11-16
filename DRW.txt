@@ -111323,3 +111323,4 @@ anhydric
 karyomicrosome
 voyageur
 taurian
+isoclasite
