@@ -114150,3 +114150,4 @@ extremity
 trapezoid
 backpedaling
 oversorrowed
+raggedly
