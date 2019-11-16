@@ -51727,3 +51727,4 @@ pipefish
 sonatina
 wealdsman
 idiotropic
+unentranced
