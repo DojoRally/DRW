@@ -90851,3 +90851,4 @@ uniphase
 petticoatless
 griphosaurus
 sclerodactyly
+cornic
