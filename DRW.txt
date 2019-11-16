@@ -102675,3 +102675,4 @@ sunlike
 stooker
 commandless
 pressmen
+slinkiness
