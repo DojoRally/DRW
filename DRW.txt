@@ -192593,3 +192593,4 @@ umbonation
 chests
 badlands
 kevutzah
+taverns
