@@ -12869,3 +12869,4 @@ azoxytoluidine
 literals
 nonidiomatical
 minimal
+scyllium
