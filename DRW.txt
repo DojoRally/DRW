@@ -24923,3 +24923,4 @@ harnessed
 colipuncture
 stonewalling
 cubbyu
+gores
