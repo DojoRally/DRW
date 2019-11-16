@@ -253218,3 +253218,4 @@ polystichoid
 swingletail
 oba
 onery
+specifies
