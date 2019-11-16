@@ -233829,3 +233829,4 @@ entamebic
 miscorrect
 schizomycetes
 ultrafilter
+batrachite
