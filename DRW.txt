@@ -238154,3 +238154,4 @@ dicotyledon
 cardiosphygmograph
 malaclemys
 yaply
+spheniscan
