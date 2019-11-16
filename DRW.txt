@@ -243656,3 +243656,4 @@ rearrangeable
 multibranchiate
 swaddle
 overread
+kerolite
