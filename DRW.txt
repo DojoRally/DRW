@@ -109843,3 +109843,4 @@ sacrosanct
 fuligo
 forescript
 lipogram
+solitaires
