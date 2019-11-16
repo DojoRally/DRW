@@ -78459,3 +78459,4 @@ capoc
 sarcopsylla
 demidolmen
 easel
+tallied
