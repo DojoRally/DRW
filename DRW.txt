@@ -55719,3 +55719,4 @@ featish
 skoo
 destining
 adduce
+learnedness
