@@ -12043,3 +12043,4 @@ canchi
 lionisation
 enforced
 bespeaking
+narrowcast
