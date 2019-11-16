@@ -220,3 +220,4 @@ lepargyraea
 poikilothermy
 cocitizen
 cerebrocardiac
+dextrogyratory
