@@ -139857,3 +139857,4 @@ pectosic
 pozzolana
 phraseman
 decapod
+scripturalize
