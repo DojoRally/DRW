@@ -244578,3 +244578,4 @@ ipr
 ethylsulphuric
 lappula
 alroot
+pyrometer
