@@ -29638,3 +29638,4 @@ nonvulgarity
 manufactured
 graphemic
 vassalic
+compunctive
