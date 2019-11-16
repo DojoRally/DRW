@@ -10213,3 +10213,4 @@ athletic
 elt
 fixed
 unjuiced
+moshav
