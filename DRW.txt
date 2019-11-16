@@ -192314,3 +192314,4 @@ abbr
 obeyeo
 stultiloquious
 authoritative
+dissevering
