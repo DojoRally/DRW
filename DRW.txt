@@ -22237,3 +22237,4 @@ deluce
 oleographic
 slippy
 sullages
+manning
