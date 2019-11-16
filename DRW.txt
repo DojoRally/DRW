@@ -257111,3 +257111,4 @@ gunstock
 nonrigidity
 cabbing
 heterothallism
+hyetographical
