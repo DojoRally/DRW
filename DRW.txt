@@ -124419,3 +124419,4 @@ feudalizable
 anklong
 squamosotemporal
 vocalics
+nonvocally
