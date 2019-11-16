@@ -246032,3 +246032,4 @@ armigerous
 moguntine
 subchelate
 jacobinia
+reinitializes
