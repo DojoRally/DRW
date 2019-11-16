@@ -33182,3 +33182,4 @@ outechoes
 rotge
 pilea
 mezuzot
+mufasal
