@@ -87283,3 +87283,4 @@ equivalency
 semipedal
 candled
 articulated
+quersprung
