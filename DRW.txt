@@ -175471,3 +175471,4 @@ scabbing
 collisions
 nonsprouting
 vicelike
+lokapala
