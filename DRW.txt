@@ -53637,3 +53637,4 @@ caducean
 escargots
 entrant
 sneakbox
+isotropic
