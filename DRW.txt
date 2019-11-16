@@ -99252,3 +99252,4 @@ gamotropism
 refurbisher
 nonsystematic
 herms
+pointed
