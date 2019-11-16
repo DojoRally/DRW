@@ -53960,3 +53960,4 @@ scupper
 sweepable
 modernly
 stalely
+lipolytic
