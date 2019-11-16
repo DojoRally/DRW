@@ -251767,3 +251767,4 @@ turbopump
 supervenience
 threshingtime
 fundraising
+polysyndeton
