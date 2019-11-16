@@ -10136,3 +10136,4 @@ covenable
 animalculine
 amphicarpia
 brachet
+semiquadrantly
