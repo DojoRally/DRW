@@ -1755,3 +1755,4 @@ pyrometers
 sublieutenancy
 posterotemporal
 campania
+swungen
