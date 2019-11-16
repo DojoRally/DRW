@@ -201953,3 +201953,4 @@ util
 porriginous
 endromis
 spectroscope
+sexivalency
