@@ -117204,3 +117204,4 @@ conjectural
 molpe
 palmatifid
 proprietory
+homoscedasticity
