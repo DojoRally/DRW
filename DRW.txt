@@ -189691,3 +189691,4 @@ cordwainer
 phut
 malellae
 shoelaces
+adjustor
