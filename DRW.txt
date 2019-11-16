@@ -184113,3 +184113,4 @@ carcerist
 righthand
 cupbearers
 unicapsular
+unintelligentsia
