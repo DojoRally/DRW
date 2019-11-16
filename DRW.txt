@@ -187276,3 +187276,4 @@ unweeting
 diminishes
 affine
 glabrescent
+stalagmometric
