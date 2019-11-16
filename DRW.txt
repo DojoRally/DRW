@@ -240365,3 +240365,4 @@ nonjuristical
 structureless
 endarchy
 rangeman
+punctuates
