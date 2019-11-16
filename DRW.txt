@@ -77140,3 +77140,4 @@ undersize
 keyman
 sawlog
 ameliorant
+pernitrate
