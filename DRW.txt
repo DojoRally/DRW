@@ -250495,3 +250495,4 @@ exogen
 sortilegi
 drypoint
 midshipmanship
+pentaspherical
