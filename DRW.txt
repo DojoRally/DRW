@@ -115485,3 +115485,4 @@ alkekengi
 subduple
 masked
 ungrasp
+knowable
