@@ -3502,3 +3502,4 @@ antechambers
 recurrent
 regretting
 slumberless
+conscribed
