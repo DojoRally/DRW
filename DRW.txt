@@ -128975,3 +128975,4 @@ prediscountable
 aposafranine
 hapalotis
 loose
+diaphanometric
