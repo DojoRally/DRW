@@ -181219,3 +181219,4 @@ rosinwood
 semivisible
 besplit
 assayer
+unallow
