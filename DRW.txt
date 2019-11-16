@@ -240224,3 +240224,4 @@ aves
 relinquishing
 overfellowlike
 tenontology
+vernalization
