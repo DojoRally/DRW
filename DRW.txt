@@ -213366,3 +213366,4 @@ floatages
 precoagulation
 unhalting
 monothetic
+deviascope
