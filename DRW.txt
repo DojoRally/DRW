@@ -52845,3 +52845,4 @@ helminthes
 phaneroglossa
 haematic
 stodging
+leopardine
