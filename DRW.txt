@@ -65886,3 +65886,4 @@ ql
 trailboard
 exarch
 stevia
+quinquesyllabic
