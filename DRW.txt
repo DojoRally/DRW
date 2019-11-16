@@ -16154,3 +16154,4 @@ axioms
 memoranda
 summates
 variates
+duxes
