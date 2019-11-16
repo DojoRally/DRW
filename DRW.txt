@@ -9599,3 +9599,4 @@ psammophile
 benin
 adiaphonon
 sigmate
+palewise
