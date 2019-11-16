@@ -95636,3 +95636,4 @@ ectozoon
 pingos
 monadically
 allochetia
+geology
