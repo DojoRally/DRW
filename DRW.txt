@@ -114946,3 +114946,4 @@ transubstantiation
 bisymmetry
 unnaturality
 preeffect
+generalia
