@@ -255385,3 +255385,4 @@ exundate
 telluriferous
 dipylon
 oppidans
+agistator
