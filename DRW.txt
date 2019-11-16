@@ -26815,3 +26815,4 @@ lewisites
 slow
 carriageful
 battlements
+quadruplex
