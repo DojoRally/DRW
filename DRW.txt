@@ -249686,3 +249686,4 @@ lenticle
 proscribed
 nonenforcement
 boulangerite
+shehita
