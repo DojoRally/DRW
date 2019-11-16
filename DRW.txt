@@ -10236,3 +10236,4 @@ grumness
 electromagnetist
 locoisms
 pregratified
+intervaled
