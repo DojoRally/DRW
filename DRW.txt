@@ -173947,3 +173947,4 @@ uncoded
 impeller
 foremastmen
 croak
+worsened
