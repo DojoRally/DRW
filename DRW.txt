@@ -220530,3 +220530,4 @@ sweeping
 rectilinearly
 focalises
 psittaci
+criticule
