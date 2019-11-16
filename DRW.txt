@@ -114814,3 +114814,4 @@ scavager
 squirelike
 coordinate
 nonabsolute
+loxic
