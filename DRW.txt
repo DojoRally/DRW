@@ -84292,3 +84292,4 @@ ruinlike
 scatting
 ferlied
 skippable
+peglike
