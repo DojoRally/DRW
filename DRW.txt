@@ -117658,3 +117658,4 @@ varnishment
 carnival
 nonshaft
 seleucidian
+recloseable
