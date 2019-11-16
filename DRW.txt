@@ -997,3 +997,4 @@ needlewoman
 nonuniform
 rosebuds
 philia
+verbalize
