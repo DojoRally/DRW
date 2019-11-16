@@ -21881,3 +21881,4 @@ stringentness
 locomotive
 candlewright
 overachiever
+plutocrat
