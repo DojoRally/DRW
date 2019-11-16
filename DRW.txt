@@ -141873,3 +141873,4 @@ ghostology
 secos
 minnesingers
 embattled
+degummed
