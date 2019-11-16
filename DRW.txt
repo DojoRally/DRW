@@ -249551,3 +249551,4 @@ menostatic
 hydrolyse
 nonvagrancy
 violability
+pericytial
