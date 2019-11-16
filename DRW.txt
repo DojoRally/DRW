@@ -61985,3 +61985,4 @@ suckless
 alphabets
 philanthropical
 demiquaver
+turkology
