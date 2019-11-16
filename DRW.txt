@@ -128825,3 +128825,4 @@ adhort
 superabstractness
 willable
 codpitchings
+labioalveolar
