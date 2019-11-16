@@ -39638,3 +39638,4 @@ oosperms
 carabao
 dislimned
 headquarters
+electroscope
