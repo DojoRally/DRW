@@ -200091,3 +200091,4 @@ erratic
 prerefine
 categorical
 encouragingly
+chronometrically
