@@ -153848,3 +153848,4 @@ degradand
 minionship
 ruleless
 excommenge
+sorenesses
