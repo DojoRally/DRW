@@ -62591,3 +62591,4 @@ hypotony
 thermotactic
 unabrupt
 epiglottal
+squaliform
