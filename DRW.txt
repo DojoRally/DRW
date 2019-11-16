@@ -40324,3 +40324,4 @@ disweapon
 neurectomy
 automat
 dialling
+chalicotheriid
