@@ -255882,3 +255882,4 @@ isort
 ritualless
 odonates
 monasterial
+latitancy
