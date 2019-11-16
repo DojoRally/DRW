@@ -114849,3 +114849,4 @@ intertone
 burbled
 remedially
 segment
+phonematic
