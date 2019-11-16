@@ -150494,3 +150494,4 @@ storeship
 mossiness
 dihalide
 zoomantic
+globules
