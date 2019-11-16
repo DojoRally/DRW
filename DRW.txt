@@ -146311,3 +146311,4 @@ reedy
 ragwort
 eyra
 pneumatometry
+spectroradiometric
