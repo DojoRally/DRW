@@ -13248,3 +13248,4 @@ socage
 sway
 terrestrialize
 amorite
+phyllophagous
