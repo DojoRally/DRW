@@ -206445,3 +206445,4 @@ lexicality
 kurt
 prearm
 pareil
+rearrive
