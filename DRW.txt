@@ -43265,3 +43265,4 @@ spadices
 epimysia
 audiovisuals
 keypunch
+hamper
