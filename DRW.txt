@@ -251832,3 +251832,4 @@ haematal
 unprovision
 tuberculinization
 unfertileness
+veridic
