@@ -18848,3 +18848,4 @@ pipelined
 prebend
 glorying
 towability
+actinisms
