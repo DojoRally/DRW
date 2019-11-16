@@ -213186,3 +213186,4 @@ evolutions
 stonker
 tamasha
 algophobia
+shouldered
