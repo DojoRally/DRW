@@ -5899,3 +5899,4 @@ gospellike
 glump
 scribbleism
 atip
+nonmetaphoric
