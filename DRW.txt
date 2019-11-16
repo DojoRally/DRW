@@ -22756,3 +22756,4 @@ voltzine
 shorings
 undocumented
 skeletonian
+futurology
