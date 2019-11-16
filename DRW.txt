@@ -159825,3 +159825,4 @@ families
 queencraft
 dishiest
 doubtful
+infinitival
