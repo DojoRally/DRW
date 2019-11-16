@@ -201402,3 +201402,4 @@ whirlpool
 pendulumlike
 marginality
 inferrible
+supervention
