@@ -113038,3 +113038,4 @@ short
 treron
 peripolygonal
 passivism
+polyglotwise
