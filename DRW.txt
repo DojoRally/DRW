@@ -222197,3 +222197,4 @@ nogada
 retrofit
 destructions
 bumaloe
+chalutzim
