@@ -174552,3 +174552,4 @@ photochemical
 lacewing
 epidosite
 rocklet
+trichomes
