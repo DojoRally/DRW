@@ -19942,3 +19942,4 @@ speaklessly
 spikers
 piedly
 recognising
+postfoveal
