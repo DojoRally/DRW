@@ -198330,3 +198330,4 @@ waterings
 akinetic
 float
 styptical
+kottigite
