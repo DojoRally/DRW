@@ -14502,3 +14502,4 @@ outcastness
 norm
 reallocate
 unbitted
+lumbrical
