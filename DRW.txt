@@ -203658,3 +203658,4 @@ reticules
 geniting
 slideable
 fruggin
+equangular
