@@ -125869,3 +125869,4 @@ pyrales
 hybridisable
 counterstand
 expelling
+endosporous
