@@ -197741,3 +197741,4 @@ posterointernal
 probabilize
 nonpelagic
 orthorrhapha
+sphaerite
