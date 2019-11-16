@@ -1247,3 +1247,4 @@ selenomancy
 nonproficience
 stickability
 equestrian
+dentil
