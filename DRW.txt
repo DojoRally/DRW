@@ -44158,3 +44158,4 @@ trifoliate
 overpowering
 predeclaring
 preobliging
+longwall
