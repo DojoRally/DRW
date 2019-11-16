@@ -201871,3 +201871,4 @@ eyeletter
 amuguis
 gradometer
 airbrick
+slantwise
