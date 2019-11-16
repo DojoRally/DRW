@@ -35906,3 +35906,4 @@ specializations
 ungeneralizing
 unaggravating
 stateliest
+spectropolarimeter
