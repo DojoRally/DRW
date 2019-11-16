@@ -125765,3 +125765,4 @@ spilehole
 observantness
 differentialize
 subdialectal
+champart
