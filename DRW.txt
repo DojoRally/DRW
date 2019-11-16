@@ -68493,3 +68493,4 @@ fluctuates
 oldstyle
 ignifuge
 unhappiness
+krypsis
