@@ -182349,3 +182349,4 @@ neoteny
 drouthy
 nondiffractive
 anophele
+adapter
