@@ -114729,3 +114729,4 @@ electuary
 isabnormal
 waily
 behindsight
+autoriser
