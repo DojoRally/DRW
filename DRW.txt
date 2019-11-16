@@ -51142,3 +51142,4 @@ whelping
 humdrumness
 burgoos
 bitingness
+declarative
