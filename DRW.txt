@@ -74151,3 +74151,4 @@ jankers
 junkerish
 sporoblast
 brombenzene
+semipermeable
