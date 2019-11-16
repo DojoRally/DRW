@@ -75853,3 +75853,4 @@ unreinstated
 remapped
 unsacerdotally
 partition
+propagating
