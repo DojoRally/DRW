@@ -5192,3 +5192,4 @@ subtrapezoidal
 tab
 portances
 copsing
+suspiral
