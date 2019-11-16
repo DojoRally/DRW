@@ -12361,3 +12361,4 @@ prophases
 prosodic
 compd
 plantationlike
+telespectroscope
