@@ -8838,3 +8838,4 @@ analgias
 counterembowed
 recitative
 noncryptical
+sparable
