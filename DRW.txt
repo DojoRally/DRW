@@ -261653,3 +261653,4 @@ nonambulaties
 adroitest
 dipole
 enfettered
+defaillance
