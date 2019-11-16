@@ -5169,3 +5169,4 @@ physicked
 prostatorrhoea
 unimpeding
 scantiness
+lemma
