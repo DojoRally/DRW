@@ -50655,3 +50655,4 @@ perlid
 wofully
 laconical
 inframandibular
+semihyperbolic
