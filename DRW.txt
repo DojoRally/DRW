@@ -126875,3 +126875,4 @@ benchman
 disregard
 agadic
 scyphoi
+pentagonoid
