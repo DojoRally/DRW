@@ -81868,3 +81868,4 @@ subentry
 palynologic
 newstand
 giraffidae
+reconfine
