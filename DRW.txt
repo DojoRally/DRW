@@ -166824,3 +166824,4 @@ tebu
 dacryolith
 meningoencephalocele
 unrecovered
+encephalopathic
