@@ -210163,3 +210163,4 @@ scorpaenoid
 downway
 astrologian
 unvolunteering
+declension
