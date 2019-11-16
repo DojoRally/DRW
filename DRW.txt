@@ -45349,3 +45349,4 @@ tellurometer
 secus
 mooleys
 ultramoderate
+vernacularly
