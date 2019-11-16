@@ -194549,3 +194549,4 @@ guilloche
 ordinarier
 swingier
 useable
+diamond
