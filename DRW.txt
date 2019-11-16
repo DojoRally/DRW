@@ -89726,3 +89726,4 @@ petrohyoid
 heptadecane
 heteromorphite
 dipyramidal
+isomagnetic
