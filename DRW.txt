@@ -40799,3 +40799,4 @@ stockcar
 phyllophore
 haematid
 cadis
+obduracies
