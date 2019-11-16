@@ -202886,3 +202886,4 @@ sordes
 regiven
 spectroradiometer
 perdue
+revisable
