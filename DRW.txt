@@ -250716,3 +250716,4 @@ transit
 tachytype
 arendalite
 acquirers
+telecaster
