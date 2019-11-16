@@ -127207,3 +127207,4 @@ ouanga
 quipus
 ure
 unchasteness
+asserts
