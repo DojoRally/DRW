@@ -126007,3 +126007,4 @@ stretchy
 subregent
 alod
 limpiness
+smithite
