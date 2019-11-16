@@ -88518,3 +88518,4 @@ fingertip
 opusculum
 pretended
 pend
+intercross
