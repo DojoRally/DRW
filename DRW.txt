@@ -127152,3 +127152,4 @@ hapi
 spatialist
 exemption
 rotativism
+subpastorship
