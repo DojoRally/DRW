@@ -34582,3 +34582,4 @@ weaponproof
 inflamers
 trichinal
 haptophoric
+nonadeptly
