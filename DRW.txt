@@ -27690,3 +27690,4 @@ polyspast
 lighthearted
 eucairite
 intermutual
+nonportability
