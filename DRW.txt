@@ -10544,3 +10544,4 @@ stourie
 elliptoid
 hypokinetic
 heterocaryosis
+semiannular
