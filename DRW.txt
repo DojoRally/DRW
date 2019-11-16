@@ -122811,3 +122811,4 @@ pelf
 underfed
 obscurism
 swarmingness
+oracle
