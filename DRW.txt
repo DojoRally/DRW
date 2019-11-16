@@ -25900,3 +25900,4 @@ foundries
 stalactic
 ablet
 branchiate
+parsimony
