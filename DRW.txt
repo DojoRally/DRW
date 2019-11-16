@@ -100143,3 +100143,4 @@ geosynchronous
 nonplanetary
 interloan
 speeches
+splores
