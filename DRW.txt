@@ -998,3 +998,4 @@ nonuniform
 rosebuds
 philia
 verbalize
+appellativeness
