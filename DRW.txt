@@ -167945,3 +167945,4 @@ infuse
 scud
 multiplier
 giunta
+decipolar
