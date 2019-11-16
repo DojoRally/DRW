@@ -16236,3 +16236,4 @@ evea
 hesperidin
 undeprecatively
 unstartled
+pentahalide
