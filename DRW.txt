@@ -166943,3 +166943,4 @@ biunivocal
 washup
 rollicky
 triticale
+nonspinosity
