@@ -28045,3 +28045,4 @@ relievos
 justicier
 reforger
 valiant
+cleruchy
