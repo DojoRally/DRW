@@ -34295,3 +34295,4 @@ nothingize
 undermaid
 misemphasize
 aplanatic
+minimizes
