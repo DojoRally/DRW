@@ -255232,3 +255232,4 @@ camoufleurs
 glockenspiel
 floscular
 duotriode
+telchinic
