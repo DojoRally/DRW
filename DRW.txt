@@ -155969,3 +155969,4 @@ temperamented
 precordial
 settos
 prurigo
+manualiter
