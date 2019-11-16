@@ -228996,3 +228996,4 @@ dashel
 haslock
 snapout
 galleon
+devitalizes
