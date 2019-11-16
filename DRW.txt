@@ -113600,3 +113600,4 @@ chestfuls
 quaeres
 subcontained
 soubresaut
+multiloquous
