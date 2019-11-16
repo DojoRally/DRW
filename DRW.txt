@@ -256713,3 +256713,4 @@ ayyubid
 departure
 sipylite
 officialdom
+entitative
