@@ -181321,3 +181321,4 @@ lintwhite
 scrawny
 spaciotemporal
 morrenian
+variformed
