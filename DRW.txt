@@ -3673,3 +3673,4 @@ uncriticised
 afterdate
 acroter
 interservice
+consonantized
