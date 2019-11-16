@@ -140670,3 +140670,4 @@ pauciarticulated
 cypraea
 foist
 hydrolytic
+lenticel
