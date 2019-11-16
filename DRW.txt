@@ -202330,3 +202330,4 @@ hesychast
 raash
 prefixable
 crucifix
+devolves
