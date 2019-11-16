@@ -29639,3 +29639,4 @@ manufactured
 graphemic
 vassalic
 compunctive
+quinse
