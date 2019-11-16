@@ -172563,3 +172563,4 @@ utopianizer
 subnuclei
 subpoenal
 trappable
+declared
