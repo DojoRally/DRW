@@ -22608,3 +22608,4 @@ uncocted
 reaggregate
 trespassory
 spiderier
+daguerreotypist
