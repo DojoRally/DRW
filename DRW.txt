@@ -251719,3 +251719,4 @@ dendrons
 vulgare
 cirrhose
 genearch
+abdominoscope
