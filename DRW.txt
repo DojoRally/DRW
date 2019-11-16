@@ -72867,3 +72867,4 @@ communise
 dikelocephalid
 geophilous
 nonfriction
+nonmomentary
