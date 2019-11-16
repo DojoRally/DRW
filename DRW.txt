@@ -11994,3 +11994,4 @@ quetch
 isobarism
 opuscula
 truckled
+fattable
