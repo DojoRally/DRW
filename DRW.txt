@@ -258220,3 +258220,4 @@ sympatric
 untackling
 vestibules
 foliiform
+opened
