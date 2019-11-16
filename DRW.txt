@@ -225015,3 +225015,4 @@ dotations
 fut
 cummingtonite
 hypapophysis
+poikiloblastic
