@@ -79225,3 +79225,4 @@ monosynthetic
 teutonize
 underpoint
 hambro
+lumbang
