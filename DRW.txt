@@ -248814,3 +248814,4 @@ nondegenerate
 bungmaker
 obsolescence
 adactylism
+scleritic
