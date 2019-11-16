@@ -10813,3 +10813,4 @@ quirt
 delimitation
 superspecialize
 reabbreviate
+polynomialist
