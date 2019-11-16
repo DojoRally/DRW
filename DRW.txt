@@ -147620,3 +147620,4 @@ dal
 polystomium
 microapparatus
 isogonics
+quadrant
