@@ -42191,3 +42191,4 @@ smokables
 contrayerva
 nonflexibleness
 nonsymmetry
+ispravnik
