@@ -192671,3 +192671,4 @@ holohedrism
 fw
 peristalsis
 caboshed
+deanimalize
