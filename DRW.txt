@@ -27790,3 +27790,4 @@ locules
 foujdarry
 overidden
 afridi
+managery
