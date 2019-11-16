@@ -187900,3 +187900,4 @@ aristology
 peggy
 tipply
 variegated
+felspath
