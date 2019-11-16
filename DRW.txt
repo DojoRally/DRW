@@ -50209,3 +50209,4 @@ petrels
 terebras
 fibrocaseous
 tanquen
+equilocation
