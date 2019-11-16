@@ -54812,3 +54812,4 @@ capsules
 microdensitometric
 palaeethnology
 semidurables
+heterotelic
