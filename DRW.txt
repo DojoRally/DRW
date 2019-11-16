@@ -258619,3 +258619,4 @@ wanderable
 thermosynthesis
 antitypal
 coplanar
+acquirement
