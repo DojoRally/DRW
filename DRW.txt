@@ -3796,3 +3796,4 @@ chaussees
 centuried
 skinkers
 lacis
+statutary
