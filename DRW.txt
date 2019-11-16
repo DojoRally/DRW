@@ -6768,3 +6768,4 @@ zombiism
 lithy
 mahajan
 overgratify
+chars
