@@ -219088,3 +219088,4 @@ rorid
 unimplicable
 undistinguishable
 recitatif
+orientationally
