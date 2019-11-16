@@ -78717,3 +78717,4 @@ exceptio
 windedness
 precognitions
 salvarsan
+penalise
