@@ -217162,3 +217162,4 @@ wheelbox
 koto
 calli
 camasses
+substantiative
