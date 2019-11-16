@@ -18569,3 +18569,4 @@ yesterday
 garnerage
 guises
 catapults
+pledable
