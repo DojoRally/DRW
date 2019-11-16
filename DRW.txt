@@ -154575,3 +154575,4 @@ hardcore
 wavering
 devoutlessly
 nonconvergence
+spinors
