@@ -249060,3 +249060,4 @@ supraposition
 depredicate
 deflexion
 temporaneous
+parcelwise
