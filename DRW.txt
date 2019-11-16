@@ -773,3 +773,4 @@ waregga
 waistcloths
 frithstool
 manzanita
+planispheric
