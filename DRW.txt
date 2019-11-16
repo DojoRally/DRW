@@ -262004,3 +262004,4 @@ finger
 dyebeck
 cruet
 prefix
+lycorine
