@@ -75806,3 +75806,4 @@ tannometer
 germiparity
 escuela
 caphtor
+equivote
