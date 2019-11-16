@@ -51612,3 +51612,4 @@ cartomancy
 rightness
 nonsentence
 uncamped
+transversan
