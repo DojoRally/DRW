@@ -77635,3 +77635,4 @@ spherable
 hagarite
 salify
 bepurple
+nidorous
