@@ -118062,3 +118062,4 @@ infectible
 eaver
 unheader
 pikemen
+unaffectedness
