@@ -54092,3 +54092,4 @@ descale
 birefringent
 munchet
 superexertion
+subvirate
