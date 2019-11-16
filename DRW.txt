@@ -139694,3 +139694,4 @@ sveltest
 inefficiently
 uncontrastable
 kishen
+colligative
