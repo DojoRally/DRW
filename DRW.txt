@@ -219220,3 +219220,4 @@ precerebroid
 somatoderm
 trade
 autocollimator
+prismatoidal
