@@ -191628,3 +191628,4 @@ catastrophe
 acrolith
 glaikit
 precyclonic
+exoclinal
