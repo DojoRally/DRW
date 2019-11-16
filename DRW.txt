@@ -128018,3 +128018,4 @@ outparagon
 waive
 artefacts
 fasciolaria
+macroseismic
