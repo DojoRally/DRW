@@ -225841,3 +225841,4 @@ pomaces
 costotrachelian
 rubdowns
 vorticity
+jambiya
