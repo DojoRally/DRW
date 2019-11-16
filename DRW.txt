@@ -106931,3 +106931,4 @@ equipartition
 imperforata
 tentwort
 vicarate
+settleability
