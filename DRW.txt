@@ -259560,3 +259560,4 @@ gapeseed
 logarithmic
 explicated
 staggerweed
+scrimshaw
