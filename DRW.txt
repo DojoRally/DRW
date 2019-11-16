@@ -5059,3 +5059,4 @@ punchier
 unsegmental
 coachability
 metis
+solomonic
