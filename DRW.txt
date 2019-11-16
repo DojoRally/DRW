@@ -5308,3 +5308,4 @@ sneakishness
 obrogate
 overgang
 penuriously
+elementary
