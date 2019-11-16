@@ -12035,3 +12035,4 @@ brocho
 banqueter
 pyralidoidea
 sweetmeal
+entailable
