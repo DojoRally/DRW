@@ -63953,3 +63953,4 @@ actualise
 calelectric
 churls
 overt
+exempt
