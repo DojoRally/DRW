@@ -203020,3 +203020,4 @@ lignitiferous
 marmatite
 clinometer
 skiable
+spoofed
