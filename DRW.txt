@@ -234698,3 +234698,4 @@ fellas
 nonextended
 stoichiometric
 pivotable
+speel
