@@ -149515,3 +149515,4 @@ unsymmetrically
 uncharge
 genesis
 monocycly
+shuswap
