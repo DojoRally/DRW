@@ -150042,3 +150042,4 @@ colob
 pantatype
 triplet
 pyramidally
+filicoid
