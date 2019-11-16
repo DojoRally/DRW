@@ -152492,3 +152492,4 @@ lore
 wheatear
 auspiciousness
 ycie
+reacclimates
