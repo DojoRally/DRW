@@ -104056,3 +104056,4 @@ reinstation
 palaeocosmology
 lapse
 bichromatize
+anaclastic
