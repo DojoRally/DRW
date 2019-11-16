@@ -188031,3 +188031,4 @@ acroterteria
 polypods
 decasyllabic
 unshakeable
+segmenter
