@@ -204042,3 +204042,4 @@ andouillet
 monochloroacetic
 discarding
 hydrolysis
+regenerable
