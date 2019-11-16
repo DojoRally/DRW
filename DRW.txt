@@ -227671,3 +227671,4 @@ chaetotactic
 viertelein
 multistriate
 premedian
+hemiprism
