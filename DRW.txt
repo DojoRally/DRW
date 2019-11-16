@@ -234697,3 +234697,4 @@ fervorless
 fellas
 nonextended
 stoichiometric
+pivotable
