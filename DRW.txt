@@ -214174,3 +214174,4 @@ cushion
 pinus
 thoracal
 urochrome
+lenticels
