@@ -121,3 +121,4 @@ foulish
 pathognostic
 pancreatolith
 tachinarian
+homocercality
