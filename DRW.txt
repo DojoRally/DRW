@@ -1243,3 +1243,4 @@ hematein
 tutele
 whoot
 outfool
+selenomancy
