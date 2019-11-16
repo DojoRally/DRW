@@ -141760,3 +141760,4 @@ reattack
 bullock
 glossina
 herbish
+approbative
