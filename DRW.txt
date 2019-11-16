@@ -40708,3 +40708,4 @@ sagamore
 thermoscope
 suppressively
 nondisparity
+intersuperciliary
