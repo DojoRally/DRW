@@ -138650,3 +138650,4 @@ limpest
 sensorivolitional
 reapproving
 fitted
+exactness
