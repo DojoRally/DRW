@@ -237592,3 +237592,4 @@ quicks
 bespeed
 nonrationalized
 phototrophic
+dysanagnosia
