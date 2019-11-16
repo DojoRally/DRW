@@ -58521,3 +58521,4 @@ scorpius
 territorialized
 physiotype
 lozengy
+dibhole
