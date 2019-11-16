@@ -47296,3 +47296,4 @@ skey
 undersigned
 postmarked
 numerals
+foveate
