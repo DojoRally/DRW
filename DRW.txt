@@ -205794,3 +205794,4 @@ directionless
 unshrinkingly
 gawky
 stouth
+regeneration
