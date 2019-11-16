@@ -167321,3 +167321,4 @@ punctuated
 predisclosed
 successivity
 clinopyroxene
+pentagon
