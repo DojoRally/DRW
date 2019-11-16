@@ -212466,3 +212466,4 @@ hollower
 dechlog
 chromatium
 agglomeratic
+ostracum
