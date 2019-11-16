@@ -112057,3 +112057,4 @@ newscast
 archfoe
 fennecs
 nonrevivalist
+streptothricin
