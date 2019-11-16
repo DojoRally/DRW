@@ -30196,3 +30196,4 @@ unannounced
 retrogressively
 leme
 mirrored
+assignable
