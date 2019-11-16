@@ -1157,3 +1157,4 @@ carapache
 realign
 astrometeorological
 ikon
+conformableness
