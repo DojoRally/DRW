@@ -1296,3 +1296,4 @@ snum
 streaking
 arithmetician
 mimmock
+seleucia
