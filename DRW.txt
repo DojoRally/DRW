@@ -145772,3 +145772,4 @@ surfings
 coprocessors
 agoutis
 cameras
+nonexercisable
