@@ -151467,3 +151467,4 @@ nonaccordant
 incubations
 renegades
 copernicia
+invariableness
