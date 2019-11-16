@@ -130994,3 +130994,4 @@ examinable
 tungo
 fonnish
 proscholium
+knowledgably
