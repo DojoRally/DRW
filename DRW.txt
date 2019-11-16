@@ -105016,3 +105016,4 @@ microoperations
 serpens
 yowes
 centiplume
+circumlocutionary
