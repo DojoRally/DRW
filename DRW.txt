@@ -248394,3 +248394,4 @@ mos
 typewrite
 autostandardization
 felicide
+propriatory
