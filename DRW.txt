@@ -146941,3 +146941,4 @@ tor
 presecure
 undercup
 devastating
+punctured
