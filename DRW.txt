@@ -84720,3 +84720,4 @@ yardsticks
 plaud
 bagdi
 anaculture
+insectaria
