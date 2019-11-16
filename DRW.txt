@@ -106443,3 +106443,4 @@ hemiopsia
 subparalytic
 unperemptoriness
 minelayers
+exciton
