@@ -137980,3 +137980,4 @@ ordeals
 stinkstone
 untravellable
 jibbeh
+planeta
