@@ -42299,3 +42299,4 @@ interlocutor
 zygosporange
 babion
 inscribable
+bowed
