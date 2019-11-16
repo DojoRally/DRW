@@ -53635,3 +53635,4 @@ unbankrupt
 gust
 caducean
 escargots
+entrant
