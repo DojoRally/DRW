@@ -256642,3 +256642,4 @@ ketonemia
 modest
 shibbeen
 unrespectiveness
+intransitive
