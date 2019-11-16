@@ -196850,3 +196850,4 @@ splayfooted
 negritoid
 georgium
 popess
+palestral
