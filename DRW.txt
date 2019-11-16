@@ -84707,3 +84707,4 @@ infund
 paccha
 kinetonema
 marigraph
+uniaxially
