@@ -128502,3 +128502,4 @@ cymtia
 forge
 forfeiter
 makeress
+weakness
