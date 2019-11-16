@@ -85472,3 +85472,4 @@ whimsicalities
 roy
 bractlet
 unspouselike
+subscripted
