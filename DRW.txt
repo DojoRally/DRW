@@ -227499,3 +227499,4 @@ initialisation
 proacademic
 locality
 oversolemnly
+equip
