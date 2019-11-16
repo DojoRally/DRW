@@ -225319,3 +225319,4 @@ sternwheel
 bugginess
 furnaced
 splayfoot
+eradiate
