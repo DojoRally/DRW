@@ -52952,3 +52952,4 @@ allantoic
 trichromatist
 regent
 colorfastness
+anhydrous
