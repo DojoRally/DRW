@@ -112915,3 +112915,4 @@ dizzies
 librettos
 carnaubic
 freyr
+latinic
