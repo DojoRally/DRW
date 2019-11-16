@@ -107926,3 +107926,4 @@ sicsac
 mucrones
 emissarium
 dunnesses
+vowelless
