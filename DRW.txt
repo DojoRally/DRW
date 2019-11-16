@@ -1523,3 +1523,4 @@ lineal
 pujari
 stenocardia
 infraclavicular
+bony
