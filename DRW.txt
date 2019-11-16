@@ -1800,3 +1800,4 @@ orbicularly
 mesonotum
 karyologic
 restandardization
+symmetrize
