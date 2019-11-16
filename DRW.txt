@@ -255154,3 +255154,4 @@ waveshape
 torma
 lrecl
 reconfirmation
+adorns
