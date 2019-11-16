@@ -57459,3 +57459,4 @@ submersing
 siderostatic
 snarl
 nuncio
+momentum
