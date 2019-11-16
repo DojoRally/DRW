@@ -211518,3 +211518,4 @@ electrotropic
 xylidin
 ballyhoo
 macrofarad
+newfangle
