@@ -7915,3 +7915,4 @@ equipollentness
 ventose
 gormands
 paraleipsis
+swaps
