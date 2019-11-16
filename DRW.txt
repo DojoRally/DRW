@@ -132252,3 +132252,4 @@ planches
 ratskeller
 bleaters
 ploughline
+vernacularizing
