@@ -41955,3 +41955,4 @@ subdefinitions
 usheen
 homodromy
 undestroyed
+shorthanded
