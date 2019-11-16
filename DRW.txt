@@ -49368,3 +49368,4 @@ ellipticalness
 arbovirus
 diverse
 chylophylly
+subclassed
