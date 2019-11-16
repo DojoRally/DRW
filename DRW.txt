@@ -1413,3 +1413,4 @@ severalness
 petitory
 fisk
 nocuously
+meliorates
