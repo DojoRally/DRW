@@ -78640,3 +78640,4 @@ ethernets
 deglycerine
 biograph
 noninitial
+relegable
