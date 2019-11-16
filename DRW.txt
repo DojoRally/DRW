@@ -112755,3 +112755,4 @@ deviator
 equiponderate
 brios
 overneutralization
+hachured
