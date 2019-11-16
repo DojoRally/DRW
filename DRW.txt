@@ -2692,3 +2692,4 @@ outbearing
 woodrime
 overblessed
 nadir
+curtail
