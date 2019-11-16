@@ -249344,3 +249344,4 @@ pebbleware
 nauplioid
 quinize
 elamp
+epidiorite
