@@ -82942,3 +82942,4 @@ furlong
 vergers
 prescriptions
 flavoured
+impartation
