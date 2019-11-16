@@ -248495,3 +248495,4 @@ petiolata
 sauld
 sextic
 phonic
+semiamplitude
