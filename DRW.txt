@@ -88246,3 +88246,4 @@ uveal
 devisee
 intaglioed
 plomb
+vicesimal
