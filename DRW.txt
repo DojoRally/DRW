@@ -29677,3 +29677,4 @@ broking
 hematocathartic
 pupillar
 ptg
+immunities
