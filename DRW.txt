@@ -140888,3 +140888,4 @@ countersigning
 lithoid
 ambilian
 scutcheonless
+stereotelescope
