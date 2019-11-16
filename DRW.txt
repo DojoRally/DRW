@@ -94822,3 +94822,4 @@ moira
 grype
 unlocalize
 neoterical
+sociolegal
