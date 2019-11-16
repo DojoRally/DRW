@@ -97231,3 +97231,4 @@ resurgam
 bigamic
 antistatic
 nonprobability
+nondefectively
