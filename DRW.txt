@@ -29985,3 +29985,4 @@ italici
 doorkeep
 periportal
 quindecemvir
+singularist
