@@ -187739,3 +187739,4 @@ alchemic
 intermigrate
 factorize
 foresays
+isochlor
