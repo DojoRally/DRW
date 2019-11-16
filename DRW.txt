@@ -60321,3 +60321,4 @@ ratoon
 phantasmic
 shashlick
 addis
+decurrence
