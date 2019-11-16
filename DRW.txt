@@ -19365,3 +19365,4 @@ voiders
 washaki
 brachiocephalic
 intermittency
+inflecting
