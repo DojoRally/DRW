@@ -1862,3 +1862,4 @@ tegmina
 crossbreed
 replacers
 coracohumeral
+superopposition
