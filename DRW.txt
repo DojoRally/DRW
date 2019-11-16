@@ -122523,3 +122523,4 @@ diphthonging
 isotone
 abayah
 mesiolingual
+tri
