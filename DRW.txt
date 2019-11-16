@@ -247941,3 +247941,4 @@ outwhirled
 hydrants
 pythagoric
 prosodetic
+disposed
