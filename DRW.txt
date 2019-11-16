@@ -8700,3 +8700,4 @@ introspectional
 mesochroic
 apolarity
 unemasculated
+vitrotype
