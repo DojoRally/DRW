@@ -17837,3 +17837,4 @@ calamander
 homemake
 nihilitic
 monochromous
+teleologic
