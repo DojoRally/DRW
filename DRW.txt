@@ -188578,3 +188578,4 @@ mat
 unbitten
 fonduk
 landholdings
+moveables
