@@ -85153,3 +85153,4 @@ capybaras
 homotherm
 giobertite
 cimmerian
+frieze
