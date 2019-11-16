@@ -255954,3 +255954,4 @@ complementarism
 revay
 moleism
 dimna
+nonrotatable
