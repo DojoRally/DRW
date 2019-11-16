@@ -241301,3 +241301,4 @@ propositional
 gunfights
 refreshed
 shesha
+taluks
