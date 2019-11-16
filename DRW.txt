@@ -257142,3 +257142,4 @@ stereophysics
 exonym
 semiovalness
 upfurl
+nonvortical
