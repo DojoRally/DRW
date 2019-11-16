@@ -126447,3 +126447,4 @@ undeluged
 slowpoke
 harakiri
 unbed
+superpowers
