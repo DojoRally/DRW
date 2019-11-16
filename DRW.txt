@@ -8256,3 +8256,4 @@ gault
 antipodist
 feedway
 groupoids
+semipolar
