@@ -38917,3 +38917,4 @@ dioptrically
 tautness
 agathodaemon
 lamnid
+secondes
