@@ -42813,3 +42813,4 @@ ideographical
 primeness
 broomy
 weirdless
+pentahedroid
