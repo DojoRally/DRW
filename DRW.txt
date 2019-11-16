@@ -105322,3 +105322,4 @@ cwt
 cumaean
 unwallet
 witches
+pertinency
