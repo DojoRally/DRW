@@ -221419,3 +221419,4 @@ essancias
 noncausativeness
 catasarka
 dagger
+tenuto
