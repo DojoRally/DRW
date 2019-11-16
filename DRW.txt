@@ -137285,3 +137285,4 @@ stooge
 plangency
 retroject
 unhang
+favouring
