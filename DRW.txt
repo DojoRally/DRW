@@ -205443,3 +205443,4 @@ counterarch
 repr
 inversable
 emphyteuta
+stemmer
