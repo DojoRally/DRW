@@ -199181,3 +199181,4 @@ bulls
 fennig
 mustering
 aptitudinal
+gnomonic
