@@ -40292,3 +40292,4 @@ bismark
 kangarooer
 craniognomy
 imbedding
+annalist
