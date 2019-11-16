@@ -206952,3 +206952,4 @@ celsitude
 recalcine
 outtrail
 subatomic
+vernacle
