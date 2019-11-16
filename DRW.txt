@@ -34227,3 +34227,4 @@ isograft
 slaved
 unhobbling
 mazily
+unscooped
