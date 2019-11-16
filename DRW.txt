@@ -151905,3 +151905,4 @@ renounceable
 compliances
 conjuror
 envision
+ostensive
