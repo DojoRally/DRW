@@ -13995,3 +13995,4 @@ synodic
 outreads
 keekers
 gyroscope
+circumzenithal
