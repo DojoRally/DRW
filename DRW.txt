@@ -226332,3 +226332,4 @@ pianograph
 epinikion
 cyamelid
 biblicist
+sinistrocular
