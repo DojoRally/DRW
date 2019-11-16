@@ -130730,3 +130730,4 @@ disconformable
 primatal
 protosphargis
 grubbed
+rotationally
