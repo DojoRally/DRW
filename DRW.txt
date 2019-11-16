@@ -85962,3 +85962,4 @@ firmed
 pteraspid
 syllab
 intermigrated
+handgrasp
