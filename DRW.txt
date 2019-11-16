@@ -184513,3 +184513,4 @@ endostracum
 illocality
 glaucic
 intsv
+berkelium
