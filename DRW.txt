@@ -235677,3 +235677,4 @@ feedback
 puzzlingly
 quiteve
 transducer
+endows
