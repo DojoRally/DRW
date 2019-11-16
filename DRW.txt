@@ -87959,3 +87959,4 @@ dratchell
 reknitted
 guerilla
 sceptibly
+auxometer
