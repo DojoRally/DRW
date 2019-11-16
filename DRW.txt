@@ -248236,3 +248236,4 @@ cadmia
 repulverize
 unknowable
 moed
+kinetomeric
