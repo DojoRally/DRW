@@ -27163,3 +27163,4 @@ insecution
 spikiness
 significatrix
 senegin
+weighted
