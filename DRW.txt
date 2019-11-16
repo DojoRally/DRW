@@ -29665,3 +29665,4 @@ biometrist
 tuberculosectorial
 niminy
 dominance
+sturdiness
