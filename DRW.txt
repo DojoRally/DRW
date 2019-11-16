@@ -5814,3 +5814,4 @@ noninstinctively
 mandapa
 musk
 manjak
+vietnamese
