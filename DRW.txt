@@ -3859,3 +3859,4 @@ fullterm
 reglorify
 overinterference
 yahrzeits
+geodesia
