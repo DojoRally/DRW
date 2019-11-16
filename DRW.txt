@@ -7311,3 +7311,4 @@ steampipe
 bradypod
 distinctive
 hypolithic
+hdlc
