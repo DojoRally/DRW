@@ -179718,3 +179718,4 @@ geod
 seceding
 subqualities
 unscotched
+starven
