@@ -141710,3 +141710,4 @@ armomancy
 plateman
 amphidisk
 abanic
+equatable
