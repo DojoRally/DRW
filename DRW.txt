@@ -47640,3 +47640,4 @@ sharecroppers
 profiled
 collectivized
 resterilize
+emmetropy
