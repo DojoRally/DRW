@@ -27159,3 +27159,4 @@ swirrer
 duplexity
 membranophonic
 stavewise
+insecution
