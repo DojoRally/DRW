@@ -49247,3 +49247,4 @@ helvite
 ungraded
 hotplate
 romped
+podzolization
