@@ -154312,3 +154312,4 @@ isocolic
 iapygian
 subgraph
 galvanoscope
+stomode
