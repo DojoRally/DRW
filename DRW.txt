@@ -31768,3 +31768,4 @@ spars
 periastron
 cecotomy
 unrepleviable
+deallocates
