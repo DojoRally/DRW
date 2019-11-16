@@ -234740,3 +234740,4 @@ marrock
 linguanasal
 diadic
 thunge
+avestan
