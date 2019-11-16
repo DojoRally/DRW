@@ -25374,3 +25374,4 @@ enregistering
 chapelet
 genua
 gurle
+ownable
