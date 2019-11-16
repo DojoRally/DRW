@@ -220443,3 +220443,4 @@ outsoar
 gnomon
 eudiometric
 microspectrophotometer
+evaluative
