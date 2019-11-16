@@ -230967,3 +230967,4 @@ bursters
 chanteyman
 dipmeter
 uranate
+resumptive
