@@ -169384,3 +169384,4 @@ prickseam
 palets
 autotomising
 unharped
+shames
