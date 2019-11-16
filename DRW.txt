@@ -26208,3 +26208,4 @@ sortition
 nonmendicancy
 cryptodynamic
 lazurite
+idant
