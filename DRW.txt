@@ -213605,3 +213605,4 @@ insatisfaction
 poeticizing
 parascenia
 sonneting
+overstrict
