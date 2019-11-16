@@ -215433,3 +215433,4 @@ unwaked
 subsister
 pernea
 disaggregate
+movableness
