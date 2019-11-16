@@ -187742,3 +187742,4 @@ foresays
 isochlor
 kyat
 taurobolia
+periphrastic
