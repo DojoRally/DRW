@@ -10836,3 +10836,4 @@ cyphosis
 overnarrow
 chantage
 prepatellar
+unverbose
