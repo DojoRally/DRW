@@ -244342,3 +244342,4 @@ kinesiometer
 pistache
 agonal
 capsicin
+ankylos
