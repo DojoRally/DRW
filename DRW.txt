@@ -116428,3 +116428,4 @@ eye
 bytalk
 telautograph
 deafly
+apotropaion
