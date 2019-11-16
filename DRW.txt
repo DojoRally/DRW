@@ -190339,3 +190339,4 @@ gams
 encowl
 derogative
 pocketer
+particularizes
