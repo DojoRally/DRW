@@ -226370,3 +226370,4 @@ sabalote
 credens
 podobranchial
 twinning
+promotable
