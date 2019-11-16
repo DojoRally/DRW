@@ -248878,3 +248878,4 @@ preconcessive
 midchannel
 eonism
 semiround
+faiences
