@@ -39240,3 +39240,4 @@ disables
 superwager
 endozoic
 prophage
+cosingular
