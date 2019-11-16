@@ -197704,3 +197704,4 @@ unhurriedness
 prothrift
 pantheonize
 semielision
+faithful
