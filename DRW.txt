@@ -114558,3 +114558,4 @@ lingel
 khayal
 gweducs
 bremsstrahlung
+analagous
