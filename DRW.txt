@@ -42298,3 +42298,4 @@ dodecatheon
 interlocutor
 zygosporange
 babion
+inscribable
