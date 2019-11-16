@@ -17299,3 +17299,4 @@ inflector
 zonar
 adamical
 dematerializing
+encoignures
