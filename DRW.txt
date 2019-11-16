@@ -193445,3 +193445,4 @@ accursedness
 headed
 orchard
 displeasurement
+isogeny
