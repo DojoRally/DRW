@@ -85934,3 +85934,4 @@ pleistoseist
 incant
 pratique
 curatorship
+temporaries
