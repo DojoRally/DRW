@@ -176796,3 +176796,4 @@ arcsine
 balneal
 transcurrent
 incompatible
+avowals
