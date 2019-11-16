@@ -147318,3 +147318,4 @@ transmaterial
 monact
 manganiferous
 vomito
+bequeath
