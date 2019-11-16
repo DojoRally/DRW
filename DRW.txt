@@ -125915,3 +125915,4 @@ serinus
 afield
 computers
 etheling
+glucokinase
