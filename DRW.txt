@@ -106507,3 +106507,4 @@ hexastich
 mitigation
 rhombogene
 humanness
+semiopenness
