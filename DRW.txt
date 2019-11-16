@@ -25108,3 +25108,4 @@ nigrifying
 subnitrated
 subproduct
 disadvancing
+tablewise
