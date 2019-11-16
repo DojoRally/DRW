@@ -133378,3 +133378,4 @@ pyrenomycetes
 plasmodiocarp
 coinquinate
 gymnostomous
+limnic
