@@ -59452,3 +59452,4 @@ arterial
 centuple
 imprescribable
 redefying
+semidefinite
