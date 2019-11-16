@@ -12617,3 +12617,4 @@ vernissage
 reassemble
 maskalonges
 humbuggers
+monocoque
