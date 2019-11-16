@@ -187240,3 +187240,4 @@ hyena
 manucodiata
 lymphotrophic
 nonperpendicular
+transposableness
