@@ -7914,3 +7914,4 @@ staysail
 equipollentness
 ventose
 gormands
+paraleipsis
