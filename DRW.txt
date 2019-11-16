@@ -18023,3 +18023,4 @@ prerelation
 rexes
 skiptail
 nonregistrable
+hyperite
