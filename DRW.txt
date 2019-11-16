@@ -118470,3 +118470,4 @@ chromaticity
 abradable
 dispassion
 recipiangle
+lispers
