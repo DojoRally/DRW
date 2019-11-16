@@ -246966,3 +246966,4 @@ simplifications
 anthodia
 okanagan
 nonsecretion
+tetradrachmon
