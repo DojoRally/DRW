@@ -5283,3 +5283,4 @@ startled
 proration
 polyphylogeny
 koali
+prepronounce
