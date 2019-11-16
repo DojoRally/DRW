@@ -85,3 +85,4 @@ coboss
 cherna
 knet
 danios
+coinherent
