@@ -211324,3 +211324,4 @@ countersworn
 demonograph
 relinquishment
 amicability
+osculant
