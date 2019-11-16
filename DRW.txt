@@ -29686,3 +29686,4 @@ theatergoer
 attentive
 readvising
 betake
+tared
