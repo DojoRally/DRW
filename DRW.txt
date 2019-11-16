@@ -128295,3 +128295,4 @@ communications
 dermestoid
 homogony
 transpenetration
+ephippium
