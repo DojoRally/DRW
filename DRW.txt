@@ -47256,3 +47256,4 @@ galline
 entrec
 magiristic
 monotremate
+misaligned
