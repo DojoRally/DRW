@@ -69527,3 +69527,4 @@ nonintegrable
 divid
 colorblind
 unrotative
+slumped
