@@ -19844,3 +19844,4 @@ untaunted
 mithraitic
 polypody
 baleful
+kalamkari
