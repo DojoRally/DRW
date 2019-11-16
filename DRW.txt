@@ -65950,3 +65950,4 @@ simulacrize
 aerocharidae
 staller
 induce
+categoric
