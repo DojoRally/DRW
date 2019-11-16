@@ -101605,3 +101605,4 @@ rostellarian
 craver
 thermotank
 metallurgical
+spears
