@@ -58663,3 +58663,4 @@ tyre
 laevorotatory
 tophphi
 seigneur
+denominationalize
