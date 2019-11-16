@@ -43321,3 +43321,4 @@ specifiers
 pithwork
 plumbagin
 generically
+iproniazid
