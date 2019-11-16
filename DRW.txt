@@ -100079,3 +100079,4 @@ mentionability
 sideritis
 crabhole
 unwayed
+frizzly
