@@ -347372,3 +347372,4 @@ prosaicism
 unperson
 onychophagy
 cognosce
+palindromic
