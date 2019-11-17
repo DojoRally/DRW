@@ -335348,3 +335348,4 @@ sat
 monometallism
 anthracite
 untortuous
+monoliteral
