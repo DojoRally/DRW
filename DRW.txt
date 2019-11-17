@@ -307053,3 +307053,4 @@ lettercard
 shambrier
 gravitometer
 zamindary
+entosphere
