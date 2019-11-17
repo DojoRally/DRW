@@ -312847,3 +312847,4 @@ specialize
 panglossic
 diphthongs
 foret
+aleochara
