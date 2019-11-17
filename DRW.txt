@@ -332760,3 +332760,4 @@ bewary
 potamologist
 pebblestone
 premaker
+gyrostabilized
