@@ -265343,3 +265343,4 @@ abjuration
 unintroductive
 inlard
 inagile
+comprehends
