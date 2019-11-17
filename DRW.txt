@@ -275053,3 +275053,4 @@ infracts
 atmometry
 portulan
 meddler
+semiallegoric
