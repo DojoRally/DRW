@@ -277078,3 +277078,4 @@ unprovoke
 nonchangeable
 noncultured
 optogram
+exosporal
