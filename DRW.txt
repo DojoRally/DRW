@@ -310048,3 +310048,4 @@ compassable
 ichthyophagi
 intermingled
 zonary
+semicolumnar
