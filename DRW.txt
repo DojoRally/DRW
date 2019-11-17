@@ -284139,3 +284139,4 @@ ballastic
 puppetry
 kaolin
 puppying
+sternbergite
