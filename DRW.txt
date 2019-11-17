@@ -299112,3 +299112,4 @@ fuguist
 zymologist
 cassiduloid
 anemoscope
+operates
