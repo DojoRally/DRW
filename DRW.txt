@@ -322073,3 +322073,4 @@ morigerate
 notative
 polytrope
 incolant
+regenerators
