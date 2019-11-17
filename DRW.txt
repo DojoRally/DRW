@@ -369530,3 +369530,4 @@ xis
 kommos
 kousin
 galician
+autogamic
