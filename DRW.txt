@@ -284666,3 +284666,4 @@ quaternion
 hagworm
 sceneries
 diacetylmorphine
+spherosome
