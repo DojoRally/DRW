@@ -292069,3 +292069,4 @@ luminaire
 unsalvageable
 entitule
 agentries
+oximetric
