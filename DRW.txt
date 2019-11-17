@@ -293877,3 +293877,4 @@ craniums
 principals
 jacu
 inharmoniously
+monophthongal
