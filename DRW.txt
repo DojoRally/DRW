@@ -264247,3 +264247,4 @@ nonperpetration
 subdividingly
 eversion
 zea
+nonadjacency
