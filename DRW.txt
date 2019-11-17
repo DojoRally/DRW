@@ -284830,3 +284830,4 @@ trisotropis
 onomastical
 planeshear
 hansa
+capstone
