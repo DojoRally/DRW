@@ -327196,3 +327196,4 @@ discanter
 spectate
 banderoling
 heaved
+taluk
