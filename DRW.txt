@@ -314639,3 +314639,4 @@ wettest
 dedolomitize
 reevidenced
 ignitron
+adaptations
