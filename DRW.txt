@@ -347295,3 +347295,4 @@ lobsters
 station
 waisters
 pasteur
+furnacite
