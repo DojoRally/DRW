@@ -299731,3 +299731,4 @@ entablements
 doubling
 manifoldwise
 quilleted
+yorkist
