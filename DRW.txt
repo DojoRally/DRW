@@ -302247,3 +302247,4 @@ semitact
 reconfigure
 purblindly
 foozle
+abridged
