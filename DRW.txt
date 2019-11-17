@@ -312846,3 +312846,4 @@ barbotine
 specialize
 panglossic
 diphthongs
+foret
