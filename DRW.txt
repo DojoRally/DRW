@@ -361257,3 +361257,4 @@ pyretologist
 pyramidically
 dilatate
 ergo
+adequateness
