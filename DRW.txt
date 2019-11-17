@@ -270082,3 +270082,4 @@ subseptate
 spoonbills
 unfriendliest
 inspanning
+averager
