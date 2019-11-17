@@ -284678,3 +284678,4 @@ crosshand
 jumpseed
 activeness
 deaeration
+demeans
