@@ -359966,3 +359966,4 @@ chordoid
 flaccidness
 nonround
 cornwall
+semihibernation
