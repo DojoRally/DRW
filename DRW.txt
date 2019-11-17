@@ -325849,3 +325849,4 @@ urgency
 fagoty
 tridents
 noncritical
+vernacularise
