@@ -276531,3 +276531,4 @@ helicity
 inextinct
 bollards
 eurythermous
+recurved
