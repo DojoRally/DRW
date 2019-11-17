@@ -272179,3 +272179,4 @@ gravelliness
 dorcas
 capturable
 cracksman
+ore
