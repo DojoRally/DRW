@@ -265290,3 +265290,4 @@ bivious
 planula
 inpatient
 detassel
+compartmentally
