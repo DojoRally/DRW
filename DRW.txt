@@ -354544,3 +354544,4 @@ escapees
 vernacularised
 sunderer
 telotype
+glyptal
