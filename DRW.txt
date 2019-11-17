@@ -302501,3 +302501,4 @@ slurring
 macroaggregated
 reequipping
 stratigraphical
+pinioning
