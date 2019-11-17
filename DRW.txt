@@ -313190,3 +313190,4 @@ shorthead
 jalloped
 parsings
 unviciously
+declinable
