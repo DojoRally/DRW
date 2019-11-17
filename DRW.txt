@@ -278410,3 +278410,4 @@ bughouse
 supersingular
 therophyte
 fondant
+hulsean
