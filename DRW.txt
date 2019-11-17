@@ -268843,3 +268843,4 @@ nonextraneousness
 gregos
 transect
 davenports
+isogonic
