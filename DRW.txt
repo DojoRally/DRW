@@ -349385,3 +349385,4 @@ decomposers
 histograms
 overgeneralizing
 digitized
+exacerbate
