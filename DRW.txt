@@ -271958,3 +271958,4 @@ query
 clingers
 spheroidally
 pleurotomies
+petrificant
