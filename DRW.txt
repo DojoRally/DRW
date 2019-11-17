@@ -341310,3 +341310,4 @@ octyl
 cursed
 heptastich
 mincy
+imbricative
