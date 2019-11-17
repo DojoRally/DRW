@@ -299117,3 +299117,4 @@ concessible
 serphoid
 aristulate
 almice
+slidable
