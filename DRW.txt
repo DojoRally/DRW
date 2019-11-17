@@ -293943,3 +293943,4 @@ vise
 tartarlike
 socketed
 pulsator
+finagler
