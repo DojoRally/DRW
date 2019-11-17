@@ -329937,3 +329937,4 @@ noritic
 gesticulatory
 hypophrenosis
 plethrum
+opisometer
