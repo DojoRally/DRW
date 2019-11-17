@@ -293121,3 +293121,4 @@ noncoinage
 bioelectrical
 vaginant
 opes
+perdure
