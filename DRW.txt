@@ -317539,3 +317539,4 @@ isocheimal
 bugbane
 astonisher
 demioctagonal
+magnifiable
