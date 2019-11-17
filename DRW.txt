@@ -315163,3 +315163,4 @@ luminous
 sorceress
 shuffle
 conquerableness
+hartal
