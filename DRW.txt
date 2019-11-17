@@ -306942,3 +306942,4 @@ inscriptible
 ablaut
 gleanable
 derfness
+frequenter
