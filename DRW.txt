@@ -334624,3 +334624,4 @@ spectatrix
 boundaries
 incommensurably
 spermaduct
+propagableness
