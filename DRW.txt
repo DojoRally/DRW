@@ -367969,3 +367969,4 @@ forsakenness
 brightness
 gauze
 imbat
+expectantly
