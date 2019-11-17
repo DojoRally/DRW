@@ -327890,3 +327890,4 @@ subconformably
 agnoete
 reoccur
 formalizations
+itinerate
