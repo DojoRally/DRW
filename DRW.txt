@@ -299729,3 +299729,4 @@ woulfe
 decasualization
 entablements
 doubling
+manifoldwise
