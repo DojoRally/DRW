@@ -293371,3 +293371,4 @@ diathermometer
 graphemics
 dunites
 municipalist
+anapestic
