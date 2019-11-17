@@ -274579,3 +274579,4 @@ petrogenesis
 paronymy
 aveniform
 fishhouse
+intersectant
