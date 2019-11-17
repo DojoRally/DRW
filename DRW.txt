@@ -364071,3 +364071,4 @@ probationer
 homing
 resections
 autonomies
+degressive
