@@ -293942,3 +293942,4 @@ jocote
 vise
 tartarlike
 socketed
+pulsator
