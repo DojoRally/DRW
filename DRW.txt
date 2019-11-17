@@ -264951,3 +264951,4 @@ triality
 servantlike
 phototonus
 ransacking
+nonmagnetized
