@@ -360849,3 +360849,4 @@ rices
 brachygraphic
 zincifies
 shape
+talis
