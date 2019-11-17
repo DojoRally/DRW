@@ -347688,3 +347688,4 @@ hylic
 degreeless
 bicyclic
 achromate
+acutilinguae
