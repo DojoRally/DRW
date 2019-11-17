@@ -354545,3 +354545,4 @@ vernacularised
 sunderer
 telotype
 glyptal
+sectarial
