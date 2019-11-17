@@ -333539,3 +333539,4 @@ predictor
 polyanthus
 downtowner
 strammer
+spinthariscopic
