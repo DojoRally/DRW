@@ -290681,3 +290681,4 @@ prionodesmatic
 ale
 kartometer
 palatal
+degradations
