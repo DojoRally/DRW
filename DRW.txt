@@ -343660,3 +343660,4 @@ telescreen
 illyrian
 enhypostasis
 unquantified
+adequacies
