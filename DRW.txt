@@ -364072,3 +364072,4 @@ homing
 resections
 autonomies
 degressive
+revocably
