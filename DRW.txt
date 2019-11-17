@@ -344622,3 +344622,4 @@ aculeiform
 argentamin
 bank
 antisalooner
+sleeving
