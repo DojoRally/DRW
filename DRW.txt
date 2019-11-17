@@ -294319,3 +294319,4 @@ hedgebreaker
 fireguard
 beckons
 silicea
+bombyciform
