@@ -367094,3 +367094,4 @@ heliostat
 dicyanine
 fertilize
 gitterns
+autosight
