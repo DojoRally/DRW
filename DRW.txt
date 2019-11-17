@@ -279897,3 +279897,4 @@ deerdog
 caeremoniarius
 monoptical
 beavered
+auspex
