@@ -293502,3 +293502,4 @@ tabernacler
 coving
 chiefship
 sphenoid
+statampere
