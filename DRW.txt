@@ -301360,3 +301360,4 @@ protogenic
 nonliteralness
 tranquillized
 covary
+collimated
