@@ -347703,3 +347703,4 @@ glanduliform
 georgette
 photovitrotype
 forerank
+logicity
