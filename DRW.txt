@@ -343642,3 +343642,4 @@ flookan
 naiskos
 defaulters
 ventilator
+minas
