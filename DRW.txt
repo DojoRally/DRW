@@ -338892,3 +338892,4 @@ telepath
 arecaine
 mir
 anthropolite
+triakistetrahedron
