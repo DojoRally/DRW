@@ -302640,3 +302640,4 @@ pentamethylenediamine
 locoman
 ampelite
 berkeleian
+assayable
