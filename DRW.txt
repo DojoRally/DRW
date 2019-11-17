@@ -295829,3 +295829,4 @@ westernmost
 maleo
 osmolality
 kelvin
+entailments
