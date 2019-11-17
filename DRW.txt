@@ -341933,3 +341933,4 @@ unabbreviated
 tusk
 diplosphene
 monodont
+velocimeter
