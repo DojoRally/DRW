@@ -311250,3 +311250,4 @@ crux
 slabby
 sureness
 feasibleness
+stative
