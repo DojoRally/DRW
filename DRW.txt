@@ -327287,3 +327287,4 @@ triequal
 pairle
 gridded
 unportuous
+semiconvergent
