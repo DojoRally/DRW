@@ -353419,3 +353419,4 @@ verbality
 tangile
 contracted
 phaenogamic
+euplastic
