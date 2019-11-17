@@ -316689,3 +316689,4 @@ vitium
 abmho
 colberter
 unrespective
+temperaments
