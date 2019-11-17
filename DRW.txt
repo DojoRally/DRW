@@ -286621,3 +286621,4 @@ biclinium
 charging
 unbeclogged
 plurisyllabic
+instar
