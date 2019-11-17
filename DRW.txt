@@ -296539,3 +296539,4 @@ uninfixed
 precandidacy
 dispost
 nontraditionalistic
+toric
