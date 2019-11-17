@@ -356198,3 +356198,4 @@ anemograph
 twines
 logeion
 papooses
+equalizer
