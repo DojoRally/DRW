@@ -303059,3 +303059,4 @@ cognizers
 roborants
 ergometrine
 sleep
+telescoping
