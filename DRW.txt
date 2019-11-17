@@ -296042,3 +296042,4 @@ epilate
 pharos
 vinegarish
 arcticizing
+diaphanometer
