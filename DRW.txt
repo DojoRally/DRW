@@ -324791,3 +324791,4 @@ inexactness
 verdin
 affectionate
 counterlit
+opalizing
