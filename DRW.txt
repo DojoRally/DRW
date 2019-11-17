@@ -349827,3 +349827,4 @@ unsty
 nonconveyance
 outpatients
 contemplativeness
+aphoristical
