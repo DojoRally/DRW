@@ -287078,3 +287078,4 @@ unwarning
 dovelikeness
 obstructors
 traiteurs
+applicable
