@@ -330841,3 +330841,4 @@ revolant
 anchorage
 suberite
 brimstone
+chondric
