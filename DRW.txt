@@ -288443,3 +288443,4 @@ multititular
 pitchblende
 dedecoration
 teleblem
+mensurative
