@@ -291929,3 +291929,4 @@ spooled
 spondylolisthetic
 gaslights
 potlicker
+devanagari
