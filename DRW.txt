@@ -364945,3 +364945,4 @@ characterist
 electroendosmosis
 chauvin
 unclosable
+enantiosis
