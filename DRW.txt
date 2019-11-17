@@ -273432,3 +273432,4 @@ undevious
 hydnum
 gyrofrequencies
 silene
+unpenetrative
