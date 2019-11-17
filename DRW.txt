@@ -333280,3 +333280,4 @@ relower
 decretory
 sciential
 inspection
+lateraling
