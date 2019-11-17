@@ -326321,3 +326321,4 @@ atlatl
 terebra
 cherokees
 banting
+decasyllabon
