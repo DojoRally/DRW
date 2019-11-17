@@ -332094,3 +332094,4 @@ thermostability
 laconica
 preexposure
 felworts
+dured
