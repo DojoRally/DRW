@@ -280399,3 +280399,4 @@ veduis
 katakana
 couranto
 hor
+korwa
