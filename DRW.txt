@@ -301638,3 +301638,4 @@ subgular
 dissyllabised
 reversos
 bilinear
+allegate
