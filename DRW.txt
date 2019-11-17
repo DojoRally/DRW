@@ -293915,3 +293915,4 @@ brie
 hemidome
 ratiometer
 coater
+sorediform
