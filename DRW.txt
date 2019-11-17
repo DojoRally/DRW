@@ -283189,3 +283189,4 @@ gracile
 scowbanker
 brontophobia
 endarch
+minimums
