@@ -290935,3 +290935,4 @@ footmaker
 sovereignness
 vizircraft
 availableness
+spear
