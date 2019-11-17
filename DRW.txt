@@ -280352,3 +280352,4 @@ hemathermal
 upwhirl
 bagwoman
 furiant
+pyroheliometer
