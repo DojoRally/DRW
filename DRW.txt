@@ -297684,3 +297684,4 @@ spinthariscope
 unemissive
 thunderbox
 corrobboree
+hypnesthetic
