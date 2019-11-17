@@ -291285,3 +291285,4 @@ conjugally
 brickleness
 metenteron
 multinomial
+seasonal
