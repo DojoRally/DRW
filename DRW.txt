@@ -308616,3 +308616,4 @@ frustule
 oliviform
 grewt
 chibrit
+thriftlike
