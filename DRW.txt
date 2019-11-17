@@ -284820,3 +284820,4 @@ nondiametrally
 prediscrimination
 inspirometer
 homoeogenous
+hyposcleral
