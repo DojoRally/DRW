@@ -292110,3 +292110,4 @@ regard
 granitize
 poechore
 surnap
+diagrammed
