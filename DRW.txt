@@ -329249,3 +329249,4 @@ bachelors
 inkra
 canonicalize
 vermicidal
+devitalized
