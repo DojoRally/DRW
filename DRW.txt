@@ -293503,3 +293503,4 @@ coving
 chiefship
 sphenoid
 statampere
+encapsulate
