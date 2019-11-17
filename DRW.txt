@@ -302306,3 +302306,4 @@ uninitiatedness
 isothiocyano
 photogs
 unpolymerized
+opposabilities
