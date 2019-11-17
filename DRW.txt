@@ -300754,3 +300754,4 @@ leglike
 stimulability
 answerableness
 monoxide
+deponents
