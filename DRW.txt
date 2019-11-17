@@ -310734,3 +310734,4 @@ nonmilitary
 skindiver
 washes
 skulk
+torpedoist
