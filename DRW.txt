@@ -281000,3 +281000,4 @@ satd
 photogrammetry
 similize
 broil
+hectograph
