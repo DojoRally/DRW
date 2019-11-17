@@ -307028,3 +307028,4 @@ battable
 koans
 confidingness
 bohemium
+pertinacious
