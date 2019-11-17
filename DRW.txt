@@ -315158,3 +315158,4 @@ semidouble
 underlap
 lingeries
 cardol
+triangulated
