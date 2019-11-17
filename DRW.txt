@@ -287708,3 +287708,4 @@ deflagrate
 endotoxin
 multiflagellated
 waterborne
+stripeless
