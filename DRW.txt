@@ -312691,3 +312691,4 @@ kimigayo
 apses
 multiversion
 sovenance
+tty
