@@ -316477,3 +316477,4 @@ summand
 unfumed
 nonangling
 denoting
+sheared
