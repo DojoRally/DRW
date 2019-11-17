@@ -323810,3 +323810,4 @@ hundredweight
 ensnarer
 pellagrous
 apis
+artocarpus
