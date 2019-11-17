@@ -366190,3 +366190,4 @@ pseudoadiabatic
 unlectured
 foralite
 fugacity
+preadapted
