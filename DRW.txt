@@ -278768,3 +278768,4 @@ begob
 sonde
 triglid
 goniatitoid
+semipendent
