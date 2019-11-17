@@ -295483,3 +295483,4 @@ coding
 caprate
 ute
 phratries
+unemancipable
