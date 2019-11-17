@@ -284314,3 +284314,4 @@ feodaries
 exogenic
 autoxidizable
 caulicole
+aphicidal
