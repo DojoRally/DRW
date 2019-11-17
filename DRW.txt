@@ -286714,3 +286714,4 @@ disbarment
 bugology
 dearness
 gedact
+prerogativity
