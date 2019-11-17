@@ -307898,3 +307898,4 @@ amphigouri
 commentation
 potlache
 woolshearer
+clericate
