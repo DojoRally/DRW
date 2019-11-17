@@ -290926,3 +290926,4 @@ fingerstone
 riga
 pseudospore
 pyrophanous
+reshaving
