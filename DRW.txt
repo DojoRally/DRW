@@ -267696,3 +267696,4 @@ superlocal
 capitalizer
 feature
 retroserrate
+megohm
