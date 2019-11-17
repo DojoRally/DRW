@@ -299970,3 +299970,4 @@ emits
 squinance
 suprasegmental
 paxilliform
+aspiratory
