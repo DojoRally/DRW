@@ -264985,3 +264985,4 @@ terminals
 transliterations
 brushwood
 telang
+smiris
