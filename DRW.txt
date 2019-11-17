@@ -331653,3 +331653,4 @@ troop
 cementification
 falding
 sporogonic
+pantelephonic
