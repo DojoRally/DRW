@@ -299930,3 +299930,4 @@ preinherit
 nainsel
 garlandwise
 cholecalciferol
+pharmacopedics
