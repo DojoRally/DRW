@@ -285655,3 +285655,4 @@ inexperts
 ichnomancy
 protonemata
 faddiness
+corer
