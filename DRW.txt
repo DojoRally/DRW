@@ -293944,3 +293944,4 @@ tartarlike
 socketed
 pulsator
 finagler
+weathergleam
