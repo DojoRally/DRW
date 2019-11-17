@@ -327877,3 +327877,4 @@ lithology
 parse
 laniiform
 bostrychoid
+rigidity
