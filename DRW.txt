@@ -308496,3 +308496,4 @@ hourless
 seamarks
 subassociation
 stipulated
+pentathionate
