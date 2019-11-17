@@ -328168,3 +328168,4 @@ globs
 moonlighty
 configuring
 dialiness
+trientalis
