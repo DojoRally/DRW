@@ -277771,3 +277771,4 @@ recoverable
 kinkled
 foredoomed
 allegorised
+endamaged
