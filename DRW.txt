@@ -266405,3 +266405,4 @@ beastdom
 outman
 coworker
 watchglass
+stagmometer
