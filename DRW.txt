@@ -264984,3 +264984,4 @@ rationaliser
 terminals
 transliterations
 brushwood
+telang
