@@ -351242,3 +351242,4 @@ palliation
 antiphrastic
 chequerwise
 foredoing
+stringlike
