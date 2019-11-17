@@ -301359,3 +301359,4 @@ garget
 protogenic
 nonliteralness
 tranquillized
+covary
