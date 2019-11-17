@@ -277956,3 +277956,4 @@ gelatinate
 nonpolarity
 sexisyllable
 epigastric
+curative
