@@ -286616,3 +286616,4 @@ unportable
 multispindle
 expiations
 noncollectable
+psychophysically
