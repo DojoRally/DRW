@@ -311088,3 +311088,4 @@ maltols
 leftist
 overshortness
 windrow
+unopportunistic
