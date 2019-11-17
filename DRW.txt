@@ -319956,3 +319956,4 @@ tunableness
 minted
 shrewdy
 slackening
+donatively
