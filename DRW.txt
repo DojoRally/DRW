@@ -351782,3 +351782,4 @@ homophone
 innominate
 quindecasyllabic
 escorts
+unregularized
