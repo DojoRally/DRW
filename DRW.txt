@@ -311552,3 +311552,4 @@ unsanctioning
 undershirts
 ellipsoids
 macroconidium
+compactify
