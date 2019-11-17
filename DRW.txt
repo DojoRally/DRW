@@ -334051,3 +334051,4 @@ seismisms
 dexiotropous
 outlead
 peridotitic
+scleroscope
