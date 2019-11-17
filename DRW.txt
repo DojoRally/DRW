@@ -295250,3 +295250,4 @@ nonretardation
 diamagnet
 capistrate
 wickerware
+defervesced
