@@ -341932,3 +341932,4 @@ gravemaster
 unabbreviated
 tusk
 diplosphene
+monodont
