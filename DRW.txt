@@ -300112,3 +300112,4 @@ parachroia
 floatation
 supersimplify
 pseudoporphyritic
+loric
