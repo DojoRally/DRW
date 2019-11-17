@@ -339762,3 +339762,4 @@ spatiation
 hexastigm
 roosterless
 cozener
+semiperoid
