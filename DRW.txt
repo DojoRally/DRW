@@ -269275,3 +269275,4 @@ transcolor
 santimi
 tapa
 nonexcessively
+somatotonic
