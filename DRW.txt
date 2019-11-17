@@ -302670,3 +302670,4 @@ lapfuls
 repairable
 formulaically
 parked
+striate
