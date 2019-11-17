@@ -352308,3 +352308,4 @@ lumbersome
 autoprogressive
 stagewise
 phrygianize
+isoglosses
