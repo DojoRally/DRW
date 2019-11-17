@@ -288583,3 +288583,4 @@ calcannei
 unaggregated
 repiner
 congealer
+adoptabilities
