@@ -346676,3 +346676,4 @@ cutoff
 interdependent
 tongsmen
 sahras
+diphthongation
