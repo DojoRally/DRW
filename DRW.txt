@@ -312856,3 +312856,4 @@ athetesis
 anemometrograph
 nincom
 wildern
+hemispherule
