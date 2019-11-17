@@ -263677,3 +263677,4 @@ amplificator
 dynodes
 prefectorially
 nonextraneous
+luddy
