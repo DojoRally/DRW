@@ -343785,3 +343785,4 @@ clear
 circumlunar
 prederive
 jugulars
+armipotence
