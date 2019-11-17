@@ -316941,3 +316941,4 @@ translatable
 avulse
 unarmedly
 lapidation
+compurgatory
