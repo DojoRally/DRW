@@ -360443,3 +360443,4 @@ adamantoid
 antelude
 aosmic
 sandiness
+effectuality
