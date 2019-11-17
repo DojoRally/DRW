@@ -365970,3 +365970,4 @@ statesmanlike
 sacculina
 superpersonalism
 denotational
+metaphrasis
