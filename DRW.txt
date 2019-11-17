@@ -277024,3 +277024,4 @@ skilfish
 semideponent
 flexor
 bishopless
+aspartate
