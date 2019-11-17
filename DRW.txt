@@ -264593,3 +264593,4 @@ trapezohedron
 misconstrues
 thermoluminescent
 barnstorm
+uncurl
