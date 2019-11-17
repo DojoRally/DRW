@@ -300441,3 +300441,4 @@ suborbital
 verifiable
 firstcomer
 astrometeorologist
+levanters
