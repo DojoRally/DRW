@@ -271847,3 +271847,4 @@ tostication
 geomagnetism
 acceptances
 scrutinizingly
+monoptic
