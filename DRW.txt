@@ -331089,3 +331089,4 @@ flectional
 fivebar
 hemitype
 anasazi
+chanco
