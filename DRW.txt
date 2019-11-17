@@ -365174,3 +365174,4 @@ quippy
 raffinate
 castigate
 semipermanently
+interjection
