@@ -368586,3 +368586,4 @@ waikly
 transmissometer
 chronometer
 subovoid
+tungah
