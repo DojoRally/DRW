@@ -356225,3 +356225,4 @@ nondeclaration
 vocabularied
 torque
 usurer
+morphophonemically
