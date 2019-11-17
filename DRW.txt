@@ -357382,3 +357382,4 @@ completions
 symmetrian
 northering
 socratism
+syringotome
