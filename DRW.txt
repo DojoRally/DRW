@@ -266378,3 +266378,4 @@ determinacy
 agrestis
 trimstone
 granilla
+sprightful
