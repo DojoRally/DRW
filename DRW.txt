@@ -314352,3 +314352,4 @@ monitress
 equalable
 subslots
 reinfusion
+tentaculoid
