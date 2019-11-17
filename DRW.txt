@@ -352242,3 +352242,4 @@ clambering
 transfuge
 pirojki
 antrophore
+expansivity
