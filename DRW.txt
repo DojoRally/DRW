@@ -280400,3 +280400,4 @@ katakana
 couranto
 hor
 korwa
+equisized
