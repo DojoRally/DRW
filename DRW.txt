@@ -290406,3 +290406,4 @@ relightener
 unascertainableness
 untrill
 anisocoria
+hyperopic
