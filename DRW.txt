@@ -268676,3 +268676,4 @@ lamest
 overannotate
 rewidens
 prolepses
+descry
