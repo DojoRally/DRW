@@ -313741,3 +313741,4 @@ substitution
 playpen
 intercessional
 dismaw
+telecommunications
