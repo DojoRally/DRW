@@ -292302,3 +292302,4 @@ stational
 degrading
 nonpersuasible
 emigration
+prevalescence
