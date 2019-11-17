@@ -272873,3 +272873,4 @@ tribophysics
 scoad
 redos
 pear
+pericarditic
