@@ -305233,3 +305233,4 @@ aircrew
 antipapalist
 troppaia
 colubrids
+capitalizable
