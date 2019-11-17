@@ -305132,3 +305132,4 @@ blowpoint
 compulsoriness
 supercomplexities
 lechwe
+descriptive
