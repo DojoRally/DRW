@@ -332943,3 +332943,4 @@ wielders
 subvassal
 conductible
 depravation
+ephorates
