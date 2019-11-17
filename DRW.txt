@@ -305440,3 +305440,4 @@ libellee
 twistability
 indicators
 lion
+koruna
