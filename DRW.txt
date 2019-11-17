@@ -324583,3 +324583,4 @@ confinements
 granitiferous
 masticurous
 reacclimating
+nonaccommodating
