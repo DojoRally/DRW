@@ -353224,3 +353224,4 @@ dorsifixed
 undauntable
 quadrifilar
 equibalanced
+arith
