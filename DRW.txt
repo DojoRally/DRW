@@ -267093,3 +267093,4 @@ ling
 spot
 palaemon
 elongate
+linearizing
