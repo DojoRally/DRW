@@ -331778,3 +331778,4 @@ rootiness
 tenaktak
 minimisation
 siderographical
+pentagonohedron
