@@ -361120,3 +361120,4 @@ supertonic
 tunner
 craccus
 hebraized
+spadonic
