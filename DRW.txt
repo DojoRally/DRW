@@ -269515,3 +269515,4 @@ terrapene
 semiprostrate
 ultraterrestrial
 tolsester
+detick
