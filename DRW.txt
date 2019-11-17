@@ -291665,3 +291665,4 @@ properties
 spermatial
 hirstie
 automatic
+untemptability
