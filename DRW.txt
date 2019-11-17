@@ -353420,3 +353420,4 @@ tangile
 contracted
 phaenogamic
 euplastic
+semisquare
