@@ -272388,3 +272388,4 @@ chirogymnast
 sinological
 shelduck
 lanternlit
+semisupine
