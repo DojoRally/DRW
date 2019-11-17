@@ -325004,3 +325004,4 @@ sog
 tripewoman
 assimilated
 invalidness
+tersely
