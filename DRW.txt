@@ -338282,3 +338282,4 @@ solons
 built
 cartmaker
 cleave
+sprights
