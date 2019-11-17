@@ -263646,3 +263646,4 @@ nonadmissibly
 chromatoptometer
 summerweight
 spaetzle
+dogged
