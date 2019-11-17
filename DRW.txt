@@ -292411,3 +292411,4 @@ graphotype
 mastered
 alhagi
 engleim
+accusatively
