@@ -337721,3 +337721,4 @@ nonsobriety
 cicad
 hundredths
 nonirrational
+stringency
