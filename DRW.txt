@@ -300892,3 +300892,4 @@ oshac
 spellproof
 antienvironmentalist
 caperwort
+unsharable
