@@ -289797,3 +289797,4 @@ superequivalent
 illuminance
 rubdown
 scrawly
+policemanlike
