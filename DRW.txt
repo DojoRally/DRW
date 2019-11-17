@@ -323784,3 +323784,4 @@ panlogistic
 anaxial
 unshelve
 spandrel
+unspurned
