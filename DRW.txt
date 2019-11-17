@@ -289238,3 +289238,4 @@ hypomnesis
 dejectile
 gapping
 tripunctal
+hektometer
