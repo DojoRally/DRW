@@ -284969,3 +284969,4 @@ oligosyllable
 subelemental
 gamodemes
 splint
+supposital
