@@ -312502,3 +312502,4 @@ arad
 datapac
 adigei
 binodose
+amper
