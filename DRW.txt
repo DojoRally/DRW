@@ -349421,3 +349421,4 @@ shakes
 pipkins
 following
 iroko
+entails
