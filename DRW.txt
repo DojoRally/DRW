@@ -312166,3 +312166,4 @@ minimals
 swellheaded
 postsynaptic
 chalcidiform
+parentelic
