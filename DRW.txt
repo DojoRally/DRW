@@ -304928,3 +304928,4 @@ hesychastic
 lutestring
 sewless
 turtlebloom
+resolving
