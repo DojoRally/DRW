@@ -290680,3 +290680,4 @@ lune
 prionodesmatic
 ale
 kartometer
+palatal
