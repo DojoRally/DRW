@@ -365969,3 +365969,4 @@ testily
 statesmanlike
 sacculina
 superpersonalism
+denotational
