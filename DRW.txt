@@ -333950,3 +333950,4 @@ aldol
 clerids
 shatterable
 pinnigrade
+tubulostriato
