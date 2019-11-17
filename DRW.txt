@@ -305874,3 +305874,4 @@ derivable
 nondocumental
 fronde
 arrhenotoky
+closefistedness
