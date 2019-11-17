@@ -301505,3 +301505,4 @@ pial
 emicant
 colloquial
 unseasonable
+blattoid
