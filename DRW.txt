@@ -296685,3 +296685,4 @@ electrothermometer
 floccular
 quistron
 brattling
+dietrichite
