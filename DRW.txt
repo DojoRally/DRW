@@ -367912,3 +367912,4 @@ shakescene
 acescency
 unfretted
 canalicular
+nontransferability
