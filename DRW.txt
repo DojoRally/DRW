@@ -318932,3 +318932,4 @@ mormyr
 celiosalpingectomy
 umist
 noncombustive
+indigometer
