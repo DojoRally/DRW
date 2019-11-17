@@ -300757,3 +300757,4 @@ monoxide
 deponents
 chicayote
 paramagnet
+stunted
