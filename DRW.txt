@@ -269224,3 +269224,4 @@ hosteling
 variegation
 rheostats
 mycogone
+scopa
