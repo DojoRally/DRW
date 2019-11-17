@@ -348083,3 +348083,4 @@ bewailable
 cert
 tutelage
 disculpatory
+recapitulates
