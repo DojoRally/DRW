@@ -303394,3 +303394,4 @@ sextuplets
 hymenaic
 substrator
 prognosticator
+curatively
