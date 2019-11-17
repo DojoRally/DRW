@@ -333940,3 +333940,4 @@ trivializing
 remonetizing
 tamest
 wimblelike
+panoply
