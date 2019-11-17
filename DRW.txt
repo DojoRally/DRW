@@ -278963,3 +278963,4 @@ neoclassicist
 hugo
 spumiform
 spangle
+duologs
