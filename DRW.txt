@@ -347175,3 +347175,4 @@ decarnate
 colunar
 internity
 refined
+coversine
