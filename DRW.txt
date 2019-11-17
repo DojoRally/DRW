@@ -347294,3 +347294,4 @@ formicinae
 lobsters
 station
 waisters
+pasteur
