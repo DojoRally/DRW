@@ -321761,3 +321761,4 @@ juratory
 mispronouncement
 counterdeclaration
 unpaced
+ataraxy
