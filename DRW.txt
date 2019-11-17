@@ -293851,3 +293851,4 @@ grayish
 coulisse
 circumpolygon
 diarch
+decentred
