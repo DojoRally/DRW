@@ -301799,3 +301799,4 @@ heptoic
 templum
 pinacolic
 polytope
+compactedly
