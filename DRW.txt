@@ -316156,3 +316156,4 @@ depictor
 regmacarp
 allolalic
 sowing
+trichevron
