@@ -319179,3 +319179,4 @@ feasances
 scoters
 portability
 unrank
+unencored
