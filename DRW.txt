@@ -290587,3 +290587,4 @@ delocalised
 aziola
 catalinite
 polygyria
+semifuturistic
