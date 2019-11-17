@@ -330430,3 +330430,4 @@ pumicated
 communicatory
 beode
 autosign
+decorticator
