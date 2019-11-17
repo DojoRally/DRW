@@ -271251,3 +271251,4 @@ fossorial
 strandline
 uprivers
 homogone
+everted
