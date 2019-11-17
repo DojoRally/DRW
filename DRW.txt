@@ -292792,3 +292792,4 @@ syphiloid
 commencement
 tentage
 metropolis
+extracapsular
