@@ -292067,3 +292067,4 @@ prenames
 viricidal
 luminaire
 unsalvageable
+entitule
