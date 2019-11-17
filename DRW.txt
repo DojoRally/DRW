@@ -268082,3 +268082,4 @@ equation
 workless
 nonnegligibility
 tragicomedy
+nontransience
