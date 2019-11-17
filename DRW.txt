@@ -358009,3 +358009,4 @@ decipherment
 angularity
 amtracs
 extravagancies
+lucernal
