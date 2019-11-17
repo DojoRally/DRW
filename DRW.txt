@@ -300603,3 +300603,4 @@ infecter
 superadds
 bedirter
 disheriting
+rinderpest
