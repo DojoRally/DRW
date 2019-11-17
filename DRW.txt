@@ -315214,3 +315214,4 @@ readies
 equus
 unbalancement
 gnow
+diminishment
