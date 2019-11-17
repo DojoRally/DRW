@@ -268705,3 +268705,4 @@ subtriplication
 resinous
 archband
 quadrupedantical
+oscillators
