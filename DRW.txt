@@ -299357,3 +299357,4 @@ breakthrough
 meu
 understep
 shamefully
+leftwardly
