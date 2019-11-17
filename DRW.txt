@@ -278962,3 +278962,4 @@ culbute
 neoclassicist
 hugo
 spumiform
+spangle
