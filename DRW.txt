@@ -301895,3 +301895,4 @@ galvanoglyph
 serrefile
 sawway
 naveled
+deliquescent
