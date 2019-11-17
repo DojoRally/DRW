@@ -307982,3 +307982,4 @@ dissuasion
 pseudoparenchyma
 unassuageable
 infelicific
+homoscedastic
