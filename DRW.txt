@@ -313382,3 +313382,4 @@ expurgatory
 epitra
 consubstantialist
 turcopole
+luxates
