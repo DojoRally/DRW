@@ -302641,3 +302641,4 @@ locoman
 ampelite
 berkeleian
 assayable
+shechemites
