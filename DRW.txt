@@ -296686,3 +296686,4 @@ floccular
 quistron
 brattling
 dietrichite
+bactrian
