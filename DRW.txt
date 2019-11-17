@@ -266439,3 +266439,4 @@ undercapitalized
 peninsula
 aletaster
 amphiboly
+oocyst
