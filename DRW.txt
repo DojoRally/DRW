@@ -291151,3 +291151,4 @@ igniters
 newspeaks
 playacts
 pluffer
+refractoriness
