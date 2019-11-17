@@ -287749,3 +287749,4 @@ kobolds
 natalitial
 pox
 selfsufficiency
+encastrement
