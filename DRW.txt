@@ -354081,3 +354081,4 @@ crimples
 inshell
 indigoid
 polysepalous
+detailed
