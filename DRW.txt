@@ -283462,3 +283462,4 @@ unsprayable
 gnathometer
 plebianism
 scorified
+thermostated
