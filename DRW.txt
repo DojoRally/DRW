@@ -369579,3 +369579,4 @@ jt
 globulite
 crocoisite
 agnoite
+polygala
