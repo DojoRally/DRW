@@ -278250,3 +278250,4 @@ neotypes
 adverbiation
 insufficient
 asklent
+leprine
