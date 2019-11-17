@@ -285711,3 +285711,4 @@ madeiran
 allays
 traces
 affa
+manent
