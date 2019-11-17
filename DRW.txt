@@ -284964,3 +284964,4 @@ scutum
 astart
 guazzo
 penetrating
+ursone
