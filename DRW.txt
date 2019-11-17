@@ -367182,3 +367182,4 @@ autarch
 facies
 meningomalacia
 rhoecus
+pauperage
