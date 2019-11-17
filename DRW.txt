@@ -269945,3 +269945,4 @@ ostensory
 manichord
 pressiroster
 coalescence
+perendinate
