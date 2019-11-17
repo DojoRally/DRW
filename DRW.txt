@@ -286624,3 +286624,4 @@ plurisyllabic
 instar
 oughtnt
 mistend
+uncompoundedly
