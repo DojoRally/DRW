@@ -290508,3 +290508,4 @@ traceries
 clamatory
 residuation
 maligned
+untempered
