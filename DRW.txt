@@ -287743,3 +287743,4 @@ unrotatory
 explosiveness
 placability
 sorbian
+phalangette
