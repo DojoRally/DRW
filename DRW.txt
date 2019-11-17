@@ -334732,3 +334732,4 @@ peribolus
 recandidacy
 quiescence
 myocardia
+sinistrogyrate
