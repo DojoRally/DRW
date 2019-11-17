@@ -313401,3 +313401,4 @@ anatripsis
 waterbank
 connivent
 sergeantfishes
+gyrocompass
