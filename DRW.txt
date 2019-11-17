@@ -293257,3 +293257,4 @@ dugouts
 unspeaks
 sumpture
 bhojpuri
+polysyllabic
