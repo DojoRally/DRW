@@ -313567,3 +313567,4 @@ apostrophal
 anteconsonantal
 mantevil
 sandblind
+blanco
