@@ -272461,3 +272461,4 @@ anteal
 rescoring
 sandemanism
 spiniform
+syllogiser
