@@ -338427,3 +338427,4 @@ isotropil
 spaghetti
 tithonometer
 imitatrix
+informatory
