@@ -313793,3 +313793,4 @@ steganography
 turnhall
 enfeebler
 demijohn
+affidavit
