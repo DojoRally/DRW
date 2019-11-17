@@ -291657,3 +291657,4 @@ codominant
 whiteout
 aperiodic
 squeezers
+goethite
