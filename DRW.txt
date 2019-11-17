@@ -283163,3 +283163,4 @@ patterns
 inferiorism
 chicle
 pervertive
+diurn
