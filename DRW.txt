@@ -286415,3 +286415,4 @@ ne
 immobilize
 hizz
 gelatinising
+depreciator
