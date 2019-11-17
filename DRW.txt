@@ -293868,3 +293868,4 @@ hypsilophodontoid
 trink
 washbasins
 hathi
+ores
