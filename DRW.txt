@@ -310184,3 +310184,4 @@ pestle
 antarctical
 megafog
 semioval
+nonallegoric
