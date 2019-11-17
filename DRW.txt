@@ -264192,3 +264192,4 @@ noninfusible
 autoretardation
 coset
 thermotensile
+declaring
