@@ -318680,3 +318680,4 @@ advancingly
 delegable
 lozenged
 matrices
+misadjustment
