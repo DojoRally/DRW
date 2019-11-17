@@ -338453,3 +338453,4 @@ sprinklingly
 aperture
 outcrawls
 repeatability
+subelliptical
