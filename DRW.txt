@@ -359876,3 +359876,4 @@ dangerfully
 hypocleidian
 vocal
 epilogic
+shiftable
