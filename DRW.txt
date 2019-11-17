@@ -325373,3 +325373,4 @@ pycnostyle
 segues
 protractible
 pentaploid
+electroluminescent
