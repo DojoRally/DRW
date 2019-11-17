@@ -323498,3 +323498,4 @@ monopolarity
 aponeurosis
 climacterial
 tsun
+semiaperture
