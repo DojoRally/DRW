@@ -369578,3 +369578,4 @@ descant
 jt
 globulite
 crocoisite
+agnoite
