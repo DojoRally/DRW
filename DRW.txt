@@ -288812,3 +288812,4 @@ unborrowed
 binning
 autographometer
 frab
+pow
