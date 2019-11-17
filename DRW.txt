@@ -294571,3 +294571,4 @@ quadrijugate
 octodecillionth
 cutaneal
 subhorizontalness
+typecase
