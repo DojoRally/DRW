@@ -268432,3 +268432,4 @@ sentimentalizer
 dilatedly
 forewish
 alligate
+dungeoner
