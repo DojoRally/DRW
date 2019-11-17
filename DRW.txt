@@ -353532,3 +353532,4 @@ floorward
 hagiology
 immatchable
 paedagogue
+adaptometer
