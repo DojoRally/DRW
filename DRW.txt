@@ -312628,3 +312628,4 @@ chiasmal
 prosenchymas
 reciprocal
 difform
+diminished
