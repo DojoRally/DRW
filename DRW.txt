@@ -296109,3 +296109,4 @@ noncapitalized
 perversities
 restore
 exceptioner
+stringent
