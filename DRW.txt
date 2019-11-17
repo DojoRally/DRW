@@ -315940,3 +315940,4 @@ instroke
 isophenomenal
 interreges
 presences
+acceleration
