@@ -331652,3 +331652,4 @@ wus
 troop
 cementification
 falding
+sporogonic
