@@ -341583,3 +341583,4 @@ forwarder
 pseudogenuses
 asarums
 steads
+leprosied
