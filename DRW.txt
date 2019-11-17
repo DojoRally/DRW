@@ -290111,3 +290111,4 @@ spectrofluorimeter
 antigorite
 intervalling
 subinspector
+funic
