@@ -293945,3 +293945,4 @@ socketed
 pulsator
 finagler
 weathergleam
+imperfect
