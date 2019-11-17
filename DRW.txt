@@ -268675,3 +268675,4 @@ dorsiventrality
 lamest
 overannotate
 rewidens
+prolepses
