@@ -307182,3 +307182,4 @@ superoanterior
 schematizer
 evocations
 amplification
+cursors
