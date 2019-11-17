@@ -293958,3 +293958,4 @@ bridgepot
 kmole
 equipartile
 finickin
+soln
