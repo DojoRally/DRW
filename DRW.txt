@@ -289961,3 +289961,4 @@ unrevelationize
 architecture
 misguess
 sprag
+peritrichous
