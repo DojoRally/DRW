@@ -275096,3 +275096,4 @@ fuseau
 pendulate
 temperable
 tramp
+impersuadable
