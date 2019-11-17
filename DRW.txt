@@ -306026,3 +306026,4 @@ cuckoopintle
 illegal
 monologic
 nipmuc
+shock
