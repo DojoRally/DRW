@@ -369234,3 +369234,4 @@ unnormalness
 insurgentism
 teachability
 wiseacres
+metonymical
