@@ -323516,3 +323516,4 @@ extogenous
 subclass
 disbud
 nonexpediently
+thermomagnetic
