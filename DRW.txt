@@ -287127,3 +287127,4 @@ seating
 photoduplication
 mythologema
 lactifying
+deictic
