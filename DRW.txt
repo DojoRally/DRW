@@ -358628,3 +358628,4 @@ rhumbatron
 aphetic
 girder
 concavely
+staning
