@@ -269625,3 +269625,4 @@ logginess
 extraterritorials
 isoclinically
 dorsoventrad
+costoapical
