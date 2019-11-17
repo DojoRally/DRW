@@ -318994,3 +318994,4 @@ dissent
 whereof
 sectaries
 rubefaction
+allegiances
