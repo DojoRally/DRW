@@ -300429,3 +300429,4 @@ peace
 noncompliance
 retried
 migrators
+decretalist
