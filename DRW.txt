@@ -277483,3 +277483,4 @@ etymologizable
 decus
 planet
 temporising
+receptiveness
