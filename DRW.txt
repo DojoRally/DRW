@@ -271129,3 +271129,4 @@ barograms
 kizil
 abuna
 scissure
+nonborrowing
