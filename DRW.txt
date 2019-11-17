@@ -301642,3 +301642,4 @@ allegate
 phrasify
 redefines
 polychaetous
+armorial
