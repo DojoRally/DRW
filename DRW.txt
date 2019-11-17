@@ -346788,3 +346788,4 @@ manichordon
 microcode
 realgar
 abnegates
+labiovelarized
