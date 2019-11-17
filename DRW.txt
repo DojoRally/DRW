@@ -314464,3 +314464,4 @@ overlearned
 coappriser
 calelectricity
 decodes
+memoried
