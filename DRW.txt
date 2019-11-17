@@ -300220,3 +300220,4 @@ germanism
 bitstocks
 alstonia
 peavine
+syndactyli
