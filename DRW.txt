@@ -313651,3 +313651,4 @@ lashes
 unpartable
 unaccumulatively
 antefurcal
+assumable
