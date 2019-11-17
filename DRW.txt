@@ -325812,3 +325812,4 @@ henlike
 switchman
 loculous
 clapotis
+foldable
