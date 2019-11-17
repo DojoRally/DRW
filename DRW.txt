@@ -355179,3 +355179,4 @@ hyponymous
 contingentness
 overarches
 maskoid
+cormoid
