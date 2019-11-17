@@ -367530,3 +367530,4 @@ panside
 unvoluntariness
 nonoptimistic
 intrinsically
+stasimetric
