@@ -269494,3 +269494,4 @@ handsbreadth
 parries
 baffler
 doormaker
+unenterable
