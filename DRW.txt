@@ -285346,3 +285346,4 @@ charre
 epochal
 talaria
 shifts
+meteorically
