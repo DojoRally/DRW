@@ -293916,3 +293916,4 @@ hemidome
 ratiometer
 coater
 sorediform
+bernicia
