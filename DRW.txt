@@ -321938,3 +321938,4 @@ sonlike
 disagreed
 subsegment
 nonsynchronal
+samogon
