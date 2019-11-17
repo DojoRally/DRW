@@ -277556,3 +277556,4 @@ enclitics
 luri
 undiamonded
 nonvulcanized
+crosscurrented
