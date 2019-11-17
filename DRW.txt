@@ -353750,3 +353750,4 @@ acreable
 jehovic
 foehnlike
 rotometer
+nonspecializing
