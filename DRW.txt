@@ -296540,3 +296540,4 @@ precandidacy
 dispost
 nontraditionalistic
 toric
+tallit
