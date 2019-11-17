@@ -282408,3 +282408,4 @@ hasinai
 abbandono
 snail
 slidderness
+thermistors
