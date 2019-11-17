@@ -294483,3 +294483,4 @@ colorimetric
 holotype
 ovivorous
 verty
+schistose
