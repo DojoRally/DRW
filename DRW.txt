@@ -354543,3 +354543,4 @@ ambitendencies
 escapees
 vernacularised
 sunderer
+telotype
