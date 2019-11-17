@@ -326665,3 +326665,4 @@ opdalite
 nondetachable
 leered
 vitalises
+solecizes
