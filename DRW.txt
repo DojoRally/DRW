@@ -285622,3 +285622,4 @@ shiverers
 bascinet
 valedictory
 quartan
+heteroscedasticity
