@@ -292706,3 +292706,4 @@ anormal
 hemiplegia
 leukocytic
 stentorious
+kn
