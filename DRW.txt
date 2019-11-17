@@ -292605,3 +292605,4 @@ prophetically
 lottery
 ital
 nakir
+verbatim
