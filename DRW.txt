@@ -292028,3 +292028,4 @@ electrifiers
 rejoining
 leucadian
 interemption
+hyperisotonic
