@@ -307001,3 +307001,4 @@ concomitancy
 misassert
 skirtboard
 noncontinuance
+bore
