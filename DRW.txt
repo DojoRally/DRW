@@ -264090,3 +264090,4 @@ portmantle
 nonesuch
 filatures
 succulent
+curval
