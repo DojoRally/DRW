@@ -283193,3 +283193,4 @@ minimums
 rejections
 idiotropian
 guerite
+tricrotic
