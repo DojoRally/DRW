@@ -283303,3 +283303,4 @@ selsyn
 postreduction
 argilloferruginous
 beglic
+pseudoapplicative
