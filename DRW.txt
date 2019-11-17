@@ -368725,3 +368725,4 @@ addio
 galvanometer
 depressors
 tessaraphthong
+dyslexia
