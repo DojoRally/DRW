@@ -284963,3 +284963,4 @@ laelia
 scutum
 astart
 guazzo
+penetrating
