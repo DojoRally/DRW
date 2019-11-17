@@ -333520,3 +333520,4 @@ exertion
 interentangled
 prevalency
 molecularity
+exospore
