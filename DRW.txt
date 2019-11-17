@@ -362836,3 +362836,4 @@ superelastic
 omnilingual
 inexpertness
 disconsonancy
+astrictiveness
