@@ -317325,3 +317325,4 @@ pephredo
 legpuller
 tabularizing
 spheroidical
+characterised
