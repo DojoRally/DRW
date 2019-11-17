@@ -369076,3 +369076,4 @@ tensometer
 thermidorian
 thumbmark
 dittoed
+truncate
