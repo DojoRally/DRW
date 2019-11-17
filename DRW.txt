@@ -319337,3 +319337,4 @@ stripper
 snitcher
 faculties
 undeadly
+prolongable
