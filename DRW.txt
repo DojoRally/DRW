@@ -273672,3 +273672,4 @@ fatteners
 scourfishes
 pluralize
 thaumantian
+curatorial
