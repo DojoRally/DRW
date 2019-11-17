@@ -286865,3 +286865,4 @@ pruriency
 monotriglyphic
 swashbucklering
 torified
+chiseled
