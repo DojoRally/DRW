@@ -311759,3 +311759,4 @@ housework
 lecama
 ambulation
 praepositus
+proleptic
