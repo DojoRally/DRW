@@ -312504,3 +312504,4 @@ adigei
 binodose
 amper
 alternating
+lexicog
