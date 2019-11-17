@@ -294953,3 +294953,4 @@ repugnancy
 leche
 cushions
 orphaned
+leptomonad
