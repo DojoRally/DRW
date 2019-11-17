@@ -283819,3 +283819,4 @@ adhibits
 ptolemy
 pseudomerism
 transmutableness
+astrosphere
