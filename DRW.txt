@@ -343689,3 +343689,4 @@ ulaula
 taboret
 centigramme
 bedarkening
+midstroke
