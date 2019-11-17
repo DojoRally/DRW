@@ -291859,3 +291859,4 @@ unbroadcast
 delabialize
 precited
 ballistics
+revendicated
