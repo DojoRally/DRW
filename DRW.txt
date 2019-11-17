@@ -285378,3 +285378,4 @@ compenetration
 bismuthite
 galways
 tangfish
+tendre
